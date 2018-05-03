@@ -4,14 +4,14 @@ import MgConfig from "./controllers/MgConfig";
 import { customCORS } from "./controllers/headerController";
 import routePeakvn from "./routes/routePeakvn";
 
-const PORT = process.env.PORT || 3000;
-const IP = process.env.IP || "0.0.0.0";
-const LOG = () =>
+var PORT = process.env.PORT || 3000;
+var IP = process.env.IP || "0.0.0.0";
+var LOG = () =>
   console.log(`Server is listening... ${IP || "localhost"}:${PORT}`); // tslint:disable-line
 
 const app = express();
 // MgConfig.mgConnect();
-app.use(customCORS);
+// app.use(customCORS);
 
 // USE ROUTES
 app.use("/peak-vn/ecsite", routePeakvn);
