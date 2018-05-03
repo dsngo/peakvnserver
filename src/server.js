@@ -10,7 +10,7 @@ const LOG = () =>
   console.log(`Server is listening... ${IP || "localhost"}:${PORT}`); // tslint:disable-line
 
 const app = express();
-MgConfig.mgConnect();
+// MgConfig.mgConnect();
 app.use(customCORS);
 
 // USE ROUTES
