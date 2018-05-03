@@ -1,0 +1,21 @@
+{
+  "ignore": "node_modules",
+  "minified": true,
+  "comments": false,
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "node": "8.10.0"
+        },
+        "loose": true,
+        "modules": "commonjs"
+      }
+    ]
+  ],
+  "plugins": [
+    ["transform-class-properties"],
+    ["transform-object-rest-spread", {"useBuiltIns": true}]
+  ]
+}
