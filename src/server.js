@@ -10,8 +10,8 @@ var LOG = () =>
   console.log(`Server is listening... ${IP || "localhost"}:${PORT}`); // tslint:disable-line
 
 const app = express();
-// MgConfig.mgConnect();
-// app.use(customCORS);
+MgConfig.mgConnect();
+app.use(customCORS);
 
 // USE ROUTES
 app.use("/peak-vn/ecsite", routePeakvn);
@@ -24,4 +24,4 @@ app.get("/", (rq, rs) =>
 console.log(PORT, process.env.PORT);
 console.log(IP, process.env.IP);
 
-app.listen(PORT, LOG);
+app.listen(PORT);
