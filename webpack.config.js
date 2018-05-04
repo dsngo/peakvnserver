@@ -14,6 +14,7 @@ module.exports = (env = {}) => {
   const extensions = ['.js', '.jsx', '.css', '.scss', '.json'];
   // Compiling configurations
   const bundleConfig = {
+    target: 'node',
     context: PATH.root,
     entry: {
       index: './src/server',
@@ -43,13 +44,6 @@ module.exports = (env = {}) => {
     },
   };
   // Webpack configurations
-  if (env.production) {
-    bundleConfig.plugins = [
-      new webpack.DefinePlugin({
-        'process.env.NODE_ENV': '"production"',
-      }),
-    ];
-  }
   const config = [bundleConfig];
   return config;
 };

@@ -7,7 +7,7 @@
       "env",
       {
         "targets": {
-          "node": "8.10.0"
+          "node": "6.11.5"
         },
         "loose": true,
         "modules": "commonjs"
@@ -15,6 +15,7 @@
     ]
   ],
   "plugins": [
+    ["transform-runtime"],
     ["transform-class-properties"],
     ["transform-object-rest-spread", {"useBuiltIns": true}]
   ]
