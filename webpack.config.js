@@ -14,7 +14,7 @@ module.exports = (env = {}) => {
   const extensions = ['.js', '.jsx', '.css', '.scss', '.json'];
   // Compiling configurations
   const bundleConfig = {
-    target: 'node',
+    target: 'node', // VERY IMPORTANT
     context: PATH.root,
     entry: {
       index: './src/server',

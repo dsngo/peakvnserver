@@ -55,4 +55,14 @@ const OrderSchema = new mongoose.Schema({
 });
 const OrderModel = mongoose.model("Order", OrderSchema);
 
-export { ProductModel, OrderModel, UserModel };
+const ContactSchema = new mongoose.Schema({
+  contactName: String,
+  contactPhone: String,
+  contactEmail: String,
+  contactTopic: String,
+  contactQuestion: String,
+  status: String,
+})
+const ContactModel = mongoose.model("Contact", ContactSchema)
+
+export { ProductModel, OrderModel, UserModel, ContactModel };

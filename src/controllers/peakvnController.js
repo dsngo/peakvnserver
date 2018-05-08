@@ -1,4 +1,4 @@
-import { ProductModel, OrderModel } from "../models/Peakvn";
+import { ProductModel, OrderModel, ContactModel } from "../models/Peakvn";
 
 export default class PeakvnController {
   static async clearDB(req, res) {
@@ -37,7 +37,7 @@ export default class PeakvnController {
       res.status(200).send({
         code: 0,
         data: foundProduct,
-        message: "Found Product Item",
+        message: "Found Product Item Successfully",
       });
     } catch (e) {
       res.status(500).send({
@@ -52,7 +52,7 @@ export default class PeakvnController {
       await ProductModel.create(newProduct);
       res.status(200).send({
         code: 0,
-        message: "Add New Product Success",
+        message: "Add New Product Successfully",
       });
     } catch (e) {
       res.status(500).send({
@@ -68,7 +68,7 @@ export default class PeakvnController {
       await ProductModel.findByIdAndUpdate(productObjectId, updatedProduct);
       rs.status(200).send({
         code: 0,
-        message: "Update Product Successful",
+        message: "Update Product Successfully",
       });
     } catch (e) {
       rs.status(500).send({
@@ -83,7 +83,7 @@ export default class PeakvnController {
       res.status(200).send({
         code: 0,
         data: fetchedOrders,
-        message: "Fetched All Orders",
+        message: "Fetched All Orders Successfully",
       });
     } catch (e) {
       res.status(500).send({
@@ -99,7 +99,7 @@ export default class PeakvnController {
       rs.status(200).send({
         code: 0,
         data: foundOrder,
-        message: "Found User Order",
+        message: "Found User Order Successfully",
       });
     } catch (e) {
       rs.status(500).send({
@@ -114,7 +114,7 @@ export default class PeakvnController {
       await OrderModel.create(newOrder);
       res.status(200).send({
         code: 0,
-        message: "Create New Order Success",
+        message: "Tạo đơn hàng thành công, cảm ơn bạn đã mua hàng tại PeakEight",
       });
     } catch (e) {
       res.status(500).send({
@@ -130,7 +130,7 @@ export default class PeakvnController {
       await OrderModel.findByIdAndUpdate(orderObjectId, updatedOrder);
       rs.status(200).send({
         code: 0,
-        message: "Update Order Successful",
+        message: "Update Order Successfully",
       });
     } catch (e) {
       rs.status(500).send({
@@ -145,7 +145,84 @@ export default class PeakvnController {
       await OrderModel.findByIdAndRemove(orderObjectId);
       rs.status(200).send({
         code: 0,
-        message: "Remove Order Successful",
+        message: "Remove Order Successfully",
+      });
+    } catch (e) {
+      rs.status(500).send({
+        code: -1,
+        message: e.message,
+      });
+    }
+  }
+  static async getAllContact(req, res) {
+    try {
+      const fetchedOrders = await ContactModel.find({});
+      res.status(200).send({
+        code: 0,
+        data: fetchedOrders,
+        message: "Fetched All Orders Successfully",
+      });
+    } catch (e) {
+      res.status(500).send({
+        code: -1,
+        data: e.message,
+      });
+    }
+  }
+  static async getContactByObjectId(rq, rs) {
+    try {
+      const { contactObjectId } = rq.params;
+      const foundContact = await ContactModel.findById(contactObjectId);
+      rs.status(200).send({
+        code: 0,
+        data: foundContact,
+        message: "Found Contact Successfully",
+      });
+    } catch (e) {
+      rs.status(500).send({
+        code: -1,
+        message: e.message,
+      });
+    }
+  }
+  static async addNewContact(req, res) {
+    try {
+      const { ...newContact } = req.body;
+      await ContactModel.create(newContact);
+      res.status(200).send({
+        code: 0,
+        message: "Gửi thông tin thành công, cảm ơn bạn đã liên hệ với PeakEight",
+      });
+    } catch (e) {
+      res.status(500).send({
+        code: -1,
+        message: e.message,
+      });
+    }
+  }
+  static async updateContactByObjectId(rq, rs) {
+    try {
+      const { contactObjectId } = rq.params;
+      const { ...updatedContact } = rq.body;
+      await ContactModel.findByIdAndUpdate(contactObjectId, updatedContact);
+      rs.status(200).send({
+        code: 0,
+        message: "Update Contact Successfully",
+      });
+    } catch (e) {
+      rs.status(500).send({
+        code: -1,
+        message: e.message,
+      });
+    }
+  }
+  static async removeContactById(rq, rs) {
+    try {
+      const { contactObjectId } = rq.params;
+      await ContactModel.findByIdAndRemove(contactObjectId);
+      rs.status(200).send({
+        code: 0,
+        message: "Remove Contact Successfully",
       });
     } catch (e) {
       rs.status(500).send({
