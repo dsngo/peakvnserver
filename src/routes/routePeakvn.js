@@ -78,4 +78,6 @@ routePeakvn.delete(
 );
 
 // USER
+// CURRENCY
+routePeakvn.get('/fetch/currency-rate', PeakvnController.fetchCurrencyRate)
 export default routePeakvn;

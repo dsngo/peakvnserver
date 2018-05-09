@@ -1,3 +1,5 @@
+import fetch from "node-fetch";
+import { parseString } from "xml2js";
 import { ProductModel, OrderModel, ContactModel } from "../models/Peakvn";
 
 export default class PeakvnController {
@@ -18,7 +20,7 @@ export default class PeakvnController {
   static async getAllProducts(req, res) {
     try {
       const fetchedProducts = await ProductModel.find({});
-      console.log(fetchedProducts.length)
+      console.log(fetchedProducts.length);
       res.status(200).send({
         code: 0,
         data: fetchedProducts,
@@ -114,7 +116,8 @@ export default class PeakvnController {
       await OrderModel.create(newOrder);
       res.status(200).send({
         code: 0,
-        message: "Tạo đơn hàng thành công, cảm ơn bạn đã mua hàng tại PeakEight",
+        message:
+          "Tạo đơn hàng thành công, cảm ơn bạn đã mua hàng tại PeakEight",
       });
     } catch (e) {
       res.status(500).send({
@@ -191,7 +194,8 @@ export default class PeakvnController {
       await ContactModel.create(newContact);
       res.status(200).send({
         code: 0,
-        message: "Gửi thông tin thành công, cảm ơn bạn đã liên hệ với PeakEight",
+        message:
+          "Gửi thông tin thành công, cảm ơn bạn đã liên hệ với PeakEight",
       });
     } catch (e) {
       res.status(500).send({
@@ -230,5 +234,20 @@ export default class PeakvnController {
         message: e.message,
       });
     }
+  }
+  static async fetchCurrencyRate(req, res) {
+    fetch("https://www.vietcombank.com.vn/ExchangeRates/ExrateXML.aspx")
+      .then(rs => rs.text())
+      .then(data =>
+        parseString(data, (e, r) =>
+          res.status(200).send(
+            r.ExrateList.Exrate.map(e => ({
+              currencyName: e.$.CurrencyName,
+              currencyCode: e.$.CurrencyCode,
+              sellRate: e.$.Sell,
+            })),
+          ),
+        ),
+      );
   }
 }
