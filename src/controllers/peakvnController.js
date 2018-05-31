@@ -1,6 +1,11 @@
-import fetch from "node-fetch";
-import { parseString } from "xml2js";
-import { ProductModel, OrderModel, ContactModel } from "../models/Peakvn";
+import fetch from 'node-fetch';
+import { parseString } from 'xml2js';
+import {
+  ProductModel,
+  OrderModel,
+  ContactModel,
+  SurveyModel,
+} from '../models/Peakvn';
 
 export default class PeakvnController {
   static async clearDB(req, res) {
@@ -8,7 +13,7 @@ export default class PeakvnController {
       await ProductModel.remove({});
       res.status(200).send({
         code: 0,
-        message: "CLEAR ALL PRODUCTS AND ORDERS",
+        message: 'CLEAR ALL PRODUCTS AND ORDERS',
       });
     } catch (e) {
       res.status(500).send({
@@ -20,7 +25,6 @@ export default class PeakvnController {
   static async getAllProducts(req, res) {
     try {
       const fetchedProducts = await ProductModel.find({});
-      console.log(fetchedProducts.length);
       res.status(200).send({
         code: 0,
         data: fetchedProducts,
@@ -39,7 +43,7 @@ export default class PeakvnController {
       res.status(200).send({
         code: 0,
         data: foundProduct,
-        message: "Found Product Item Successfully",
+        message: 'Found Product Item Successfully',
       });
     } catch (e) {
       res.status(500).send({
@@ -54,7 +58,7 @@ export default class PeakvnController {
       await ProductModel.create(newProduct);
       res.status(200).send({
         code: 0,
-        message: "Add New Product Successfully",
+        message: 'Add New Product Successfully',
       });
     } catch (e) {
       res.status(500).send({
@@ -70,7 +74,7 @@ export default class PeakvnController {
       await ProductModel.findByIdAndUpdate(productObjectId, updatedProduct);
       rs.status(200).send({
         code: 0,
-        message: "Update Product Successfully",
+        message: 'Update Product Successfully',
       });
     } catch (e) {
       rs.status(500).send({
@@ -85,7 +89,7 @@ export default class PeakvnController {
       res.status(200).send({
         code: 0,
         data: fetchedOrders,
-        message: "Fetched All Orders Successfully",
+        message: 'Fetched All Orders Successfully',
       });
     } catch (e) {
       res.status(500).send({
@@ -101,7 +105,7 @@ export default class PeakvnController {
       rs.status(200).send({
         code: 0,
         data: foundOrder,
-        message: "Found User Order Successfully",
+        message: 'Found User Order Successfully',
       });
     } catch (e) {
       rs.status(500).send({
@@ -117,7 +121,7 @@ export default class PeakvnController {
       res.status(200).send({
         code: 0,
         message:
-          "Tạo đơn hàng thành công, cảm ơn bạn đã mua hàng tại PeakEight",
+          'Tạo đơn hàng thành công, cảm ơn bạn đã mua hàng tại PeakEight',
       });
     } catch (e) {
       res.status(500).send({
@@ -133,7 +137,7 @@ export default class PeakvnController {
       await OrderModel.findByIdAndUpdate(orderObjectId, updatedOrder);
       rs.status(200).send({
         code: 0,
-        message: "Update Order Successfully",
+        message: 'Update Order Successfully',
       });
     } catch (e) {
       rs.status(500).send({
@@ -148,7 +152,7 @@ export default class PeakvnController {
       await OrderModel.findByIdAndRemove(orderObjectId);
       rs.status(200).send({
         code: 0,
-        message: "Remove Order Successfully",
+        message: 'Remove Order Successfully',
       });
     } catch (e) {
       rs.status(500).send({
@@ -163,7 +167,7 @@ export default class PeakvnController {
       res.status(200).send({
         code: 0,
         data: fetchedOrders,
-        message: "Fetched All Orders Successfully",
+        message: 'Fetched All Orders Successfully',
       });
     } catch (e) {
       res.status(500).send({
@@ -179,7 +183,7 @@ export default class PeakvnController {
       rs.status(200).send({
         code: 0,
         data: foundContact,
-        message: "Found Contact Successfully",
+        message: 'Found Contact Successfully',
       });
     } catch (e) {
       rs.status(500).send({
@@ -195,7 +199,7 @@ export default class PeakvnController {
       res.status(200).send({
         code: 0,
         message:
-          "Gửi thông tin thành công, cảm ơn bạn đã liên hệ với PeakEight",
+          'Gửi thông tin thành công, cảm ơn bạn đã liên hệ với PeakEight',
       });
     } catch (e) {
       res.status(500).send({
@@ -211,7 +215,7 @@ export default class PeakvnController {
       await ContactModel.findByIdAndUpdate(contactObjectId, updatedContact);
       rs.status(200).send({
         code: 0,
-        message: "Update Contact Successfully",
+        message: 'Update Contact Successfully',
       });
     } catch (e) {
       rs.status(500).send({
@@ -226,7 +230,7 @@ export default class PeakvnController {
       await ContactModel.findByIdAndRemove(contactObjectId);
       rs.status(200).send({
         code: 0,
-        message: "Remove Contact Successfully",
+        message: 'Remove Contact Successfully',
       });
     } catch (e) {
       rs.status(500).send({
@@ -236,7 +240,7 @@ export default class PeakvnController {
     }
   }
   static async fetchCurrencyRate(req, res) {
-    fetch("https://www.vietcombank.com.vn/ExchangeRates/ExrateXML.aspx")
+    fetch('https://www.vietcombank.com.vn/ExchangeRates/ExrateXML.aspx')
       .then(rs => rs.text())
       .then(data =>
         parseString(data, (e, r) =>
@@ -249,5 +253,33 @@ export default class PeakvnController {
           ),
         ),
       );
+  }
+  static async getAllSurvey(req, res) {
+    try {
+      const fetchedSurvey = await SurveyModel.find({});
+      res.status(200).send({
+        code: 0,
+        data: fetchedSurvey,
+      });
+    } catch (e) {
+      res.status(500).send({
+        code: -1,
+        data: e.message,
+      });
+    }
+  }
+  static async addNewSurvey(req, res) {
+    try {
+      await SurveyModel.create({answer: req.body});
+      res.status(200).send({
+        code: 0,
+        message: 'Cảm ơn bạn đã tham gia khảo sát',
+      });
+    } catch (e) {
+      res.status(500).send({
+        code: -1,
+        message: e.message,
+      });
+    }
   }
 }

@@ -1,0 +1,6401 @@
+[
+  {
+    "STT": "1",
+    "MAQUANCHAR": "AGCD",
+    "TEN_QUANHUYEN": "THỊ XÃ CHÂU ĐỐC",
+    "MA_TINH": "AN GIANG_AGG",
+    "CODE_TINH": "AGG",
+    "TEN_DAY_DU": "THỊ XÃ CHÂU ĐỐC-AGCD",
+    "TINH_THANH": "AN_GIANG_AGG"
+  },
+  {
+    "STT": "2",
+    "MAQUANCHAR": "AGPT",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ TÂN",
+    "MA_TINH": "AN GIANG_AGG",
+    "CODE_TINH": "AGG",
+    "TEN_DAY_DU": "HUYỆN PHÚ TÂN-AGPT",
+    "TINH_THANH": "BA_RIA_VUNG_TAU_VTU"
+  },
+  {
+    "STT": "3",
+    "MAQUANCHAR": "AGLX",
+    "TEN_QUANHUYEN": "THÀNH PHỐ LONG XUYÊN",
+    "MA_TINH": "AN GIANG_AGG",
+    "CODE_TINH": "AGG",
+    "TEN_DAY_DU": "THÀNH PHỐ LONG XUYÊN-AGLX",
+    "TINH_THANH": "BAC_GIANG_BGG"
+  },
+  {
+    "STT": "4",
+    "MAQUANCHAR": "AGAP",
+    "TEN_QUANHUYEN": "HUYỆN AN PHÚ",
+    "MA_TINH": "AN GIANG_AGG",
+    "CODE_TINH": "AGG",
+    "TEN_DAY_DU": "HUYỆN AN PHÚ-AGAP",
+    "TINH_THANH": "BAC_KAN_BKN"
+  },
+  {
+    "STT": "5",
+    "MAQUANCHAR": "AGCM",
+    "TEN_QUANHUYEN": "HUYỆN CHỢ MỚI",
+    "MA_TINH": "AN GIANG_AGG",
+    "CODE_TINH": "AGG",
+    "TEN_DAY_DU": "HUYỆN CHỢ MỚI-AGCM",
+    "TINH_THANH": "BAC_LIEU_BLU"
+  },
+  {
+    "STT": "6",
+    "MAQUANCHAR": "AGCP",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU PHÚ",
+    "MA_TINH": "AN GIANG_AGG",
+    "CODE_TINH": "AGG",
+    "TEN_DAY_DU": "HUYỆN CHÂU PHÚ-AGCP",
+    "TINH_THANH": "BAC_NINH_BNH"
+  },
+  {
+    "STT": "7",
+    "MAQUANCHAR": "AGTC",
+    "TEN_QUANHUYEN": "THỊ XÃ TÂN CHÂU",
+    "MA_TINH": "AN GIANG_AGG",
+    "CODE_TINH": "AGG",
+    "TEN_DAY_DU": "THỊ XÃ TÂN CHÂU-AGTC",
+    "TINH_THANH": "BEN_TRE_BTE"
+  },
+  {
+    "STT": "8",
+    "MAQUANCHAR": "AGTB",
+    "TEN_QUANHUYEN": "HUYỆN TỊNH BIÊN",
+    "MA_TINH": "AN GIANG_AGG",
+    "CODE_TINH": "AGG",
+    "TEN_DAY_DU": "HUYỆN TỊNH BIÊN-AGTB",
+    "TINH_THANH": "BINH_DINH_BDH"
+  },
+  {
+    "STT": "9",
+    "MAQUANCHAR": "AGTT",
+    "TEN_QUANHUYEN": "HUYỆN TRI TÔN",
+    "MA_TINH": "AN GIANG_AGG",
+    "CODE_TINH": "AGG",
+    "TEN_DAY_DU": "HUYỆN TRI TÔN-AGTT",
+    "TINH_THANH": "BINH_DUONG_BDG"
+  },
+  {
+    "STT": "10",
+    "MAQUANCHAR": "AGCT",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU THÀNH",
+    "MA_TINH": "AN GIANG_AGG",
+    "CODE_TINH": "AGG",
+    "TEN_DAY_DU": "HUYỆN CHÂU THÀNH-AGCT",
+    "TINH_THANH": "BINH_PHUOC_BPC"
+  },
+  {
+    "STT": "11",
+    "MAQUANCHAR": "AGTS",
+    "TEN_QUANHUYEN": "HUYỆN THOẠI SƠN",
+    "MA_TINH": "AN GIANG_AGG",
+    "CODE_TINH": "AGG",
+    "TEN_DAY_DU": "HUYỆN THOẠI SƠN-AGTS",
+    "TINH_THANH": "BINH_THUAN_BTN"
+  },
+  {
+    "STT": "694",
+    "MAQUANCHAR": "VTBR",
+    "TEN_QUANHUYEN": "THỊ XÃ BÀ RỊA",
+    "MA_TINH": "BA RIA VUNG TAU_VTU",
+    "CODE_TINH": "VTU",
+    "TEN_DAY_DU": "THỊ XÃ BÀ RỊA-VTBR",
+    "TINH_THANH": "CA_MAU_CMU"
+  },
+  {
+    "STT": "695",
+    "MAQUANCHAR": "VTTT",
+    "TEN_QUANHUYEN": "HUYỆN TÂN THÀNH",
+    "MA_TINH": "BA RIA VUNG TAU_VTU",
+    "CODE_TINH": "VTU",
+    "TEN_DAY_DU": "HUYỆN TÂN THÀNH-VTTT",
+    "TINH_THANH": "CAN_THO_CTO"
+  },
+  {
+    "STT": "696",
+    "MAQUANCHAR": "VTXM",
+    "TEN_QUANHUYEN": "HUYỆN XUYÊN MỘC",
+    "MA_TINH": "BA RIA VUNG TAU_VTU",
+    "CODE_TINH": "VTU",
+    "TEN_DAY_DU": "HUYỆN XUYÊN MỘC-VTXM",
+    "TINH_THANH": "CAO_BANG_CBG"
+  },
+  {
+    "STT": "697",
+    "MAQUANCHAR": "VTCC",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU ĐỨC",
+    "MA_TINH": "BA RIA VUNG TAU_VTU",
+    "CODE_TINH": "VTU",
+    "TEN_DAY_DU": "HUYỆN CHÂU ĐỨC-VTCC",
+    "TINH_THANH": "DA_NANG_DNG"
+  },
+  {
+    "STT": "698",
+    "MAQUANCHAR": "VTVT",
+    "TEN_QUANHUYEN": "THÀNH PHỐ VŨNG TÀU",
+    "MA_TINH": "BA RIA VUNG TAU_VTU",
+    "CODE_TINH": "VTU",
+    "TEN_DAY_DU": "THÀNH PHỐ VŨNG TÀU-VTVT",
+    "TINH_THANH": "DAK_LAK_DLK"
+  },
+  {
+    "STT": "699",
+    "MAQUANCHAR": "VTDD",
+    "TEN_QUANHUYEN": "HUYỆN ĐẤT ĐỎ",
+    "MA_TINH": "BA RIA VUNG TAU_VTU",
+    "CODE_TINH": "VTU",
+    "TEN_DAY_DU": "HUYỆN ĐẤT ĐỎ-VTDD",
+    "TINH_THANH": "DAK_NONG_DKG"
+  },
+  {
+    "STT": "700",
+    "MAQUANCHAR": "VTLT",
+    "TEN_QUANHUYEN": "HUYỆN LONG THÀNH",
+    "MA_TINH": "BA RIA VUNG TAU_VTU",
+    "CODE_TINH": "VTU",
+    "TEN_DAY_DU": "HUYỆN LONG THÀNH-VTLT",
+    "TINH_THANH": "DIEN_BIEN_DBN"
+  },
+  {
+    "STT": "701",
+    "MAQUANCHAR": "VTCD",
+    "TEN_QUANHUYEN": "HUYỆN CÔN ĐẢO",
+    "MA_TINH": "BA RIA VUNG TAU_VTU",
+    "CODE_TINH": "VTU",
+    "TEN_DAY_DU": "HUYỆN CÔN ĐẢO-VTCD",
+    "TINH_THANH": "DONG_NAI_DNI"
+  },
+  {
+    "STT": "702",
+    "MAQUANCHAR": "VTLD",
+    "TEN_QUANHUYEN": "HUYỆN LONG ĐIỀN",
+    "MA_TINH": "BA RIA VUNG TAU_VTU",
+    "CODE_TINH": "VTU",
+    "TEN_DAY_DU": "HUYỆN LONG ĐIỀN-VTLD",
+    "TINH_THANH": "DONG_THAP_DTP"
+  },
+  {
+    "STT": "32",
+    "MAQUANCHAR": "BGBG",
+    "TEN_QUANHUYEN": "THÀNH PHỐ BẮC GIANG",
+    "MA_TINH": "BAC GIANG_BGG",
+    "CODE_TINH": "BGG",
+    "TEN_DAY_DU": "THÀNH PHỐ BẮC GIANG-BGBG",
+    "TINH_THANH": "GIA_LAI_GLI"
+  },
+  {
+    "STT": "33",
+    "MAQUANCHAR": "BGHH",
+    "TEN_QUANHUYEN": "HUYỆN HIỆP HÒA",
+    "MA_TINH": "BAC GIANG_BGG",
+    "CODE_TINH": "BGG",
+    "TEN_DAY_DU": "HUYỆN HIỆP HÒA-BGHH",
+    "TINH_THANH": "HA_GIANG_HGG"
+  },
+  {
+    "STT": "34",
+    "MAQUANCHAR": "BGVY",
+    "TEN_QUANHUYEN": "HUYỆN VIỆT YÊN",
+    "MA_TINH": "BAC GIANG_BGG",
+    "CODE_TINH": "BGG",
+    "TEN_DAY_DU": "HUYỆN VIỆT YÊN-BGVY",
+    "TINH_THANH": "HA_NAM_HNM"
+  },
+  {
+    "STT": "35",
+    "MAQUANCHAR": "BGYT",
+    "TEN_QUANHUYEN": "HUYỆN YÊN THẾ",
+    "MA_TINH": "BAC GIANG_BGG",
+    "CODE_TINH": "BGG",
+    "TEN_DAY_DU": "HUYỆN YÊN THẾ-BGYT",
+    "TINH_THANH": "HA_NOI_HNI"
+  },
+  {
+    "STT": "36",
+    "MAQUANCHAR": "BGLN",
+    "TEN_QUANHUYEN": "HUYỆN LỤC NGẠN",
+    "MA_TINH": "BAC GIANG_BGG",
+    "CODE_TINH": "BGG",
+    "TEN_DAY_DU": "HUYỆN LỤC NGẠN-BGLN",
+    "TINH_THANH": "HA_TINH_HTH"
+  },
+  {
+    "STT": "37",
+    "MAQUANCHAR": "BGLG",
+    "TEN_QUANHUYEN": "HUYỆN LẠNG GIANG",
+    "MA_TINH": "BAC GIANG_BGG",
+    "CODE_TINH": "BGG",
+    "TEN_DAY_DU": "HUYỆN LẠNG GIANG-BGLG",
+    "TINH_THANH": "HAI_DUONG_HDG"
+  },
+  {
+    "STT": "38",
+    "MAQUANCHAR": "BGTY",
+    "TEN_QUANHUYEN": "HUYỆN TÂN YÊN",
+    "MA_TINH": "BAC GIANG_BGG",
+    "CODE_TINH": "BGG",
+    "TEN_DAY_DU": "HUYỆN TÂN YÊN-BGTY",
+    "TINH_THANH": "HAI_PHONG_HPG"
+  },
+  {
+    "STT": "39",
+    "MAQUANCHAR": "BGLM",
+    "TEN_QUANHUYEN": "HUYỆN LỤC NAM",
+    "MA_TINH": "BAC GIANG_BGG",
+    "CODE_TINH": "BGG",
+    "TEN_DAY_DU": "HUYỆN LỤC NAM-BGLM",
+    "TINH_THANH": "HAU_GIANG_HUG"
+  },
+  {
+    "STT": "40",
+    "MAQUANCHAR": "BGSD",
+    "TEN_QUANHUYEN": "HUYỆN SƠN ĐỘNG",
+    "MA_TINH": "BAC GIANG_BGG",
+    "CODE_TINH": "BGG",
+    "TEN_DAY_DU": "HUYỆN SƠN ĐỘNG-BGSD",
+    "TINH_THANH": "HO_CHI_MINH_HCM"
+  },
+  {
+    "STT": "41",
+    "MAQUANCHAR": "BGYD",
+    "TEN_QUANHUYEN": "HUYỆN YÊN DŨNG",
+    "MA_TINH": "BAC GIANG_BGG",
+    "CODE_TINH": "BGG",
+    "TEN_DAY_DU": "HUYỆN YÊN DŨNG-BGYD",
+    "TINH_THANH": "HOA_BINH_HBH"
+  },
+  {
+    "STT": "42",
+    "MAQUANCHAR": "BKCM",
+    "TEN_QUANHUYEN": "HUYỆN CHỢ MỚI",
+    "MA_TINH": "BAC KAN_BKN",
+    "CODE_TINH": "BKN",
+    "TEN_DAY_DU": "HUYỆN CHỢ MỚI-BKCM",
+    "TINH_THANH": "HUNG_YEN_HYN"
+  },
+  {
+    "STT": "43",
+    "MAQUANCHAR": "BKCD",
+    "TEN_QUANHUYEN": "HUYỆN CHỢ ĐỒN",
+    "MA_TINH": "BAC KAN_BKN",
+    "CODE_TINH": "BKN",
+    "TEN_DAY_DU": "HUYỆN CHỢ ĐỒN-BKCD",
+    "TINH_THANH": "KHANH_HOA_KHA"
+  },
+  {
+    "STT": "44",
+    "MAQUANCHAR": "BKNS",
+    "TEN_QUANHUYEN": "HUYỆN NGÂN SƠN",
+    "MA_TINH": "BAC KAN_BKN",
+    "CODE_TINH": "BKN",
+    "TEN_DAY_DU": "HUYỆN NGÂN SƠN-BKNS",
+    "TINH_THANH": "KIEN_GIANG_KGG"
+  },
+  {
+    "STT": "45",
+    "MAQUANCHAR": "BKBK",
+    "TEN_QUANHUYEN": "THỊ XÃ BẮC KẠN",
+    "MA_TINH": "BAC KAN_BKN",
+    "CODE_TINH": "BKN",
+    "TEN_DAY_DU": "THỊ XÃ BẮC KẠN-BKBK",
+    "TINH_THANH": "KON_TUM_KTM"
+  },
+  {
+    "STT": "46",
+    "MAQUANCHAR": "BKNR",
+    "TEN_QUANHUYEN": "HUYỆN NA RÌ",
+    "MA_TINH": "BAC KAN_BKN",
+    "CODE_TINH": "BKN",
+    "TEN_DAY_DU": "HUYỆN NA RÌ-BKNR",
+    "TINH_THANH": "LAI_CHAU_LCU"
+  },
+  {
+    "STT": "47",
+    "MAQUANCHAR": "BKBT",
+    "TEN_QUANHUYEN": "HUYỆN BẠCH THÔNG",
+    "MA_TINH": "BAC KAN_BKN",
+    "CODE_TINH": "BKN",
+    "TEN_DAY_DU": "HUYỆN BẠCH THÔNG-BKBT",
+    "TINH_THANH": "LAM_DONG_LDG"
+  },
+  {
+    "STT": "48",
+    "MAQUANCHAR": "BKBB",
+    "TEN_QUANHUYEN": "HUYỆN BA BỂ",
+    "MA_TINH": "BAC KAN_BKN",
+    "CODE_TINH": "BKN",
+    "TEN_DAY_DU": "HUYỆN BA BỂ-BKBB",
+    "TINH_THANH": "LANG_SON_LSN"
+  },
+  {
+    "STT": "49",
+    "MAQUANCHAR": "BKPN",
+    "TEN_QUANHUYEN": "HUYỆN PẮC NẶM",
+    "MA_TINH": "BAC KAN_BKN",
+    "CODE_TINH": "BKN",
+    "TEN_DAY_DU": "HUYỆN PẮC NẶM-BKPN",
+    "TINH_THANH": "LAO_CAI_LCI"
+  },
+  {
+    "STT": "50",
+    "MAQUANCHAR": "BLHB",
+    "TEN_QUANHUYEN": "HUYỆN HÒA BÌNH",
+    "MA_TINH": "BAC LIEU_BLU",
+    "CODE_TINH": "BLU",
+    "TEN_DAY_DU": "HUYỆN HÒA BÌNH-BLHB",
+    "TINH_THANH": "LONG_AN_LAN"
+  },
+  {
+    "STT": "51",
+    "MAQUANCHAR": "BLDH",
+    "TEN_QUANHUYEN": "HUYỆN ĐÔNG HẢI",
+    "MA_TINH": "BAC LIEU_BLU",
+    "CODE_TINH": "BLU",
+    "TEN_DAY_DU": "HUYỆN ĐÔNG HẢI-BLDH",
+    "TINH_THANH": "NAM_DINH_NDH"
+  },
+  {
+    "STT": "52",
+    "MAQUANCHAR": "BLBL",
+    "TEN_QUANHUYEN": "THỊ XÃ BẠC LIÊU",
+    "MA_TINH": "BAC LIEU_BLU",
+    "CODE_TINH": "BLU",
+    "TEN_DAY_DU": "THỊ XÃ BẠC LIÊU-BLBL",
+    "TINH_THANH": "NGHE_AN_NAN"
+  },
+  {
+    "STT": "53",
+    "MAQUANCHAR": "BLGR",
+    "TEN_QUANHUYEN": "HUYỆN GIÁ RAI",
+    "MA_TINH": "BAC LIEU_BLU",
+    "CODE_TINH": "BLU",
+    "TEN_DAY_DU": "HUYỆN GIÁ RAI-BLGR",
+    "TINH_THANH": "NINH_BINH_NBH"
+  },
+  {
+    "STT": "54",
+    "MAQUANCHAR": "BLVL",
+    "TEN_QUANHUYEN": "HUYỆN VĨNH LỢI",
+    "MA_TINH": "BAC LIEU_BLU",
+    "CODE_TINH": "BLU",
+    "TEN_DAY_DU": "HUYỆN VĨNH LỢI-BLVL",
+    "TINH_THANH": "NINH_THUAN_NTN"
+  },
+  {
+    "STT": "55",
+    "MAQUANCHAR": "BLHD",
+    "TEN_QUANHUYEN": "HUYỆN HỒNG DÂN",
+    "MA_TINH": "BAC LIEU_BLU",
+    "CODE_TINH": "BLU",
+    "TEN_DAY_DU": "HUYỆN HỒNG DÂN-BLHD",
+    "TINH_THANH": "PHU_THO_PHO"
+  },
+  {
+    "STT": "56",
+    "MAQUANCHAR": "BLPL",
+    "TEN_QUANHUYEN": "HUYỆN PHƯỚC LONG",
+    "MA_TINH": "BAC LIEU_BLU",
+    "CODE_TINH": "BLU",
+    "TEN_DAY_DU": "HUYỆN PHƯỚC LONG-BLPL",
+    "TINH_THANH": "PHU_YEN_PYN"
+  },
+  {
+    "STT": "57",
+    "MAQUANCHAR": "BNLT",
+    "TEN_QUANHUYEN": "HUYỆN LƯƠNG TÀI",
+    "MA_TINH": "BAC NINH_BNH",
+    "CODE_TINH": "BNH",
+    "TEN_DAY_DU": "HUYỆN LƯƠNG TÀI-BNLT",
+    "TINH_THANH": "QUANG_BINH_QBH"
+  },
+  {
+    "STT": "58",
+    "MAQUANCHAR": "BNBN",
+    "TEN_QUANHUYEN": "THÀNH PHỐ BẮC NINH",
+    "MA_TINH": "BAC NINH_BNH",
+    "CODE_TINH": "BNH",
+    "TEN_DAY_DU": "THÀNH PHỐ BẮC NINH-BNBN",
+    "TINH_THANH": "QUANG_NAM_QNM"
+  },
+  {
+    "STT": "59",
+    "MAQUANCHAR": "BNGB",
+    "TEN_QUANHUYEN": "HUYỆN GIA BÌNH",
+    "MA_TINH": "BAC NINH_BNH",
+    "CODE_TINH": "BNH",
+    "TEN_DAY_DU": "HUYỆN GIA BÌNH-BNGB",
+    "TINH_THANH": "QUANG_NGAI_QNI"
+  },
+  {
+    "STT": "60",
+    "MAQUANCHAR": "BNTT",
+    "TEN_QUANHUYEN": "HUYỆN THUẬN THÀNH",
+    "MA_TINH": "BAC NINH_BNH",
+    "CODE_TINH": "BNH",
+    "TEN_DAY_DU": "HUYỆN THUẬN THÀNH-BNTT",
+    "TINH_THANH": "QUANG_NINH_QNH"
+  },
+  {
+    "STT": "61",
+    "MAQUANCHAR": "BNQV",
+    "TEN_QUANHUYEN": "HUYỆN QUẾ VÕ",
+    "MA_TINH": "BAC NINH_BNH",
+    "CODE_TINH": "BNH",
+    "TEN_DAY_DU": "HUYỆN QUẾ VÕ-BNQV",
+    "TINH_THANH": "QUANG_TRI_QTI"
+  },
+  {
+    "STT": "62",
+    "MAQUANCHAR": "BNYP",
+    "TEN_QUANHUYEN": "HUYỆN YÊN PHONG",
+    "MA_TINH": "BAC NINH_BNH",
+    "CODE_TINH": "BNH",
+    "TEN_DAY_DU": "HUYỆN YÊN PHONG-BNYP",
+    "TINH_THANH": "SOC_TRANG_STG"
+  },
+  {
+    "STT": "63",
+    "MAQUANCHAR": "BNTD",
+    "TEN_QUANHUYEN": "HUYỆN TIÊN DU",
+    "MA_TINH": "BAC NINH_BNH",
+    "CODE_TINH": "BNH",
+    "TEN_DAY_DU": "HUYỆN TIÊN DU-BNTD",
+    "TINH_THANH": "SON_LA_SLA"
+  },
+  {
+    "STT": "64",
+    "MAQUANCHAR": "BNTS",
+    "TEN_QUANHUYEN": "HUYỆN TỪ SƠN",
+    "MA_TINH": "BAC NINH_BNH",
+    "CODE_TINH": "BNH",
+    "TEN_DAY_DU": "HUYỆN TỪ SƠN-BNTS",
+    "TINH_THANH": "TAY_NINH_TNH"
+  },
+  {
+    "STT": "75",
+    "MAQUANCHAR": "BTBI",
+    "TEN_QUANHUYEN": "HUYỆN BA TRI",
+    "MA_TINH": "BEN TRE_BTE",
+    "CODE_TINH": "BTE",
+    "TEN_DAY_DU": "HUYỆN BA TRI-BTBI",
+    "TINH_THANH": "THAI_BINH_TBH"
+  },
+  {
+    "STT": "76",
+    "MAQUANCHAR": "BTCL",
+    "TEN_QUANHUYEN": "HUYỆN CHỢ LÁCH",
+    "MA_TINH": "BEN TRE_BTE",
+    "CODE_TINH": "BTE",
+    "TEN_DAY_DU": "HUYỆN CHỢ LÁCH-BTCL",
+    "TINH_THANH": "THAI_NGUYEN_TNN"
+  },
+  {
+    "STT": "77",
+    "MAQUANCHAR": "BTBD",
+    "TEN_QUANHUYEN": "HUYỆN BÌNH ĐẠI",
+    "MA_TINH": "BEN TRE_BTE",
+    "CODE_TINH": "BTE",
+    "TEN_DAY_DU": "HUYỆN BÌNH ĐẠI-BTBD",
+    "TINH_THANH": "THANH_HOA_THA"
+  },
+  {
+    "STT": "78",
+    "MAQUANCHAR": "BTMN",
+    "TEN_QUANHUYEN": "HUYỆN MỎ CÀY NAM",
+    "MA_TINH": "BEN TRE_BTE",
+    "CODE_TINH": "BTE",
+    "TEN_DAY_DU": "HUYỆN MỎ CÀY NAM-BTMN",
+    "TINH_THANH": "THUA_THIEN_HUE_HUE"
+  },
+  {
+    "STT": "79",
+    "MAQUANCHAR": "BTMB",
+    "TEN_QUANHUYEN": "HUYỆN MỎ CÀY BẮC",
+    "MA_TINH": "BEN TRE_BTE",
+    "CODE_TINH": "BTE",
+    "TEN_DAY_DU": "HUYỆN MỎ CÀY BẮC-BTMB",
+    "TINH_THANH": "TIEN_GIANG_TGG"
+  },
+  {
+    "STT": "80",
+    "MAQUANCHAR": "BTTP",
+    "TEN_QUANHUYEN": "HUYỆN THẠNH PHÚ",
+    "MA_TINH": "BEN TRE_BTE",
+    "CODE_TINH": "BTE",
+    "TEN_DAY_DU": "HUYỆN THẠNH PHÚ-BTTP",
+    "TINH_THANH": "TRA_VINH_TVH"
+  },
+  {
+    "STT": "81",
+    "MAQUANCHAR": "BTGT",
+    "TEN_QUANHUYEN": "HUYỆN GIỒNG TRÔM",
+    "MA_TINH": "BEN TRE_BTE",
+    "CODE_TINH": "BTE",
+    "TEN_DAY_DU": "HUYỆN GIỒNG TRÔM-BTGT",
+    "TINH_THANH": "TUYEN_QUANG_TQG"
+  },
+  {
+    "STT": "82",
+    "MAQUANCHAR": "BTCT",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU THÀNH",
+    "MA_TINH": "BEN TRE_BTE",
+    "CODE_TINH": "BTE",
+    "TEN_DAY_DU": "HUYỆN CHÂU THÀNH-BTCT",
+    "TINH_THANH": "VINH_LONG_VLG"
+  },
+  {
+    "STT": "83",
+    "MAQUANCHAR": "BTBT",
+    "TEN_QUANHUYEN": "THÀNH PHỐ BẾN TRE",
+    "MA_TINH": "BEN TRE_BTE",
+    "CODE_TINH": "BTE",
+    "TEN_DAY_DU": "THÀNH PHỐ BẾN TRE-BTBT",
+    "TINH_THANH": "VINH_PHUC_VPC"
+  },
+  {
+    "STT": "21",
+    "MAQUANCHAR": "BDTS",
+    "TEN_QUANHUYEN": "HUYÊN TÂY SƠN",
+    "MA_TINH": "BINH DINH_BDH",
+    "CODE_TINH": "BDH",
+    "TEN_DAY_DU": "HUYÊN TÂY SƠN-BDTS",
+    "TINH_THANH": "YEN_BAI_YBN"
+  },
+  {
+    "STT": "22",
+    "MAQUANCHAR": "BDHA",
+    "TEN_QUANHUYEN": "HUYỆN HOÀI ÂN",
+    "MA_TINH": "BINH DINH_BDH",
+    "CODE_TINH": "BDH",
+    "TEN_DAY_DU": "HUYỆN HOÀI ÂN-BDHA",
+    "TINH_THANH": "AGG"
+  },
+  {
+    "STT": "23",
+    "MAQUANCHAR": "BDVC",
+    "TEN_QUANHUYEN": "HUYỆN VÂN CANH",
+    "MA_TINH": "BINH DINH_BDH",
+    "CODE_TINH": "BDH",
+    "TEN_DAY_DU": "HUYỆN VÂN CANH-BDVC",
+    "TINH_THANH": "BDG"
+  },
+  {
+    "STT": "24",
+    "MAQUANCHAR": "BDAN",
+    "TEN_QUANHUYEN": "HUYỆN AN NHƠN",
+    "MA_TINH": "BINH DINH_BDH",
+    "CODE_TINH": "BDH",
+    "TEN_DAY_DU": "HUYỆN AN NHƠN-BDAN",
+    "TINH_THANH": "BDH"
+  },
+  {
+    "STT": "25",
+    "MAQUANCHAR": "BDHN",
+    "TEN_QUANHUYEN": "HUYỆN HOÀI NHƠN",
+    "MA_TINH": "BINH DINH_BDH",
+    "CODE_TINH": "BDH",
+    "TEN_DAY_DU": "HUYỆN HOÀI NHƠN-BDHN",
+    "TINH_THANH": "BGG"
+  },
+  {
+    "STT": "26",
+    "MAQUANCHAR": "BDAL",
+    "TEN_QUANHUYEN": "HUYỆN AN LÃO",
+    "MA_TINH": "BINH DINH_BDH",
+    "CODE_TINH": "BDH",
+    "TEN_DAY_DU": "HUYỆN AN LÃO-BDAL",
+    "TINH_THANH": "BKN"
+  },
+  {
+    "STT": "27",
+    "MAQUANCHAR": "BDVT",
+    "TEN_QUANHUYEN": "HUYỆN VĨNH THẠNH",
+    "MA_TINH": "BINH DINH_BDH",
+    "CODE_TINH": "BDH",
+    "TEN_DAY_DU": "HUYỆN VĨNH THẠNH-BDVT",
+    "TINH_THANH": "BLU"
+  },
+  {
+    "STT": "28",
+    "MAQUANCHAR": "BDTP",
+    "TEN_QUANHUYEN": "HUYỆN TUY PHƯỚC",
+    "MA_TINH": "BINH DINH_BDH",
+    "CODE_TINH": "BDH",
+    "TEN_DAY_DU": "HUYỆN TUY PHƯỚC-BDTP",
+    "TINH_THANH": "BNH"
+  },
+  {
+    "STT": "29",
+    "MAQUANCHAR": "BDPM",
+    "TEN_QUANHUYEN": "HUYỆN PHÙ MỸ",
+    "MA_TINH": "BINH DINH_BDH",
+    "CODE_TINH": "BDH",
+    "TEN_DAY_DU": "HUYỆN PHÙ MỸ-BDPM",
+    "TINH_THANH": "BPC"
+  },
+  {
+    "STT": "30",
+    "MAQUANCHAR": "BDQN",
+    "TEN_QUANHUYEN": "THÀNH PHỐ QUY NHƠN",
+    "MA_TINH": "BINH DINH_BDH",
+    "CODE_TINH": "BDH",
+    "TEN_DAY_DU": "THÀNH PHỐ QUY NHƠN-BDQN",
+    "TINH_THANH": "BTE"
+  },
+  {
+    "STT": "31",
+    "MAQUANCHAR": "BDPC",
+    "TEN_QUANHUYEN": "HUYỆN PHÙ CÁT",
+    "MA_TINH": "BINH DINH_BDH",
+    "CODE_TINH": "BDH",
+    "TEN_DAY_DU": "HUYỆN PHÙ CÁT-BDPC",
+    "TINH_THANH": "BTN"
+  },
+  {
+    "STT": "12",
+    "MAQUANCHAR": "BDTU",
+    "TEN_QUANHUYEN": "THỊ XÃ TÂN UYÊN",
+    "MA_TINH": "BINH DUONG_BDG",
+    "CODE_TINH": "BDG",
+    "TEN_DAY_DU": "THỊ XÃ TÂN UYÊN-BDTU",
+    "TINH_THANH": "CBG"
+  },
+  {
+    "STT": "13",
+    "MAQUANCHAR": "BDDA",
+    "TEN_QUANHUYEN": "THỊ XÃ DĨ AN",
+    "MA_TINH": "BINH DUONG_BDG",
+    "CODE_TINH": "BDG",
+    "TEN_DAY_DU": "THỊ XÃ DĨ AN-BDDA",
+    "TINH_THANH": "CMU"
+  },
+  {
+    "STT": "14",
+    "MAQUANCHAR": "BDBC",
+    "TEN_QUANHUYEN": "THỊ XÃ BẾN CÁT",
+    "MA_TINH": "BINH DUONG_BDG",
+    "CODE_TINH": "BDG",
+    "TEN_DAY_DU": "THỊ XÃ BẾN CÁT-BDBC",
+    "TINH_THANH": "CTO"
+  },
+  {
+    "STT": "15",
+    "MAQUANCHAR": "BDBB",
+    "TEN_QUANHUYEN": "HUYỆN BÀU BÀNG",
+    "MA_TINH": "BINH DUONG_BDG",
+    "CODE_TINH": "BDG",
+    "TEN_DAY_DU": "HUYỆN BÀU BÀNG-BDBB",
+    "TINH_THANH": "DBN"
+  },
+  {
+    "STT": "16",
+    "MAQUANCHAR": "BDBU",
+    "TEN_QUANHUYEN": "HUYỆN BẮC TÂN UYÊN",
+    "MA_TINH": "BINH DUONG_BDG",
+    "CODE_TINH": "BDG",
+    "TEN_DAY_DU": "HUYỆN BẮC TÂN UYÊN-BDBU",
+    "TINH_THANH": "DKG"
+  },
+  {
+    "STT": "17",
+    "MAQUANCHAR": "BDTA",
+    "TEN_QUANHUYEN": "THỊ XÃ THUẬN AN",
+    "MA_TINH": "BINH DUONG_BDG",
+    "CODE_TINH": "BDG",
+    "TEN_DAY_DU": "THỊ XÃ THUẬN AN-BDTA",
+    "TINH_THANH": "DLK"
+  },
+  {
+    "STT": "18",
+    "MAQUANCHAR": "BDPG",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ GIÁO",
+    "MA_TINH": "BINH DUONG_BDG",
+    "CODE_TINH": "BDG",
+    "TEN_DAY_DU": "HUYỆN PHÚ GIÁO-BDPG",
+    "TINH_THANH": "DNG"
+  },
+  {
+    "STT": "19",
+    "MAQUANCHAR": "BDDT",
+    "TEN_QUANHUYEN": "HUYỆN DẦU TIẾNG",
+    "MA_TINH": "BINH DUONG_BDG",
+    "CODE_TINH": "BDG",
+    "TEN_DAY_DU": "HUYỆN DẦU TIẾNG-BDDT",
+    "TINH_THANH": "DNI"
+  },
+  {
+    "STT": "20",
+    "MAQUANCHAR": "BDTM",
+    "TEN_QUANHUYEN": "THỊ XÃ THỦ DẦU MỘT",
+    "MA_TINH": "BINH DUONG_BDG",
+    "CODE_TINH": "BDG",
+    "TEN_DAY_DU": "THỊ XÃ THỦ DẦU MỘT-BDTM",
+    "TINH_THANH": "DTP"
+  },
+  {
+    "STT": "65",
+    "MAQUANCHAR": "BPBP",
+    "TEN_QUANHUYEN": "HUYỆN BÙ ĐỐP",
+    "MA_TINH": "BINH PHUOC_BPC",
+    "CODE_TINH": "BPC",
+    "TEN_DAY_DU": "HUYỆN BÙ ĐỐP-BPBP",
+    "TINH_THANH": "GLI"
+  },
+  {
+    "STT": "66",
+    "MAQUANCHAR": "BPLN",
+    "TEN_QUANHUYEN": "HUYỆN LỘC NINH",
+    "MA_TINH": "BINH PHUOC_BPC",
+    "CODE_TINH": "BPC",
+    "TEN_DAY_DU": "HUYỆN LỘC NINH-BPLN",
+    "TINH_THANH": "HBH"
+  },
+  {
+    "STT": "67",
+    "MAQUANCHAR": "BPDX",
+    "TEN_QUANHUYEN": "THỊ XÃ ĐỒNG XOÀI",
+    "MA_TINH": "BINH PHUOC_BPC",
+    "CODE_TINH": "BPC",
+    "TEN_DAY_DU": "THỊ XÃ ĐỒNG XOÀI-BPDX",
+    "TINH_THANH": "HCM"
+  },
+  {
+    "STT": "68",
+    "MAQUANCHAR": "BPDP",
+    "TEN_QUANHUYEN": "HUYỆN ĐỒNG PHÚ",
+    "MA_TINH": "BINH PHUOC_BPC",
+    "CODE_TINH": "BPC",
+    "TEN_DAY_DU": "HUYỆN ĐỒNG PHÚ-BPDP",
+    "TINH_THANH": "HDG"
+  },
+  {
+    "STT": "69",
+    "MAQUANCHAR": "BPHQ",
+    "TEN_QUANHUYEN": "HUYỆN HỚN QUẢN",
+    "MA_TINH": "BINH PHUOC_BPC",
+    "CODE_TINH": "BPC",
+    "TEN_DAY_DU": "HUYỆN HỚN QUẢN-BPHQ",
+    "TINH_THANH": "HGG"
+  },
+  {
+    "STT": "70",
+    "MAQUANCHAR": "BPBL",
+    "TEN_QUANHUYEN": "THỊ XÃ BÌNH LONG",
+    "MA_TINH": "BINH PHUOC_BPC",
+    "CODE_TINH": "BPC",
+    "TEN_DAY_DU": "THỊ XÃ BÌNH LONG-BPBL",
+    "TINH_THANH": "HNI"
+  },
+  {
+    "STT": "71",
+    "MAQUANCHAR": "BPCT",
+    "TEN_QUANHUYEN": "HUYỆN CHƠN THÀNH",
+    "MA_TINH": "BINH PHUOC_BPC",
+    "CODE_TINH": "BPC",
+    "TEN_DAY_DU": "HUYỆN CHƠN THÀNH-BPCT",
+    "TINH_THANH": "HNM"
+  },
+  {
+    "STT": "72",
+    "MAQUANCHAR": "BPBD",
+    "TEN_QUANHUYEN": "HUYỆN BÙ ĐĂNG",
+    "MA_TINH": "BINH PHUOC_BPC",
+    "CODE_TINH": "BPC",
+    "TEN_DAY_DU": "HUYỆN BÙ ĐĂNG-BPBD",
+    "TINH_THANH": "HPG"
+  },
+  {
+    "STT": "73",
+    "MAQUANCHAR": "BPPL",
+    "TEN_QUANHUYEN": "THỊ XÃ PHƯỚC LONG",
+    "MA_TINH": "BINH PHUOC_BPC",
+    "CODE_TINH": "BPC",
+    "TEN_DAY_DU": "THỊ XÃ PHƯỚC LONG-BPPL",
+    "TINH_THANH": "HTH"
+  },
+  {
+    "STT": "74",
+    "MAQUANCHAR": "BPBM",
+    "TEN_QUANHUYEN": "HUYỆN BÙ GIA MẬP",
+    "MA_TINH": "BINH PHUOC_BPC",
+    "CODE_TINH": "BPC",
+    "TEN_DAY_DU": "HUYỆN BÙ GIA MẬP-BPBM",
+    "TINH_THANH": "HUE"
+  },
+  {
+    "STT": "75",
+    "MAQUANCHAR": "BPPR",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ RIỀNG",
+    "MA_TINH": "BINH PHUOC_BPC",
+    "CODE_TINH": "BPC",
+    "TEN_DAY_DU": "HUYỆN PHÚ RIỀNG-BPPR",
+    "TINH_THANH": "HUG"
+  },
+  {
+    "STT": "84",
+    "MAQUANCHAR": "BTHB",
+    "TEN_QUANHUYEN": "HUYỆN HÀM THUẬN BẮC",
+    "MA_TINH": "BINH THUAN_BTN",
+    "CODE_TINH": "BTN",
+    "TEN_DAY_DU": "HUYỆN HÀM THUẬN BẮC-BTHB",
+    "TINH_THANH": "HYN"
+  },
+  {
+    "STT": "85",
+    "MAQUANCHAR": "BTPQ",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ QUÝ",
+    "MA_TINH": "BINH THUAN_BTN",
+    "CODE_TINH": "BTN",
+    "TEN_DAY_DU": "HUYỆN PHÚ QUÝ-BTPQ",
+    "TINH_THANH": "KGG"
+  },
+  {
+    "STT": "86",
+    "MAQUANCHAR": "BTTG",
+    "TEN_QUANHUYEN": "HUYỆN TUY PHONG",
+    "MA_TINH": "BINH THUAN_BTN",
+    "CODE_TINH": "BTN",
+    "TEN_DAY_DU": "HUYỆN TUY PHONG-BTTG",
+    "TINH_THANH": "KHA"
+  },
+  {
+    "STT": "87",
+    "MAQUANCHAR": "BTTL",
+    "TEN_QUANHUYEN": "HUYỆN TÁNH LINH",
+    "MA_TINH": "BINH THUAN_BTN",
+    "CODE_TINH": "BTN",
+    "TEN_DAY_DU": "HUYỆN TÁNH LINH-BTTL",
+    "TINH_THANH": "KTM"
+  },
+  {
+    "STT": "88",
+    "MAQUANCHAR": "BTDL",
+    "TEN_QUANHUYEN": "HUYỆN ĐỨC LINH",
+    "MA_TINH": "BINH THUAN_BTN",
+    "CODE_TINH": "BTN",
+    "TEN_DAY_DU": "HUYỆN ĐỨC LINH-BTDL",
+    "TINH_THANH": "LAN"
+  },
+  {
+    "STT": "89",
+    "MAQUANCHAR": "BTLG",
+    "TEN_QUANHUYEN": "THỊ XÃ LA GI",
+    "MA_TINH": "BINH THUAN_BTN",
+    "CODE_TINH": "BTN",
+    "TEN_DAY_DU": "THỊ XÃ LA GI-BTLG",
+    "TINH_THANH": "LCI"
+  },
+  {
+    "STT": "90",
+    "MAQUANCHAR": "BTHT",
+    "TEN_QUANHUYEN": "HUYỆN HÀM TÂN",
+    "MA_TINH": "BINH THUAN_BTN",
+    "CODE_TINH": "BTN",
+    "TEN_DAY_DU": "HUYỆN HÀM TÂN-BTHT",
+    "TINH_THANH": "LCU"
+  },
+  {
+    "STT": "91",
+    "MAQUANCHAR": "BTHN",
+    "TEN_QUANHUYEN": "HUYỆN HÀM THUẬN NAM",
+    "MA_TINH": "BINH THUAN_BTN",
+    "CODE_TINH": "BTN",
+    "TEN_DAY_DU": "HUYỆN HÀM THUẬN NAM-BTHN",
+    "TINH_THANH": "LDG"
+  },
+  {
+    "STT": "92",
+    "MAQUANCHAR": "BTBB",
+    "TEN_QUANHUYEN": "HUYỆN BẮC BÌNH",
+    "MA_TINH": "BINH THUAN_BTN",
+    "CODE_TINH": "BTN",
+    "TEN_DAY_DU": "HUYỆN BẮC BÌNH-BTBB",
+    "TINH_THANH": "LSN"
+  },
+  {
+    "STT": "93",
+    "MAQUANCHAR": "BTPT",
+    "TEN_QUANHUYEN": "THÀNH PHỐ PHAN THIẾT",
+    "MA_TINH": "BINH THUAN_BTN",
+    "CODE_TINH": "BTN",
+    "TEN_DAY_DU": "THÀNH PHỐ PHAN THIẾT-BTPT",
+    "TINH_THANH": "NAN"
+  },
+  {
+    "STT": "107",
+    "MAQUANCHAR": "CMCN",
+    "TEN_QUANHUYEN": "HUYỆN CÁI NƯỚC",
+    "MA_TINH": "CA MAU_CMU",
+    "CODE_TINH": "CMU",
+    "TEN_DAY_DU": "HUYỆN CÁI NƯỚC-CMCN",
+    "TINH_THANH": "NBH"
+  },
+  {
+    "STT": "108",
+    "MAQUANCHAR": "CMNC",
+    "TEN_QUANHUYEN": "HUYỆN NĂM CĂN",
+    "MA_TINH": "CA MAU_CMU",
+    "CODE_TINH": "CMU",
+    "TEN_DAY_DU": "HUYỆN NĂM CĂN-CMNC",
+    "TINH_THANH": "NDH"
+  },
+  {
+    "STT": "109",
+    "MAQUANCHAR": "CMDD",
+    "TEN_QUANHUYEN": "HUYỆN ĐẦM DƠI",
+    "MA_TINH": "CA MAU_CMU",
+    "CODE_TINH": "CMU",
+    "TEN_DAY_DU": "HUYỆN ĐẦM DƠI-CMDD",
+    "TINH_THANH": "NTN"
+  },
+  {
+    "STT": "110",
+    "MAQUANCHAR": "CMNH",
+    "TEN_QUANHUYEN": "HUYỆN NGỌC HIỂN",
+    "MA_TINH": "CA MAU_CMU",
+    "CODE_TINH": "CMU",
+    "TEN_DAY_DU": "HUYỆN NGỌC HIỂN-CMNH",
+    "TINH_THANH": "PHO"
+  },
+  {
+    "STT": "111",
+    "MAQUANCHAR": "CMUM",
+    "TEN_QUANHUYEN": "HUYỆN U MINH",
+    "MA_TINH": "CA MAU_CMU",
+    "CODE_TINH": "CMU",
+    "TEN_DAY_DU": "HUYỆN U MINH-CMUM",
+    "TINH_THANH": "PYN"
+  },
+  {
+    "STT": "112",
+    "MAQUANCHAR": "CMTT",
+    "TEN_QUANHUYEN": "HUYỆN TRẦN VĂN THỜI",
+    "MA_TINH": "CA MAU_CMU",
+    "CODE_TINH": "CMU",
+    "TEN_DAY_DU": "HUYỆN TRẦN VĂN THỜI-CMTT",
+    "TINH_THANH": "QBH"
+  },
+  {
+    "STT": "113",
+    "MAQUANCHAR": "CMPT",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ TÂN",
+    "MA_TINH": "CA MAU_CMU",
+    "CODE_TINH": "CMU",
+    "TEN_DAY_DU": "HUYỆN PHÚ TÂN-CMPT",
+    "TINH_THANH": "QNH"
+  },
+  {
+    "STT": "114",
+    "MAQUANCHAR": "CMCM",
+    "TEN_QUANHUYEN": "THÀNH PHỐ CÀ MAU",
+    "MA_TINH": "CA MAU_CMU",
+    "CODE_TINH": "CMU",
+    "TEN_DAY_DU": "THÀNH PHỐ CÀ MAU-CMCM",
+    "TINH_THANH": "QNI"
+  },
+  {
+    "STT": "115",
+    "MAQUANCHAR": "CMTB",
+    "TEN_QUANHUYEN": "HUYỆN THỚI BÌNH",
+    "MA_TINH": "CA MAU_CMU",
+    "CODE_TINH": "CMU",
+    "TEN_DAY_DU": "HUYỆN THỚI BÌNH-CMTB",
+    "TINH_THANH": "QNM"
+  },
+  {
+    "STT": "116",
+    "MAQUANCHAR": "CTOM",
+    "TEN_QUANHUYEN": "QUẬN Ô MÔN",
+    "MA_TINH": "CAN THO_CTO",
+    "CODE_TINH": "CTO",
+    "TEN_DAY_DU": "QUẬN Ô MÔN-CTOM",
+    "TINH_THANH": "QTI"
+  },
+  {
+    "STT": "117",
+    "MAQUANCHAR": "CTTL",
+    "TEN_QUANHUYEN": "HUYỆN THỚI LAI",
+    "MA_TINH": "CAN THO_CTO",
+    "CODE_TINH": "CTO",
+    "TEN_DAY_DU": "HUYỆN THỚI LAI-CTTL",
+    "TINH_THANH": "SLA"
+  },
+  {
+    "STT": "118",
+    "MAQUANCHAR": "CTNK",
+    "TEN_QUANHUYEN": "QUẬN NINH KIỀU",
+    "MA_TINH": "CAN THO_CTO",
+    "CODE_TINH": "CTO",
+    "TEN_DAY_DU": "QUẬN NINH KIỀU-CTNK",
+    "TINH_THANH": "STG"
+  },
+  {
+    "STT": "119",
+    "MAQUANCHAR": "CTTN",
+    "TEN_QUANHUYEN": "QUẬN THỐT NỐT",
+    "MA_TINH": "CAN THO_CTO",
+    "CODE_TINH": "CTO",
+    "TEN_DAY_DU": "QUẬN THỐT NỐT-CTTN",
+    "TINH_THANH": "TGG"
+  },
+  {
+    "STT": "121",
+    "MAQUANCHAR": "CTVT",
+    "TEN_QUANHUYEN": "HUYỆN VĨNH THẠNH",
+    "MA_TINH": "CAN THO_CTO",
+    "CODE_TINH": "CTO",
+    "TEN_DAY_DU": "HUYỆN VĨNH THẠNH-CTVT",
+    "TINH_THANH": "TNH"
+  },
+  {
+    "STT": "123",
+    "MAQUANCHAR": "CTPD",
+    "TEN_QUANHUYEN": "HUYỆN PHONG ĐIỀN",
+    "MA_TINH": "CAN THO_CTO",
+    "CODE_TINH": "CTO",
+    "TEN_DAY_DU": "HUYỆN PHONG ĐIỀN-CTPD",
+    "TINH_THANH": "TQG"
+  },
+  {
+    "STT": "125",
+    "MAQUANCHAR": "CTCR",
+    "TEN_QUANHUYEN": "QUẬN CÁI RĂNG",
+    "MA_TINH": "CAN THO_CTO",
+    "CODE_TINH": "CTO",
+    "TEN_DAY_DU": "QUẬN CÁI RĂNG-CTCR",
+    "TINH_THANH": "TVH"
+  },
+  {
+    "STT": "126",
+    "MAQUANCHAR": "CTCD",
+    "TEN_QUANHUYEN": "HUYỆN CỜ ĐỎ",
+    "MA_TINH": "CAN THO_CTO",
+    "CODE_TINH": "CTO",
+    "TEN_DAY_DU": "HUYỆN CỜ ĐỎ-CTCD",
+    "TINH_THANH": "VLG"
+  },
+  {
+    "STT": "127",
+    "MAQUANCHAR": "CTBT",
+    "TEN_QUANHUYEN": "QUẬN BÌNH THỦY",
+    "MA_TINH": "CAN THO_CTO",
+    "CODE_TINH": "CTO",
+    "TEN_DAY_DU": "QUẬN BÌNH THỦY-CTBT",
+    "TINH_THANH": "VPC"
+  },
+  {
+    "STT": "94",
+    "MAQUANCHAR": "CBTA",
+    "TEN_QUANHUYEN": "HUYỆN THẠCH AN",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "HUYỆN THẠCH AN-CBTA",
+    "TINH_THANH": "VTU"
+  },
+  {
+    "STT": "95",
+    "MAQUANCHAR": "CBHL",
+    "TEN_QUANHUYEN": "HUYỆN HẠ LANG",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "HUYỆN HẠ LANG-CBHL",
+    "TINH_THANH": "YBN"
+  },
+  {
+    "STT": "96",
+    "MAQUANCHAR": "CBNB",
+    "TEN_QUANHUYEN": "HUYỆN NGUYÊN BÌNH",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "HUYỆN NGUYÊN BÌNH-CBNB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "97",
+    "MAQUANCHAR": "CBBL",
+    "TEN_QUANHUYEN": "HUYỆN BẢO LẠC",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "HUYỆN BẢO LẠC-CBBL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "98",
+    "MAQUANCHAR": "CBPH",
+    "TEN_QUANHUYEN": "HUYỆN PHỤC HÒA",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "HUYỆN PHỤC HÒA-CBPH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "99",
+    "MAQUANCHAR": "CBTK",
+    "TEN_QUANHUYEN": "HUYỆN TRÙNG KHÁNH",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "HUYỆN TRÙNG KHÁNH-CBTK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "100",
+    "MAQUANCHAR": "CBTN",
+    "TEN_QUANHUYEN": "HUYỆN THÔNG NÔNG",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "HUYỆN THÔNG NÔNG-CBTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "101",
+    "MAQUANCHAR": "CBBM",
+    "TEN_QUANHUYEN": "HUYỆN BẢO LÂM",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "HUYỆN BẢO LÂM-CBBM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "102",
+    "MAQUANCHAR": "CBCB",
+    "TEN_QUANHUYEN": "THỊ XÃ CAO BẰNG",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "THỊ XÃ CAO BẰNG-CBCB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "103",
+    "MAQUANCHAR": "CBHQ",
+    "TEN_QUANHUYEN": "HUYỆN HÀ QUẢNG",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "HUYỆN HÀ QUẢNG-CBHQ",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "104",
+    "MAQUANCHAR": "CBTL",
+    "TEN_QUANHUYEN": "HUYỆN TRÀ LĨNH",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "HUYỆN TRÀ LĨNH-CBTL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "105",
+    "MAQUANCHAR": "CBHA",
+    "TEN_QUANHUYEN": "HUYỆN HÒA AN",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "HUYỆN HÒA AN-CBHA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "106",
+    "MAQUANCHAR": "CBQU",
+    "TEN_QUANHUYEN": "HUYỆN QUẢNG UYÊN",
+    "MA_TINH": "CAO BANG_CBG",
+    "CODE_TINH": "CBG",
+    "TEN_DAY_DU": "HUYỆN QUẢNG UYÊN-CBQU",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "161",
+    "MAQUANCHAR": "DNCL",
+    "TEN_QUANHUYEN": "QUẬN CẨM LỆ",
+    "MA_TINH": "DA NANG_DNG",
+    "CODE_TINH": "DNG",
+    "TEN_DAY_DU": "QUẬN CẨM LỆ-DNCL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "162",
+    "MAQUANCHAR": "DNTK",
+    "TEN_QUANHUYEN": "QUẬN THANH KHÊ",
+    "MA_TINH": "DA NANG_DNG",
+    "CODE_TINH": "DNG",
+    "TEN_DAY_DU": "QUẬN THANH KHÊ-DNTK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "163",
+    "MAQUANCHAR": "DNNS",
+    "TEN_QUANHUYEN": "QUẬN NGŨ HÀNH SƠN",
+    "MA_TINH": "DA NANG_DNG",
+    "CODE_TINH": "DNG",
+    "TEN_DAY_DU": "QUẬN NGŨ HÀNH SƠN-DNNS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "164",
+    "MAQUANCHAR": "DNHC",
+    "TEN_QUANHUYEN": "QUẬN HẢI CHÂU",
+    "MA_TINH": "DA NANG_DNG",
+    "CODE_TINH": "DNG",
+    "TEN_DAY_DU": "QUẬN HẢI CHÂU-DNHC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "165",
+    "MAQUANCHAR": "DNST",
+    "TEN_QUANHUYEN": "QUẬN SƠN TRÀ",
+    "MA_TINH": "DA NANG_DNG",
+    "CODE_TINH": "DNG",
+    "TEN_DAY_DU": "QUẬN SƠN TRÀ-DNST",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "166",
+    "MAQUANCHAR": "DNLC",
+    "TEN_QUANHUYEN": "QUẬN LIÊN CHIỂU",
+    "MA_TINH": "DA NANG_DNG",
+    "CODE_TINH": "DNG",
+    "TEN_DAY_DU": "QUẬN LIÊN CHIỂU-DNLC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "167",
+    "MAQUANCHAR": "DNHS",
+    "TEN_QUANHUYEN": "HUYỆN HOÀNG SA",
+    "MA_TINH": "DA NANG_DNG",
+    "CODE_TINH": "DNG",
+    "TEN_DAY_DU": "HUYỆN HOÀNG SA-DNHS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "169",
+    "MAQUANCHAR": "DNHV",
+    "TEN_QUANHUYEN": "HUYỆN HÒA VANG",
+    "MA_TINH": "DA NANG_DNG",
+    "CODE_TINH": "DNG",
+    "TEN_DAY_DU": "HUYỆN HÒA VANG-DNHV",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "146",
+    "MAQUANCHAR": "DLKK",
+    "TEN_QUANHUYEN": "HUYỆN KRÔNG BÚK",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN KRÔNG BÚK-DLKK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "147",
+    "MAQUANCHAR": "DLKN",
+    "TEN_QUANHUYEN": "HUYỆN KRÔNG NĂNG",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN KRÔNG NĂNG-DLKN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "148",
+    "MAQUANCHAR": "DLBH",
+    "TEN_QUANHUYEN": "THỊ XÃ BUÔN HỒ",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "THỊ XÃ BUÔN HỒ-DLBH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "149",
+    "MAQUANCHAR": "DLEK",
+    "TEN_QUANHUYEN": "HUYỆN EA KAR",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN EA KAR-DLEK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "150",
+    "MAQUANCHAR": "DLBT",
+    "TEN_QUANHUYEN": "THÀNH PHỐ BUÔN MA THUỘT",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "THÀNH PHỐ BUÔN MA THUỘT-DLBT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "151",
+    "MAQUANCHAR": "DLKA",
+    "TEN_QUANHUYEN": "HUYỆN KRÔNG A NA",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN KRÔNG A NA-DLKA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "152",
+    "MAQUANCHAR": "DLLK",
+    "TEN_QUANHUYEN": "HUYỆN LẮK",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN LẮK-DLLK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "153",
+    "MAQUANCHAR": "DLCM",
+    "TEN_QUANHUYEN": "HUYỆN CƯ M'GAR",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN CƯ M'GAR-DLCM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "154",
+    "MAQUANCHAR": "DLBD",
+    "TEN_QUANHUYEN": "HUYỆN BUÔN ĐÔN",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN BUÔN ĐÔN-DLBD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "155",
+    "MAQUANCHAR": "DLES",
+    "TEN_QUANHUYEN": "HUYỆN EA SÚP",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN EA SÚP-DLES",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "156",
+    "MAQUANCHAR": "DLKB",
+    "TEN_QUANHUYEN": "HUYỆN KRÔNG BÔNG",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN KRÔNG BÔNG-DLKB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "157",
+    "MAQUANCHAR": "DLMD",
+    "TEN_QUANHUYEN": "HUYỆN M'ĐRẮK",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN M'ĐRẮK-DLMD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "158",
+    "MAQUANCHAR": "DLEH",
+    "TEN_QUANHUYEN": "HUYỆN EA H'LEO",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN EA H'LEO-DLEH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "159",
+    "MAQUANCHAR": "DLCK",
+    "TEN_QUANHUYEN": "HUYỆN CƯ KUIN",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN CƯ KUIN-DLCK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "160",
+    "MAQUANCHAR": "DLKP",
+    "TEN_QUANHUYEN": "HUYỆN KRÔNG PẮK",
+    "MA_TINH": "DAK LAK_DLK",
+    "CODE_TINH": "DLK",
+    "TEN_DAY_DU": "HUYỆN KRÔNG PẮK-DLKP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "138",
+    "MAQUANCHAR": "DKDL",
+    "TEN_QUANHUYEN": "HUYỆN ĐẮK GLONG",
+    "MA_TINH": "DAK NONG_DKG",
+    "CODE_TINH": "DKG",
+    "TEN_DAY_DU": "HUYỆN ĐẮK GLONG-DKDL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "139",
+    "MAQUANCHAR": "DKTD",
+    "TEN_QUANHUYEN": "HUYỆN TUY ĐỨC",
+    "MA_TINH": "DAK NONG_DKG",
+    "CODE_TINH": "DKG",
+    "TEN_DAY_DU": "HUYỆN TUY ĐỨC-DKTD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "140",
+    "MAQUANCHAR": "DKGN",
+    "TEN_QUANHUYEN": "THỊ XÃ GIA NGHĨA",
+    "MA_TINH": "DAK NONG_DKG",
+    "CODE_TINH": "DKG",
+    "TEN_DAY_DU": "THỊ XÃ GIA NGHĨA-DKGN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "141",
+    "MAQUANCHAR": "DKCJ",
+    "TEN_QUANHUYEN": "HUYỆN CƯ JÚT",
+    "MA_TINH": "DAK NONG_DKG",
+    "CODE_TINH": "DKG",
+    "TEN_DAY_DU": "HUYỆN CƯ JÚT-DKCJ",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "142",
+    "MAQUANCHAR": "DKKN",
+    "TEN_QUANHUYEN": "HUYỆN KRÔNG NÔ",
+    "MA_TINH": "DAK NONG_DKG",
+    "CODE_TINH": "DKG",
+    "TEN_DAY_DU": "HUYỆN KRÔNG NÔ-DKKN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "143",
+    "MAQUANCHAR": "DKDS",
+    "TEN_QUANHUYEN": "HUYỆN ĐẮK SONG",
+    "MA_TINH": "DAK NONG_DKG",
+    "CODE_TINH": "DKG",
+    "TEN_DAY_DU": "HUYỆN ĐẮK SONG-DKDS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "144",
+    "MAQUANCHAR": "DKDM",
+    "TEN_QUANHUYEN": "HUYỆN ĐẮK MIL",
+    "MA_TINH": "DAK NONG_DKG",
+    "CODE_TINH": "DKG",
+    "TEN_DAY_DU": "HUYỆN ĐẮK MIL-DKDM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "145",
+    "MAQUANCHAR": "DKDR",
+    "TEN_QUANHUYEN": "HUYỆN ĐẮK RLẤP",
+    "MA_TINH": "DAK NONG_DKG",
+    "CODE_TINH": "DKG",
+    "TEN_DAY_DU": "HUYỆN ĐẮK RLẤP-DKDR",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "128",
+    "MAQUANCHAR": "DBDP",
+    "TEN_QUANHUYEN": "THÀNH PHỐ ĐIỆN BIÊN PHỦ",
+    "MA_TINH": "DIEN BIEN_DBN",
+    "CODE_TINH": "DBN",
+    "TEN_DAY_DU": "THÀNH PHỐ ĐIỆN BIÊN PHỦ-DBDP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "129",
+    "MAQUANCHAR": "DBDB",
+    "TEN_QUANHUYEN": "HUYỆN ĐIỆN BIÊN",
+    "MA_TINH": "DIEN BIEN_DBN",
+    "CODE_TINH": "DBN",
+    "TEN_DAY_DU": "HUYỆN ĐIỆN BIÊN-DBDB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "130",
+    "MAQUANCHAR": "DBDD",
+    "TEN_QUANHUYEN": "HUYỆN ĐIỆN BIÊN ĐÔNG",
+    "MA_TINH": "DIEN BIEN_DBN",
+    "CODE_TINH": "DBN",
+    "TEN_DAY_DU": "HUYỆN ĐIỆN BIÊN ĐÔNG-DBDD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "131",
+    "MAQUANCHAR": "DBML",
+    "TEN_QUANHUYEN": "THỊ XÃ MƯỜNG LAY",
+    "MA_TINH": "DIEN BIEN_DBN",
+    "CODE_TINH": "DBN",
+    "TEN_DAY_DU": "THỊ XÃ MƯỜNG LAY-DBML",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "132",
+    "MAQUANCHAR": "DBMN",
+    "TEN_QUANHUYEN": "HUYỆN MƯỜNG NHÉ",
+    "MA_TINH": "DIEN BIEN_DBN",
+    "CODE_TINH": "DBN",
+    "TEN_DAY_DU": "HUYỆN MƯỜNG NHÉ-DBMN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "133",
+    "MAQUANCHAR": "DBMA",
+    "TEN_QUANHUYEN": "HUYỆN MƯỜNG ÁNG",
+    "MA_TINH": "DIEN BIEN_DBN",
+    "CODE_TINH": "DBN",
+    "TEN_DAY_DU": "HUYỆN MƯỜNG ÁNG-DBMA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "134",
+    "MAQUANCHAR": "DBNP",
+    "TEN_QUANHUYEN": "HUYỆN NẬM PỒ",
+    "MA_TINH": "DIEN BIEN_DBN",
+    "CODE_TINH": "DBN",
+    "TEN_DAY_DU": "HUYỆN NẬM PỒ-DBNP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "135",
+    "MAQUANCHAR": "DBMC",
+    "TEN_QUANHUYEN": "HUYỆN MƯỜNG CHÀ",
+    "MA_TINH": "DIEN BIEN_DBN",
+    "CODE_TINH": "DBN",
+    "TEN_DAY_DU": "HUYỆN MƯỜNG CHÀ-DBMC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "136",
+    "MAQUANCHAR": "DBTC",
+    "TEN_QUANHUYEN": "HUYỆN TỦA CHÙA",
+    "MA_TINH": "DIEN BIEN_DBN",
+    "CODE_TINH": "DBN",
+    "TEN_DAY_DU": "HUYỆN TỦA CHÙA-DBTC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "137",
+    "MAQUANCHAR": "DBTG",
+    "TEN_QUANHUYEN": "HUYỆN TUẦN GIÁO",
+    "MA_TINH": "DIEN BIEN_DBN",
+    "CODE_TINH": "DBN",
+    "TEN_DAY_DU": "HUYỆN TUẦN GIÁO-DBTG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "170",
+    "MAQUANCHAR": "DNTB",
+    "TEN_QUANHUYEN": "HUYỆN TRẢNG BOM",
+    "MA_TINH": "DONG NAI_DNI",
+    "CODE_TINH": "DNI",
+    "TEN_DAY_DU": "HUYỆN TRẢNG BOM-DNTB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "171",
+    "MAQUANCHAR": "DNTP",
+    "TEN_QUANHUYEN": "HUYỆN TÂN PHÚ",
+    "MA_TINH": "DONG NAI_DNI",
+    "CODE_TINH": "DNI",
+    "TEN_DAY_DU": "HUYỆN TÂN PHÚ-DNTP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "172",
+    "MAQUANCHAR": "DNTN",
+    "TEN_QUANHUYEN": "HUYỆN THỐNG NHẤT",
+    "MA_TINH": "DONG NAI_DNI",
+    "CODE_TINH": "DNI",
+    "TEN_DAY_DU": "HUYỆN THỐNG NHẤT-DNTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "173",
+    "MAQUANCHAR": "DNVC",
+    "TEN_QUANHUYEN": "HUYỆN VĨNH CỬU",
+    "MA_TINH": "DONG NAI_DNI",
+    "CODE_TINH": "DNI",
+    "TEN_DAY_DU": "HUYỆN VĨNH CỬU-DNVC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "174",
+    "MAQUANCHAR": "DNNT",
+    "TEN_QUANHUYEN": "HUYỆN NHƠN TRẠCH",
+    "MA_TINH": "DONG NAI_DNI",
+    "CODE_TINH": "DNI",
+    "TEN_DAY_DU": "HUYỆN NHƠN TRẠCH-DNNT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "175",
+    "MAQUANCHAR": "DNBH",
+    "TEN_QUANHUYEN": "THÀNH PHỐ BIÊN HÒA",
+    "MA_TINH": "DONG NAI_DNI",
+    "CODE_TINH": "DNI",
+    "TEN_DAY_DU": "THÀNH PHỐ BIÊN HÒA-DNBH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "176",
+    "MAQUANCHAR": "DNCM",
+    "TEN_QUANHUYEN": "HUYỆN CẨM MỸ",
+    "MA_TINH": "DONG NAI_DNI",
+    "CODE_TINH": "DNI",
+    "TEN_DAY_DU": "HUYỆN CẨM MỸ-DNCM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "177",
+    "MAQUANCHAR": "DNXL",
+    "TEN_QUANHUYEN": "HUYỆN XUÂN LỘC",
+    "MA_TINH": "DONG NAI_DNI",
+    "CODE_TINH": "DNI",
+    "TEN_DAY_DU": "HUYỆN XUÂN LỘC-DNXL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "178",
+    "MAQUANCHAR": "DNDQ",
+    "TEN_QUANHUYEN": "HUYỆN ĐỊNH QUÁN",
+    "MA_TINH": "DONG NAI_DNI",
+    "CODE_TINH": "DNI",
+    "TEN_DAY_DU": "HUYỆN ĐỊNH QUÁN-DNDQ",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "179",
+    "MAQUANCHAR": "DNLT",
+    "TEN_QUANHUYEN": "HUYỆN LONG THÀNH",
+    "MA_TINH": "DONG NAI_DNI",
+    "CODE_TINH": "DNI",
+    "TEN_DAY_DU": "HUYỆN LONG THÀNH-DNLT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "180",
+    "MAQUANCHAR": "DNLK",
+    "TEN_QUANHUYEN": "THỊ XÃ LONG KHÁNH",
+    "MA_TINH": "DONG NAI_DNI",
+    "CODE_TINH": "DNI",
+    "TEN_DAY_DU": "THỊ XÃ LONG KHÁNH-DNLK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "181",
+    "MAQUANCHAR": "DTTH",
+    "TEN_QUANHUYEN": "HUYỆN TÂN HỒNG",
+    "MA_TINH": "DONG THAP_DTP",
+    "CODE_TINH": "DTP",
+    "TEN_DAY_DU": "HUYỆN TÂN HỒNG-DTTH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "182",
+    "MAQUANCHAR": "DTLO",
+    "TEN_QUANHUYEN": "HUYỆN LẤP VÒ",
+    "MA_TINH": "DONG THAP_DTP",
+    "CODE_TINH": "DTP",
+    "TEN_DAY_DU": "HUYỆN LẤP VÒ-DTLO",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "183",
+    "MAQUANCHAR": "DTCL",
+    "TEN_QUANHUYEN": "THÀNH PHỐ CAO LÃNH",
+    "MA_TINH": "DONG THAP_DTP",
+    "CODE_TINH": "DTP",
+    "TEN_DAY_DU": "THÀNH PHỐ CAO LÃNH-DTCL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "184",
+    "MAQUANCHAR": "DTLV",
+    "TEN_QUANHUYEN": "HUYỆN LAI VUNG",
+    "MA_TINH": "DONG THAP_DTP",
+    "CODE_TINH": "DTP",
+    "TEN_DAY_DU": "HUYỆN LAI VUNG-DTLV",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "185",
+    "MAQUANCHAR": "DTCT",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU THÀNH",
+    "MA_TINH": "DONG THAP_DTP",
+    "CODE_TINH": "DTP",
+    "TEN_DAY_DU": "HUYỆN CHÂU THÀNH-DTCT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "186",
+    "MAQUANCHAR": "DTHU",
+    "TEN_QUANHUYEN": "HUYỆN HỒNG NGỰ",
+    "MA_TINH": "DONG THAP_DTP",
+    "CODE_TINH": "DTP",
+    "TEN_DAY_DU": "HUYỆN HỒNG NGỰ-DTHU",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "187",
+    "MAQUANCHAR": "DTCH",
+    "TEN_QUANHUYEN": "HUYỆN CAO LÃNH",
+    "MA_TINH": "DONG THAP_DTP",
+    "CODE_TINH": "DTP",
+    "TEN_DAY_DU": "HUYỆN CAO LÃNH-DTCH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "188",
+    "MAQUANCHAR": "DTSD",
+    "TEN_QUANHUYEN": "THỊ XÃ SA ĐÉC",
+    "MA_TINH": "DONG THAP_DTP",
+    "CODE_TINH": "DTP",
+    "TEN_DAY_DU": "THỊ XÃ SA ĐÉC-DTSD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "189",
+    "MAQUANCHAR": "DTTM",
+    "TEN_QUANHUYEN": "HUYỆN THÁP MƯỜI",
+    "MA_TINH": "DONG THAP_DTP",
+    "CODE_TINH": "DTP",
+    "TEN_DAY_DU": "HUYỆN THÁP MƯỜI-DTTM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "190",
+    "MAQUANCHAR": "DTTB",
+    "TEN_QUANHUYEN": "HUYỆN THANH BÌNH",
+    "MA_TINH": "DONG THAP_DTP",
+    "CODE_TINH": "DTP",
+    "TEN_DAY_DU": "HUYỆN THANH BÌNH-DTTB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "191",
+    "MAQUANCHAR": "DTTN",
+    "TEN_QUANHUYEN": "HUYỆN TAM NÔNG",
+    "MA_TINH": "DONG THAP_DTP",
+    "CODE_TINH": "DTP",
+    "TEN_DAY_DU": "HUYỆN TAM NÔNG-DTTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "192",
+    "MAQUANCHAR": "GLCO",
+    "TEN_QUANHUYEN": "HUYỆN CHƯ PRÔNG",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN CHƯ PRÔNG-GLCO",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "193",
+    "MAQUANCHAR": "GLKP",
+    "TEN_QUANHUYEN": "HUYỆN KRÔNG PA",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN KRÔNG PA-GLKP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "194",
+    "MAQUANCHAR": "GLPT",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ THIỆN",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN PHÚ THIỆN-GLPT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "195",
+    "MAQUANCHAR": "GLPL",
+    "TEN_QUANHUYEN": "THÀNH PHỐ PLEIKU",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "THÀNH PHỐ PLEIKU-GLPL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "196",
+    "MAQUANCHAR": "GLDD",
+    "TEN_QUANHUYEN": "HUYỆN ĐĂK ĐOA",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN ĐĂK ĐOA-GLDD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "197",
+    "MAQUANCHAR": "GLDP",
+    "TEN_QUANHUYEN": "HUYỆN ĐĂK PƠ",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN ĐĂK PƠ-GLDP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "198",
+    "MAQUANCHAR": "GLIG",
+    "TEN_QUANHUYEN": "HUYỆN IA GRAI",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN IA GRAI-GLIG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "199",
+    "MAQUANCHAR": "GLDC",
+    "TEN_QUANHUYEN": "HUYỆN ĐỨC CƠ",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN ĐỨC CƠ-GLDC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "200",
+    "MAQUANCHAR": "GLCS",
+    "TEN_QUANHUYEN": "HUYỆN CHƯ SÊ",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN CHƯ SÊ-GLCS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "201",
+    "MAQUANCHAR": "GLKB",
+    "TEN_QUANHUYEN": "HUYỆN KBANG",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN KBANG-GLKB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "202",
+    "MAQUANCHAR": "GLKC",
+    "TEN_QUANHUYEN": "HUYỆN KÔNG CHRO",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN KÔNG CHRO-GLKC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "203",
+    "MAQUANCHAR": "GLMY",
+    "TEN_QUANHUYEN": "HUYỆN MANG YANG",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN MANG YANG-GLMY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "204",
+    "MAQUANCHAR": "GLCP",
+    "TEN_QUANHUYEN": "HUYỆN CHƯ PĂH",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN CHƯ PĂH-GLCP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "205",
+    "MAQUANCHAR": "GLIP",
+    "TEN_QUANHUYEN": "HUYỆN IA PA",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN IA PA-GLIP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "206",
+    "MAQUANCHAR": "GLCH",
+    "TEN_QUANHUYEN": "HUYỆN CHƯ PƯH",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "HUYỆN CHƯ PƯH-GLCH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "207",
+    "MAQUANCHAR": "GLAK",
+    "TEN_QUANHUYEN": "THỊ XÃ AN KHÊ",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "THỊ XÃ AN KHÊ-GLAK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "208",
+    "MAQUANCHAR": "GLAP",
+    "TEN_QUANHUYEN": "THỊ XÃ AYUN PA",
+    "MA_TINH": "GIA LAI_GLI",
+    "CODE_TINH": "GLI",
+    "TEN_DAY_DU": "THỊ XÃ AYUN PA-GLAP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "256",
+    "MAQUANCHAR": "HGHP",
+    "TEN_QUANHUYEN": "HUYỆN HOÀNG SU PHÌ",
+    "MA_TINH": "HA GIANG_HGG",
+    "CODE_TINH": "HGG",
+    "TEN_DAY_DU": "HUYỆN HOÀNG SU PHÌ-HGHP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "257",
+    "MAQUANCHAR": "HGQB",
+    "TEN_QUANHUYEN": "HUYỆN QUẢN BẠ",
+    "MA_TINH": "HA GIANG_HGG",
+    "CODE_TINH": "HGG",
+    "TEN_DAY_DU": "HUYỆN QUẢN BẠ-HGQB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "258",
+    "MAQUANCHAR": "HGVX",
+    "TEN_QUANHUYEN": "HUYỆN VỊ XUYÊN",
+    "MA_TINH": "HA GIANG_HGG",
+    "CODE_TINH": "HGG",
+    "TEN_DAY_DU": "HUYỆN VỊ XUYÊN-HGVX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "259",
+    "MAQUANCHAR": "HGBM",
+    "TEN_QUANHUYEN": "HUYỆN BẮC MÊ",
+    "MA_TINH": "HA GIANG_HGG",
+    "CODE_TINH": "HGG",
+    "TEN_DAY_DU": "HUYỆN BẮC MÊ-HGBM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "260",
+    "MAQUANCHAR": "HGXM",
+    "TEN_QUANHUYEN": "HUYỆN XÍN MẦN",
+    "MA_TINH": "HA GIANG_HGG",
+    "CODE_TINH": "HGG",
+    "TEN_DAY_DU": "HUYỆN XÍN MẦN-HGXM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "261",
+    "MAQUANCHAR": "HGBQ",
+    "TEN_QUANHUYEN": "HUYỆN BẮC QUANG",
+    "MA_TINH": "HA GIANG_HGG",
+    "CODE_TINH": "HGG",
+    "TEN_DAY_DU": "HUYỆN BẮC QUANG-HGBQ",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "262",
+    "MAQUANCHAR": "HGHG",
+    "TEN_QUANHUYEN": "THỊ XÃ HÀ GIANG",
+    "MA_TINH": "HA GIANG_HGG",
+    "CODE_TINH": "HGG",
+    "TEN_DAY_DU": "THỊ XÃ HÀ GIANG-HGHG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "263",
+    "MAQUANCHAR": "HGDV",
+    "TEN_QUANHUYEN": "HUYỆN ĐỒNG VĂN",
+    "MA_TINH": "HA GIANG_HGG",
+    "CODE_TINH": "HGG",
+    "TEN_DAY_DU": "HUYỆN ĐỒNG VĂN-HGDV",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "264",
+    "MAQUANCHAR": "HGYM",
+    "TEN_QUANHUYEN": "HUYỆN YÊN MINH",
+    "MA_TINH": "HA GIANG_HGG",
+    "CODE_TINH": "HGG",
+    "TEN_DAY_DU": "HUYỆN YÊN MINH-HGYM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "265",
+    "MAQUANCHAR": "HGMV",
+    "TEN_QUANHUYEN": "HUYỆN MÈO VẠC",
+    "MA_TINH": "HA GIANG_HGG",
+    "CODE_TINH": "HGG",
+    "TEN_DAY_DU": "HUYỆN MÈO VẠC-HGMV",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "266",
+    "MAQUANCHAR": "HGBH",
+    "TEN_QUANHUYEN": "HUYỆN QUANG BÌNH",
+    "MA_TINH": "HA GIANG_HGG",
+    "CODE_TINH": "HGG",
+    "TEN_DAY_DU": "HUYỆN QUANG BÌNH-HGBH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "298",
+    "MAQUANCHAR": "HMDT",
+    "TEN_QUANHUYEN": "HUYỆN DUY TIÊN",
+    "MA_TINH": "HA NAM_HNM",
+    "CODE_TINH": "HNM",
+    "TEN_DAY_DU": "HUYỆN DUY TIÊN-HMDT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "299",
+    "MAQUANCHAR": "HMKB",
+    "TEN_QUANHUYEN": "HUYỆN KIM BẢNG",
+    "MA_TINH": "HA NAM_HNM",
+    "CODE_TINH": "HNM",
+    "TEN_DAY_DU": "HUYỆN KIM BẢNG-HMKB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "300",
+    "MAQUANCHAR": "HMLN",
+    "TEN_QUANHUYEN": "HUYỆN LÝ NHÂN",
+    "MA_TINH": "HA NAM_HNM",
+    "CODE_TINH": "HNM",
+    "TEN_DAY_DU": "HUYỆN LÝ NHÂN-HMLN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "301",
+    "MAQUANCHAR": "HMPL",
+    "TEN_QUANHUYEN": "THỊ XÃ PHỦ LÝ",
+    "MA_TINH": "HA NAM_HNM",
+    "CODE_TINH": "HNM",
+    "TEN_DAY_DU": "THỊ XÃ PHỦ LÝ-HMPL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "302",
+    "MAQUANCHAR": "HMTL",
+    "TEN_QUANHUYEN": "HUYỆN THANH LIÊM",
+    "MA_TINH": "HA NAM_HNM",
+    "CODE_TINH": "HNM",
+    "TEN_DAY_DU": "HUYỆN THANH LIÊM-HMTL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "303",
+    "MAQUANCHAR": "HMBL",
+    "TEN_QUANHUYEN": "HUYỆN BÌNH LỤC",
+    "MA_TINH": "HA NAM_HNM",
+    "CODE_TINH": "HNM",
+    "TEN_DAY_DU": "HUYỆN BÌNH LỤC-HMBL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "267",
+    "MAQUANCHAR": "HNHK",
+    "TEN_QUANHUYEN": "QUẬN HOÀN KIẾM",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "QUẬN HOÀN KIẾM-HNHK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "268",
+    "MAQUANCHAR": "HNBV",
+    "TEN_QUANHUYEN": "HUYỆN BA VÌ",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN BA VÌ-HNBV",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "269",
+    "MAQUANCHAR": "HNHC",
+    "TEN_QUANHUYEN": "HUYỆN HOÀI ĐỨC",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN HOÀI ĐỨC-HNHC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "270",
+    "MAQUANCHAR": "HNHM",
+    "TEN_QUANHUYEN": "QUẬN HOÀNG MAI",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "QUẬN HOÀNG MAI-HNHM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "271",
+    "MAQUANCHAR": "HNTT",
+    "TEN_QUANHUYEN": "HUYỆN THẠCH THẤT",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN THẠCH THẤT-HNTT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "272",
+    "MAQUANCHAR": "HNCM",
+    "TEN_QUANHUYEN": "HUYỆN CHƯƠNG MỸ",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN CHƯƠNG MỸ-HNCM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "273",
+    "MAQUANCHAR": "HNSS",
+    "TEN_QUANHUYEN": "HUYỆN SÓC SƠN",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN SÓC SƠN-HNSS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "274",
+    "MAQUANCHAR": "HNGL",
+    "TEN_QUANHUYEN": "HUYỆN GIA LÂM",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN GIA LÂM-HNGL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "275",
+    "MAQUANCHAR": "HNHT",
+    "TEN_QUANHUYEN": "QUẬN HAI BÀ TRƯNG",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "QUẬN HAI BÀ TRƯNG-HNHT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "276",
+    "MAQUANCHAR": "HNTH",
+    "TEN_QUANHUYEN": "QUẬN TÂY HỒ",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "QUẬN TÂY HỒ-HNTH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "277",
+    "MAQUANCHAR": "HNML",
+    "TEN_QUANHUYEN": "HUYỆN MÊ LINH",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN MÊ LINH-HNML",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "278",
+    "MAQUANCHAR": "HNTI",
+    "TEN_QUANHUYEN": "HUYỆN THANH TRÌ",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN THANH TRÌ-HNTI",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "279",
+    "MAQUANCHAR": "HNUH",
+    "TEN_QUANHUYEN": "HUYỆN ỨNG HÒA",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN ỨNG HÒA-HNUH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "280",
+    "MAQUANCHAR": "HNCG",
+    "TEN_QUANHUYEN": "QUẬN CẦU GIẤY",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "QUẬN CẦU GIẤY-HNCG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "281",
+    "MAQUANCHAR": "HNPT",
+    "TEN_QUANHUYEN": "HUYỆN PHÚC THỌ",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN PHÚC THỌ-HNPT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "282",
+    "MAQUANCHAR": "HNTO",
+    "TEN_QUANHUYEN": "HUYỆN THANH OAI",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN THANH OAI-HNTO",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "283",
+    "MAQUANCHAR": "HNMD",
+    "TEN_QUANHUYEN": "HUYỆN MỸ ĐỨC",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN MỸ ĐỨC-HNMD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "284",
+    "MAQUANCHAR": "HNST",
+    "TEN_QUANHUYEN": "THỊ XÃ SƠN TÂY",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "THỊ XÃ SƠN TÂY-HNST",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "285",
+    "MAQUANCHAR": "HNDP",
+    "TEN_QUANHUYEN": "HUYỆN ĐAN PHƯỢNG",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN ĐAN PHƯỢNG-HNDP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "286",
+    "MAQUANCHAR": "HNLB",
+    "TEN_QUANHUYEN": "QUẬN LONG BIÊN",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "QUẬN LONG BIÊN-HNLB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "287",
+    "MAQUANCHAR": "HNQO",
+    "TEN_QUANHUYEN": "HUYỆN QUỐC OAI",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN QUỐC OAI-HNQO",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "288",
+    "MAQUANCHAR": "HNBD",
+    "TEN_QUANHUYEN": "QUẬN BA ĐÌNH",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "QUẬN BA ĐÌNH-HNBD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "289",
+    "MAQUANCHAR": "HNTX",
+    "TEN_QUANHUYEN": "QUẬN THANH XUÂN",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "QUẬN THANH XUÂN-HNTX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "290",
+    "MAQUANCHAR": "HNDD",
+    "TEN_QUANHUYEN": "QUẬN ĐỐNG ĐA",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "QUẬN ĐỐNG ĐA-HNDD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "291",
+    "MAQUANCHAR": "HNNL",
+    "TEN_QUANHUYEN": "QUẬN NAM TỪ LIÊM",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "QUẬN NAM TỪ LIÊM-HNNL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "292",
+    "MAQUANCHAR": "HNBL",
+    "TEN_QUANHUYEN": "QUẬN BẮC TỪ LIÊM",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "QUẬN BẮC TỪ LIÊM-HNBL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "293",
+    "MAQUANCHAR": "HNPX",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ XUYÊN",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN PHÚ XUYÊN-HNPX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "294",
+    "MAQUANCHAR": "HNDA",
+    "TEN_QUANHUYEN": "HUYỆN ĐÔNG ANH",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN ĐÔNG ANH-HNDA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "296",
+    "MAQUANCHAR": "HNHD",
+    "TEN_QUANHUYEN": "TP HÀ ĐÔNG",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "TP HÀ ĐÔNG-HNHD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "297",
+    "MAQUANCHAR": "HNTN",
+    "TEN_QUANHUYEN": "HUYỆN THƯỜNG TÍN",
+    "MA_TINH": "HA NOI_HNI",
+    "CODE_TINH": "HNI",
+    "TEN_DAY_DU": "HUYỆN THƯỜNG TÍN-HNTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "319",
+    "MAQUANCHAR": "HTVQ",
+    "TEN_QUANHUYEN": "HUYỆN VŨ QUANG",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "HUYỆN VŨ QUANG-HTVQ",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "320",
+    "MAQUANCHAR": "HTDT",
+    "TEN_QUANHUYEN": "HUYỆN ĐỨC THỌ",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "HUYỆN ĐỨC THỌ-HTDT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "321",
+    "MAQUANCHAR": "HTCL",
+    "TEN_QUANHUYEN": "HUYỆN CAN LỘC",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "HUYỆN CAN LỘC-HTCL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "322",
+    "MAQUANCHAR": "HTLH",
+    "TEN_QUANHUYEN": "HUYỆN LỘC HÀ",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "HUYỆN LỘC HÀ-HTLH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "323",
+    "MAQUANCHAR": "HTNX",
+    "TEN_QUANHUYEN": "HUYỆN NGHI XUÂN",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "HUYỆN NGHI XUÂN-HTNX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "324",
+    "MAQUANCHAR": "HTHS",
+    "TEN_QUANHUYEN": "HUYỆN HƯƠNG SƠN",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "HUYỆN HƯƠNG SƠN-HTHS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "325",
+    "MAQUANCHAR": "HTHK",
+    "TEN_QUANHUYEN": "HUYỆN HƯƠNG KHÊ",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "HUYỆN HƯƠNG KHÊ-HTHK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "326",
+    "MAQUANCHAR": "HTCX",
+    "TEN_QUANHUYEN": "HUYỆN CẨM XUYÊN",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "HUYỆN CẨM XUYÊN-HTCX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "327",
+    "MAQUANCHAR": "HTHT",
+    "TEN_QUANHUYEN": "THÀNH PHỐ HÀ TĨNH",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "THÀNH PHỐ HÀ TĨNH-HTHT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "328",
+    "MAQUANCHAR": "HTTH",
+    "TEN_QUANHUYEN": "HUYỆN THẠCH HÀ",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "HUYỆN THẠCH HÀ-HTTH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "329",
+    "MAQUANCHAR": "HTKH",
+    "TEN_QUANHUYEN": "HUYỆN KỲ ANH",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "HUYỆN KỲ ANH-HTKH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "330",
+    "MAQUANCHAR": "HTHL",
+    "TEN_QUANHUYEN": "THỊ XÃ HỒNG LĨNH",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "THỊ XÃ HỒNG LĨNH-HTHL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "331",
+    "MAQUANCHAR": "HTKA",
+    "TEN_QUANHUYEN": "THỊ XÃ KỲ ANH",
+    "MA_TINH": "HA TINH_HTH",
+    "CODE_TINH": "HTH",
+    "TEN_DAY_DU": "THỊ XÃ KỲ ANH-HTKA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "244",
+    "MAQUANCHAR": "HDHD",
+    "TEN_QUANHUYEN": "TP HẢI DƯƠNG",
+    "MA_TINH": "HAI DUONG_HDG",
+    "CODE_TINH": "HDG",
+    "TEN_DAY_DU": "TP HẢI DƯƠNG-HDHD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "245",
+    "MAQUANCHAR": "HDNG",
+    "TEN_QUANHUYEN": "HUYỆN NINH GIANG",
+    "MA_TINH": "HAI DUONG_HDG",
+    "CODE_TINH": "HDG",
+    "TEN_DAY_DU": "HUYỆN NINH GIANG-HDNG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "246",
+    "MAQUANCHAR": "HDTK",
+    "TEN_QUANHUYEN": "HUYỆN TỨ KỲ",
+    "MA_TINH": "HAI DUONG_HDG",
+    "CODE_TINH": "HDG",
+    "TEN_DAY_DU": "HUYỆN TỨ KỲ-HDTK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "247",
+    "MAQUANCHAR": "HDTH",
+    "TEN_QUANHUYEN": "HUYỆN THANH HÀ",
+    "MA_TINH": "HAI DUONG_HDG",
+    "CODE_TINH": "HDG",
+    "TEN_DAY_DU": "HUYỆN THANH HÀ -HDTH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "248",
+    "MAQUANCHAR": "HDCG",
+    "TEN_QUANHUYEN": "HUYỆN CẨM GIÀNG",
+    "MA_TINH": "HAI DUONG_HDG",
+    "CODE_TINH": "HDG",
+    "TEN_DAY_DU": "HUYỆN CẨM GIÀNG-HDCG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "249",
+    "MAQUANCHAR": "HDTM",
+    "TEN_QUANHUYEN": "HUYỆN THANH MIỆN",
+    "MA_TINH": "HAI DUONG_HDG",
+    "CODE_TINH": "HDG",
+    "TEN_DAY_DU": "HUYỆN THANH MIỆN-HDTM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "250",
+    "MAQUANCHAR": "HDNS",
+    "TEN_QUANHUYEN": "HUYỆN NAM SÁCH",
+    "MA_TINH": "HAI DUONG_HDG",
+    "CODE_TINH": "HDG",
+    "TEN_DAY_DU": "HUYỆN NAM SÁCH-HDNS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "251",
+    "MAQUANCHAR": "HDKM",
+    "TEN_QUANHUYEN": "HUYỆN KINH MÔN",
+    "MA_TINH": "HAI DUONG_HDG",
+    "CODE_TINH": "HDG",
+    "TEN_DAY_DU": "HUYỆN KINH MÔN-HDKM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "252",
+    "MAQUANCHAR": "HDCL",
+    "TEN_QUANHUYEN": "HUYỆN CHÍ LINH",
+    "MA_TINH": "HAI DUONG_HDG",
+    "CODE_TINH": "HDG",
+    "TEN_DAY_DU": "HUYỆN CHÍ LINH-HDCL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "253",
+    "MAQUANCHAR": "HDBG",
+    "TEN_QUANHUYEN": "HUYỆN BÌNH GIANG",
+    "MA_TINH": "HAI DUONG_HDG",
+    "CODE_TINH": "HDG",
+    "TEN_DAY_DU": "HUYỆN BÌNH GIANG-HDBG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "254",
+    "MAQUANCHAR": "HDGL",
+    "TEN_QUANHUYEN": "HUYỆN GIA LỘC",
+    "MA_TINH": "HAI DUONG_HDG",
+    "CODE_TINH": "HDG",
+    "TEN_DAY_DU": "HUYỆN GIA LỘC-HDGL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "255",
+    "MAQUANCHAR": "HDKT",
+    "TEN_QUANHUYEN": "HUYỆN KIM THÀNH",
+    "MA_TINH": "HAI DUONG_HDG",
+    "CODE_TINH": "HDG",
+    "TEN_DAY_DU": "HUYỆN KIM THÀNH -HDKT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "304",
+    "MAQUANCHAR": "HPHB",
+    "TEN_QUANHUYEN": "QUẬN HỒNG BÀNG",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "QUẬN HỒNG BÀNG-HPHB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "305",
+    "MAQUANCHAR": "HPDS",
+    "TEN_QUANHUYEN": "QUẬN ĐỒ SƠN",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "QUẬN ĐỒ SƠN-HPDS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "306",
+    "MAQUANCHAR": "HPLC",
+    "TEN_QUANHUYEN": "QUẬN LÊ CHÂN",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "QUẬN LÊ CHÂN-HPLC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "307",
+    "MAQUANCHAR": "HPAD",
+    "TEN_QUANHUYEN": "HUYỆN AN DƯƠNG",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "HUYỆN AN DƯƠNG-HPAD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "308",
+    "MAQUANCHAR": "HPBV",
+    "TEN_QUANHUYEN": "HUYỆN ĐẢO BẠCH LONG VĨ",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "HUYỆN ĐẢO BẠCH LONG VĨ-HPBV",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "309",
+    "MAQUANCHAR": "HPKT",
+    "TEN_QUANHUYEN": "HUYỆN KIẾN THỤY",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "HUYỆN KIẾN THỤY-HPKT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "310",
+    "MAQUANCHAR": "HPDK",
+    "TEN_QUANHUYEN": "QUẬN DƯƠNG KINH",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "QUẬN DƯƠNG KINH-HPDK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "311",
+    "MAQUANCHAR": "HPAL",
+    "TEN_QUANHUYEN": "HUYỆN AN LÃO",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "HUYỆN AN LÃO-HPAL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "312",
+    "MAQUANCHAR": "HPVB",
+    "TEN_QUANHUYEN": "HUYỆN VĨNH BẢO",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "HUYỆN VĨNH BẢO-HPVB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "313",
+    "MAQUANCHAR": "HPKA",
+    "TEN_QUANHUYEN": "QUẬN KIẾN AN",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "QUẬN KIẾN AN-HPKA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "314",
+    "MAQUANCHAR": "HPCH",
+    "TEN_QUANHUYEN": "HUYỆN ĐẢO CÁT HẢI",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "HUYỆN ĐẢO CÁT HẢI-HPCH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "315",
+    "MAQUANCHAR": "HPTN",
+    "TEN_QUANHUYEN": "HUYỆN THỦY NGUYÊN",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "HUYỆN THỦY NGUYÊN-HPTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "316",
+    "MAQUANCHAR": "HPNQ",
+    "TEN_QUANHUYEN": "QUẬN NGÔ QUYỀN",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "QUẬN NGÔ QUYỀN-HPNQ",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "317",
+    "MAQUANCHAR": "HPTL",
+    "TEN_QUANHUYEN": "HUYỆN TIÊN LÃNG",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "HUYỆN TIÊN LÃNG-HPTL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "318",
+    "MAQUANCHAR": "HPHA",
+    "TEN_QUANHUYEN": "QUẬN HẢI AN",
+    "MA_TINH": "HAI PHONG_HPG",
+    "CODE_TINH": "HPG",
+    "TEN_DAY_DU": "QUẬN HẢI AN-HPHA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "340",
+    "MAQUANCHAR": "HGVT",
+    "TEN_QUANHUYEN": "TP. VỊ THANH",
+    "MA_TINH": "HAU GIANG_HUG",
+    "CODE_TINH": "HUG",
+    "TEN_DAY_DU": "TP. VỊ THANH-HGVT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "341",
+    "MAQUANCHAR": "HGCA",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU THÀNH A",
+    "MA_TINH": "HAU GIANG_HUG",
+    "CODE_TINH": "HUG",
+    "TEN_DAY_DU": "HUYỆN CHÂU THÀNH A-HGCA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "342",
+    "MAQUANCHAR": "HGLY",
+    "TEN_QUANHUYEN": "HUYỆN LONG MỸ",
+    "MA_TINH": "HAU GIANG_HUG",
+    "CODE_TINH": "HUG",
+    "TEN_DAY_DU": "HUYỆN LONG MỸ-HGLY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "343",
+    "MAQUANCHAR": "HGCT",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU THÀNH",
+    "MA_TINH": "HAU GIANG_HUG",
+    "CODE_TINH": "HUG",
+    "TEN_DAY_DU": "HUYỆN CHÂU THÀNH -HGCT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "344",
+    "MAQUANCHAR": "HGVY",
+    "TEN_QUANHUYEN": "HUYỆN VỊ THỦY",
+    "MA_TINH": "HAU GIANG_HUG",
+    "CODE_TINH": "HUG",
+    "TEN_DAY_DU": "HUYỆN VỊ THỦY-HGVY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "345",
+    "MAQUANCHAR": "HGNB",
+    "TEN_QUANHUYEN": "THỊ XÃ NGÃ BẢY",
+    "MA_TINH": "HAU GIANG_HUG",
+    "CODE_TINH": "HUG",
+    "TEN_DAY_DU": "THỊ XÃ NGÃ BẢY-HGNB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "346",
+    "MAQUANCHAR": "HGPH",
+    "TEN_QUANHUYEN": "HUYỆN PHỤNG HIỆP",
+    "MA_TINH": "HAU GIANG_HUG",
+    "CODE_TINH": "HUG",
+    "TEN_DAY_DU": "HUYỆN PHỤNG HIỆP-HGPH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "347",
+    "MAQUANCHAR": "HGLM",
+    "TEN_QUANHUYEN": "THỊ XÃ LONG MỸ",
+    "MA_TINH": "HAU GIANG_HUG",
+    "CODE_TINH": "HUG",
+    "TEN_DAY_DU": "THỊ XÃ LONG MỸ-HGLM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "220",
+    "MAQUANCHAR": "HCQ6",
+    "TEN_QUANHUYEN": "QUẬN 6",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN 6-HCQ6",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "221",
+    "MAQUANCHAR": "HCQ5",
+    "TEN_QUANHUYEN": "QUẬN 5",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN 5-HCQ5",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "222",
+    "MAQUANCHAR": "HCQ3",
+    "TEN_QUANHUYEN": "QUẬN 3",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN 3-HCQ3",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "223",
+    "MAQUANCHAR": "HCTB",
+    "TEN_QUANHUYEN": "QUẬN TÂN BÌNH",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN TÂN BÌNH-HCTB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "224",
+    "MAQUANCHAR": "HCCC",
+    "TEN_QUANHUYEN": "HUYỆN CỦ CHI",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "HUYỆN CỦ CHI-HCCC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "225",
+    "MAQUANCHAR": "HCNB",
+    "TEN_QUANHUYEN": "HUYỆN NHÀ BÈ",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "HUYỆN NHÀ BÈ-HCNB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "226",
+    "MAQUANCHAR": "HC10",
+    "TEN_QUANHUYEN": "QUẬN 10",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN 10-HC10",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "227",
+    "MAQUANCHAR": "HCQ7",
+    "TEN_QUANHUYEN": "QUẬN 7",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN 7-HCQ7",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "228",
+    "MAQUANCHAR": "HC12",
+    "TEN_QUANHUYEN": "QUẬN 12",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN 12-HC12",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "229",
+    "MAQUANCHAR": "HCQ9",
+    "TEN_QUANHUYEN": "QUẬN 9",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN 9-HCQ9",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "230",
+    "MAQUANCHAR": "HCCG",
+    "TEN_QUANHUYEN": "HUYỆN CẦN GIỜ",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "HUYỆN CẦN GIỜ-HCCG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "231",
+    "MAQUANCHAR": "HCQ1",
+    "TEN_QUANHUYEN": "QUẬN 1",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN 1-HCQ1",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "232",
+    "MAQUANCHAR": "HCGV",
+    "TEN_QUANHUYEN": "QUẬN GÒ VẤP",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN GÒ VẤP-HCGV",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "233",
+    "MAQUANCHAR": "HC11",
+    "TEN_QUANHUYEN": "QUẬN 11",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN 11-HC11",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "234",
+    "MAQUANCHAR": "HCBT",
+    "TEN_QUANHUYEN": "QUẬN BÌNH TÂN",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN BÌNH TÂN-HCBT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "235",
+    "MAQUANCHAR": "HCQ8",
+    "TEN_QUANHUYEN": "QUẬN 8",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN 8-HCQ8",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "236",
+    "MAQUANCHAR": "HCQ4",
+    "TEN_QUANHUYEN": "QUẬN 4",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN 4-HCQ4",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "237",
+    "MAQUANCHAR": "HCBC",
+    "TEN_QUANHUYEN": "HUYỆN BÌNH CHÁNH",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "HUYỆN BÌNH CHÁNH-HCBC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "238",
+    "MAQUANCHAR": "HCTD",
+    "TEN_QUANHUYEN": "QUẬN THỦ ĐỨC",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN THỦ ĐỨC-HCTD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "239",
+    "MAQUANCHAR": "HCBH",
+    "TEN_QUANHUYEN": "QUẬN BÌNH THẠNH",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN BÌNH THẠNH-HCBH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "240",
+    "MAQUANCHAR": "HCPN",
+    "TEN_QUANHUYEN": "QUẬN PHÚ NHUẬN",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN PHÚ NHUẬN-HCPN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "241",
+    "MAQUANCHAR": "HCQ2",
+    "TEN_QUANHUYEN": "QUẬN 2",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN 2-HCQ2",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "242",
+    "MAQUANCHAR": "HCTP",
+    "TEN_QUANHUYEN": "QUẬN TÂN PHÚ",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "QUẬN TÂN PHÚ-HCTP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "243",
+    "MAQUANCHAR": "HCHM",
+    "TEN_QUANHUYEN": "HUYỆN HÓC MÔN",
+    "MA_TINH": "HO CHI MINH_HCM",
+    "CODE_TINH": "HCM",
+    "TEN_DAY_DU": "HUYỆN HÓC MÔN-HCHM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "209",
+    "MAQUANCHAR": "HBKS",
+    "TEN_QUANHUYEN": "HUYỆN KỲ SƠN",
+    "MA_TINH": "HOA BINH_HBH",
+    "CODE_TINH": "HBH",
+    "TEN_DAY_DU": "HUYỆN KỲ SƠN-HBKS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "210",
+    "MAQUANCHAR": "HBLT",
+    "TEN_QUANHUYEN": "HUYỆN LẠC THỦY",
+    "MA_TINH": "HOA BINH_HBH",
+    "CODE_TINH": "HBH",
+    "TEN_DAY_DU": "HUYỆN LẠC THỦY-HBLT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "211",
+    "MAQUANCHAR": "HBKB",
+    "TEN_QUANHUYEN": "HUYỆN KIM BÔI",
+    "MA_TINH": "HOA BINH_HBH",
+    "CODE_TINH": "HBH",
+    "TEN_DAY_DU": "HUYỆN KIM BÔI-HBKB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "212",
+    "MAQUANCHAR": "HBTL",
+    "TEN_QUANHUYEN": "HUYỆN TÂN LẠC",
+    "MA_TINH": "HOA BINH_HBH",
+    "CODE_TINH": "HBH",
+    "TEN_DAY_DU": "HUYỆN TÂN LẠC-HBTL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "213",
+    "MAQUANCHAR": "HBLN",
+    "TEN_QUANHUYEN": "HUYỆN LƯƠNG SƠN",
+    "MA_TINH": "HOA BINH_HBH",
+    "CODE_TINH": "HBH",
+    "TEN_DAY_DU": "HUYỆN LƯƠNG SƠN-HBLN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "214",
+    "MAQUANCHAR": "HBYT",
+    "TEN_QUANHUYEN": "HUYỆN YÊN THỦY",
+    "MA_TINH": "HOA BINH_HBH",
+    "CODE_TINH": "HBH",
+    "TEN_DAY_DU": "HUYỆN YÊN THỦY-HBYT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "215",
+    "MAQUANCHAR": "HBCP",
+    "TEN_QUANHUYEN": "HUYỆN CAO PHONG",
+    "MA_TINH": "HOA BINH_HBH",
+    "CODE_TINH": "HBH",
+    "TEN_DAY_DU": "HUYỆN CAO PHONG-HBCP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "216",
+    "MAQUANCHAR": "HBDB",
+    "TEN_QUANHUYEN": "HUYỆN ĐÀ BẮC",
+    "MA_TINH": "HOA BINH_HBH",
+    "CODE_TINH": "HBH",
+    "TEN_DAY_DU": "HUYỆN ĐÀ BẮC-HBDB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "217",
+    "MAQUANCHAR": "HBLS",
+    "TEN_QUANHUYEN": "HUYỆN LẠC SƠN",
+    "MA_TINH": "HOA BINH_HBH",
+    "CODE_TINH": "HBH",
+    "TEN_DAY_DU": "HUYỆN LẠC SƠN-HBLS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "218",
+    "MAQUANCHAR": "HBHB",
+    "TEN_QUANHUYEN": "THỊ XÃ HÒA BÌNH",
+    "MA_TINH": "HOA BINH_HBH",
+    "CODE_TINH": "HBH",
+    "TEN_DAY_DU": "THỊ XÃ HÒA BÌNH-HBHB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "219",
+    "MAQUANCHAR": "HBMC",
+    "TEN_QUANHUYEN": "HUYỆN MAI CHÂU",
+    "MA_TINH": "HOA BINH_HBH",
+    "CODE_TINH": "HBH",
+    "TEN_DAY_DU": "HUYỆN MAI CHÂU-HBMC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "347",
+    "MAQUANCHAR": "HYPU",
+    "TEN_QUANHUYEN": "HUYỆN PHÙ CỪ",
+    "MA_TINH": "HUNG YEN_HYN",
+    "CODE_TINH": "HYN",
+    "TEN_DAY_DU": "HUYỆN PHÙ CỪ-HYPU",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "348",
+    "MAQUANCHAR": "HYVL",
+    "TEN_QUANHUYEN": "HUYỆN VĂN LÂM",
+    "MA_TINH": "HUNG YEN_HYN",
+    "CODE_TINH": "HYN",
+    "TEN_DAY_DU": "HUYỆN VĂN LÂM-HYVL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "349",
+    "MAQUANCHAR": "HYKC",
+    "TEN_QUANHUYEN": "HUYỆN KHOÁI CHÂU",
+    "MA_TINH": "HUNG YEN_HYN",
+    "CODE_TINH": "HYN",
+    "TEN_DAY_DU": "HUYỆN KHOÁI CHÂU-HYKC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "350",
+    "MAQUANCHAR": "HYAT",
+    "TEN_QUANHUYEN": "HUYỆN ÂN THI",
+    "MA_TINH": "HUNG YEN_HYN",
+    "CODE_TINH": "HYN",
+    "TEN_DAY_DU": "HUYỆN ÂN THI-HYAT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "351",
+    "MAQUANCHAR": "HYVG",
+    "TEN_QUANHUYEN": "HUYỆN VĂN GIANG",
+    "MA_TINH": "HUNG YEN_HYN",
+    "CODE_TINH": "HYN",
+    "TEN_DAY_DU": "HUYỆN VĂN GIANG-HYVG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "352",
+    "MAQUANCHAR": "HYMH",
+    "TEN_QUANHUYEN": "HUYỆN MỸ HÀO",
+    "MA_TINH": "HUNG YEN_HYN",
+    "CODE_TINH": "HYN",
+    "TEN_DAY_DU": "HUYỆN MỸ HÀO-HYMH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "353",
+    "MAQUANCHAR": "HYKD",
+    "TEN_QUANHUYEN": "HUYỆN KIM ĐỘNG",
+    "MA_TINH": "HUNG YEN_HYN",
+    "CODE_TINH": "HYN",
+    "TEN_DAY_DU": "HUYỆN KIM ĐỘNG-HYKD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "354",
+    "MAQUANCHAR": "HYTL",
+    "TEN_QUANHUYEN": "HUYỆN TIÊN LỮ",
+    "MA_TINH": "HUNG YEN_HYN",
+    "CODE_TINH": "HYN",
+    "TEN_DAY_DU": "HUYỆN TIÊN LỮ -HYTL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "355",
+    "MAQUANCHAR": "HYYM",
+    "TEN_QUANHUYEN": "HUYỆN YÊN MỸ",
+    "MA_TINH": "HUNG YEN_HYN",
+    "CODE_TINH": "HYN",
+    "TEN_DAY_DU": "HUYỆN YÊN MỸ-HYYM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "356",
+    "MAQUANCHAR": "HYHY",
+    "TEN_QUANHUYEN": "THỊ XÃ HƯNG YÊN",
+    "MA_TINH": "HUNG YEN_HYN",
+    "CODE_TINH": "HYN",
+    "TEN_DAY_DU": "THỊ XÃ HƯNG YÊN-HYHY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "372",
+    "MAQUANCHAR": "KHNT",
+    "TEN_QUANHUYEN": "THÀNH PHỐ NHA TRANG",
+    "MA_TINH": "KHANH HOA_KHA",
+    "CODE_TINH": "KHA",
+    "TEN_DAY_DU": "THÀNH PHỐ NHA TRANG-KHNT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "373",
+    "MAQUANCHAR": "KHNH",
+    "TEN_QUANHUYEN": "HUYỆN NINH HÒA",
+    "MA_TINH": "KHANH HOA_KHA",
+    "CODE_TINH": "KHA",
+    "TEN_DAY_DU": "HUYỆN NINH HÒA-KHNH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "374",
+    "MAQUANCHAR": "KHKS",
+    "TEN_QUANHUYEN": "HUYỆN KHÁNH SƠN",
+    "MA_TINH": "KHANH HOA_KHA",
+    "CODE_TINH": "KHA",
+    "TEN_DAY_DU": "HUYỆN KHÁNH SƠN-KHKS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "375",
+    "MAQUANCHAR": "KHCR",
+    "TEN_QUANHUYEN": "THÀNH PHỐ CAM RANH",
+    "MA_TINH": "KHANH HOA_KHA",
+    "CODE_TINH": "KHA",
+    "TEN_DAY_DU": "THÀNH PHỐ CAM RANH-KHCR",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "376",
+    "MAQUANCHAR": "KHDK",
+    "TEN_QUANHUYEN": "HUYỆN DIÊN KHÁNH",
+    "MA_TINH": "KHANH HOA_KHA",
+    "CODE_TINH": "KHA",
+    "TEN_DAY_DU": "HUYỆN DIÊN KHÁNH-KHDK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "377",
+    "MAQUANCHAR": "KHKV",
+    "TEN_QUANHUYEN": "HUYỆN KHÁNH VĨNH",
+    "MA_TINH": "KHANH HOA_KHA",
+    "CODE_TINH": "KHA",
+    "TEN_DAY_DU": "HUYỆN KHÁNH VĨNH-KHKV",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "378",
+    "MAQUANCHAR": "KHTS",
+    "TEN_QUANHUYEN": "HUYỆN TRƯỜNG SA",
+    "MA_TINH": "KHANH HOA_KHA",
+    "CODE_TINH": "KHA",
+    "TEN_DAY_DU": "HUYỆN TRƯỜNG SA-KHTS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "379",
+    "MAQUANCHAR": "KHCL",
+    "TEN_QUANHUYEN": "HUYỆN CAM LÂM",
+    "MA_TINH": "KHANH HOA_KHA",
+    "CODE_TINH": "KHA",
+    "TEN_DAY_DU": "HUYỆN CAM LÂM-KHCL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "380",
+    "MAQUANCHAR": "KHVN",
+    "TEN_QUANHUYEN": "HUYỆN VẠN NINH",
+    "MA_TINH": "KHANH HOA_KHA",
+    "CODE_TINH": "KHA",
+    "TEN_DAY_DU": "HUYỆN VẠN NINH-KHVN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "357",
+    "MAQUANCHAR": "KGAB",
+    "TEN_QUANHUYEN": "HUYỆN AN BIÊN",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYỆN AN BIÊN-KGAB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "358",
+    "MAQUANCHAR": "KGGR",
+    "TEN_QUANHUYEN": "HUYỆN GIỒNG RIỀNG",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYỆN GIỒNG RIỀNG-KGGR",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "359",
+    "MAQUANCHAR": "KGUT",
+    "TEN_QUANHUYEN": "HUYỆN U MINH THƯỢNG",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYỆN U MINH THƯỢNG-KGUT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "360",
+    "MAQUANCHAR": "KGKL",
+    "TEN_QUANHUYEN": "HUYỆN KIÊN LƯƠNG",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYỆN KIÊN LƯƠNG-KGKL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "361",
+    "MAQUANCHAR": "KGCT",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU THÀNH",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYỆN CHÂU THÀNH-KGCT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "362",
+    "MAQUANCHAR": "KGHD",
+    "TEN_QUANHUYEN": "HUYỆN HÒN ĐẤT",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYỆN HÒN ĐẤT-KGHD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "363",
+    "MAQUANCHAR": "KGGT",
+    "TEN_QUANHUYEN": "HUYÊN GIANG THÀNH",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYÊN GIANG THÀNH-KGGT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "364",
+    "MAQUANCHAR": "KGVT",
+    "TEN_QUANHUYEN": "HUYỆN VĨNH THUẬN",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYỆN VĨNH THUẬN-KGVT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "365",
+    "MAQUANCHAR": "KGRG",
+    "TEN_QUANHUYEN": "THÀNH PHỐ RẠCH GIÁ",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "THÀNH PHỐ RẠCH GIÁ-KGRG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "366",
+    "MAQUANCHAR": "KGTH",
+    "TEN_QUANHUYEN": "HUYỆN TÂN HIỆP",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYỆN TÂN HIỆP-KGTH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "367",
+    "MAQUANCHAR": "KGPQ",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ QUỐC",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYỆN PHÚ QUỐC-KGPQ",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "368",
+    "MAQUANCHAR": "KGGQ",
+    "TEN_QUANHUYEN": "HUYỆN GÒ QUAO",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYỆN GÒ QUAO-KGGQ",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "369",
+    "MAQUANCHAR": "KGHT",
+    "TEN_QUANHUYEN": "THỊ XÃ HÀ TIÊN",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "THỊ XÃ HÀ TIÊN-KGHT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "370",
+    "MAQUANCHAR": "KGKH",
+    "TEN_QUANHUYEN": "HUYỆN KIÊN HẢI",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYỆN KIÊN HẢI-KGKH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "371",
+    "MAQUANCHAR": "KGAM",
+    "TEN_QUANHUYEN": "HUYỆN AN MINH",
+    "MA_TINH": "KIEN GIANG_KGG",
+    "CODE_TINH": "KGG",
+    "TEN_DAY_DU": "HUYỆN AN MINH-KGAM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "381",
+    "MAQUANCHAR": "KTDH",
+    "TEN_QUANHUYEN": "HUYỆN ĐẮK HÀ",
+    "MA_TINH": "KON TUM_KTM",
+    "CODE_TINH": "KTM",
+    "TEN_DAY_DU": "HUYỆN ĐẮK HÀ-KTDH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "382",
+    "MAQUANCHAR": "KTST",
+    "TEN_QUANHUYEN": "HUYỆN SA THẦY",
+    "MA_TINH": "KON TUM_KTM",
+    "CODE_TINH": "KTM",
+    "TEN_DAY_DU": "HUYỆN SA THẦY-KTST",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "383",
+    "MAQUANCHAR": "KTTR",
+    "TEN_QUANHUYEN": "HUYỆN TU MƠ RÔNG",
+    "MA_TINH": "KON TUM_KTM",
+    "CODE_TINH": "KTM",
+    "TEN_DAY_DU": "HUYỆN TU MƠ RÔNG-KTTR",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "384",
+    "MAQUANCHAR": "KTKP",
+    "TEN_QUANHUYEN": "HUYỆN KON PLÔNG",
+    "MA_TINH": "KON TUM_KTM",
+    "CODE_TINH": "KTM",
+    "TEN_DAY_DU": "HUYỆN KON PLÔNG-KTKP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "385",
+    "MAQUANCHAR": "KTKT",
+    "TEN_QUANHUYEN": "THÀNH PHỐ KON TUM",
+    "MA_TINH": "KON TUM_KTM",
+    "CODE_TINH": "KTM",
+    "TEN_DAY_DU": "THÀNH PHỐ KON TUM-KTKT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "386",
+    "MAQUANCHAR": "KTDT",
+    "TEN_QUANHUYEN": "HUYỆN ĐẮK TÔ",
+    "MA_TINH": "KON TUM_KTM",
+    "CODE_TINH": "KTM",
+    "TEN_DAY_DU": "HUYỆN ĐẮK TÔ-KTDT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "387",
+    "MAQUANCHAR": "KTNH",
+    "TEN_QUANHUYEN": "HUYỆN NGỌC HỒI",
+    "MA_TINH": "KON TUM_KTM",
+    "CODE_TINH": "KTM",
+    "TEN_DAY_DU": "HUYỆN NGỌC HỒI-KTNH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "388",
+    "MAQUANCHAR": "KTKR",
+    "TEN_QUANHUYEN": "HUYỆN KON RẪY",
+    "MA_TINH": "KON TUM_KTM",
+    "CODE_TINH": "KTM",
+    "TEN_DAY_DU": "HUYỆN KON RẪY-KTKR",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "389",
+    "MAQUANCHAR": "KTDG",
+    "TEN_QUANHUYEN": "HUYỆN ĐẮK GLEI",
+    "MA_TINH": "KON TUM_KTM",
+    "CODE_TINH": "KTM",
+    "TEN_DAY_DU": "HUYỆN ĐẮK GLEI-KTDG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "390",
+    "MAQUANCHAR": "KTIH",
+    "TEN_QUANHUYEN": "HUYỆN IA H'DRAI",
+    "MA_TINH": "KON TUM_KTM",
+    "CODE_TINH": "KTM",
+    "TEN_DAY_DU": "HUYỆN IA H'DRAI-KTIH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "413",
+    "MAQUANCHAR": "LCTG",
+    "TEN_QUANHUYEN": "HUYỆN TAM ĐƯỜNG",
+    "MA_TINH": "LAI CHAU_LCU",
+    "CODE_TINH": "LCU",
+    "TEN_DAY_DU": "HUYỆN TAM ĐƯỜNG-LCTG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "414",
+    "MAQUANCHAR": "LCPT",
+    "TEN_QUANHUYEN": "HUYỆN PHONG THỔ",
+    "MA_TINH": "LAI CHAU_LCU",
+    "CODE_TINH": "LCU",
+    "TEN_DAY_DU": "HUYỆN PHONG THỔ-LCPT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "415",
+    "MAQUANCHAR": "LCSH",
+    "TEN_QUANHUYEN": "HUYỆN SÌN HỒ",
+    "MA_TINH": "LAI CHAU_LCU",
+    "CODE_TINH": "LCU",
+    "TEN_DAY_DU": "HUYỆN SÌN HỒ-LCSH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "416",
+    "MAQUANCHAR": "LCTN",
+    "TEN_QUANHUYEN": "HUYỆN THAN UYÊN",
+    "MA_TINH": "LAI CHAU_LCU",
+    "CODE_TINH": "LCU",
+    "TEN_DAY_DU": "HUYỆN THAN UYÊN-LCTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "417",
+    "MAQUANCHAR": "LCMT",
+    "TEN_QUANHUYEN": "HUYỆN MƯỜNG TÈ",
+    "MA_TINH": "LAI CHAU_LCU",
+    "CODE_TINH": "LCU",
+    "TEN_DAY_DU": "HUYỆN MƯỜNG TÈ-LCMT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "418",
+    "MAQUANCHAR": "LCTU",
+    "TEN_QUANHUYEN": "HUYỆN TÂN UYÊN",
+    "MA_TINH": "LAI CHAU_LCU",
+    "CODE_TINH": "LCU",
+    "TEN_DAY_DU": "HUYỆN TÂN UYÊN-LCTU",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "419",
+    "MAQUANCHAR": "LCNN",
+    "TEN_QUANHUYEN": "HUYỆN NẬM NHÙN",
+    "MA_TINH": "LAI CHAU_LCU",
+    "CODE_TINH": "LCU",
+    "TEN_DAY_DU": "HUYỆN NẬM NHÙN-LCNN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "420",
+    "MAQUANCHAR": "LCLU",
+    "TEN_QUANHUYEN": "THỊ XÃ LAI CHÂU",
+    "MA_TINH": "LAI CHAU_LCU",
+    "CODE_TINH": "LCU",
+    "TEN_DAY_DU": "THỊ XÃ LAI CHÂU-LCLU",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "421",
+    "MAQUANCHAR": "LDLD",
+    "TEN_QUANHUYEN": "HUYỆN LẠC DƯƠNG",
+    "MA_TINH": "LAM DONG_LDG",
+    "CODE_TINH": "LDG",
+    "TEN_DAY_DU": "HUYỆN LẠC DƯƠNG-LDLD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "422",
+    "MAQUANCHAR": "LDBM",
+    "TEN_QUANHUYEN": "HUYỆN BẢO LÂM",
+    "MA_TINH": "LAM DONG_LDG",
+    "CODE_TINH": "LDG",
+    "TEN_DAY_DU": "HUYỆN BẢO LÂM-LDBM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "423",
+    "MAQUANCHAR": "LDCT",
+    "TEN_QUANHUYEN": "HUYỆN CÁT TIÊN",
+    "MA_TINH": "LAM DONG_LDG",
+    "CODE_TINH": "LDG",
+    "TEN_DAY_DU": "HUYỆN CÁT TIÊN-LDCT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "424",
+    "MAQUANCHAR": "LDDI",
+    "TEN_QUANHUYEN": "HUYỆN DI LINH",
+    "MA_TINH": "LAM DONG_LDG",
+    "CODE_TINH": "LDG",
+    "TEN_DAY_DU": "HUYỆN DI LINH-LDDI",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "425",
+    "MAQUANCHAR": "LDDH",
+    "TEN_QUANHUYEN": "HUYỆN ĐẠ HUOAI",
+    "MA_TINH": "LAM DONG_LDG",
+    "CODE_TINH": "LDG",
+    "TEN_DAY_DU": "HUYỆN ĐẠ HUOAI-LDDH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "426",
+    "MAQUANCHAR": "LDLH",
+    "TEN_QUANHUYEN": "HUYỆN LÂM HÀ",
+    "MA_TINH": "LAM DONG_LDG",
+    "CODE_TINH": "LDG",
+    "TEN_DAY_DU": "HUYỆN LÂM HÀ-LDLH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "427",
+    "MAQUANCHAR": "LDDL",
+    "TEN_QUANHUYEN": "THÀNH PHỐ ĐÀ LẠT",
+    "MA_TINH": "LAM DONG_LDG",
+    "CODE_TINH": "LDG",
+    "TEN_DAY_DU": "THÀNH PHỐ ĐÀ LẠT-LDDL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "428",
+    "MAQUANCHAR": "LDDA",
+    "TEN_QUANHUYEN": "HUYỆN ĐẠ TẺH",
+    "MA_TINH": "LAM DONG_LDG",
+    "CODE_TINH": "LDG",
+    "TEN_DAY_DU": "HUYỆN ĐẠ TẺH-LDDA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "429",
+    "MAQUANCHAR": "LDDR",
+    "TEN_QUANHUYEN": "HUYỆN ĐAM RÔNG",
+    "MA_TINH": "LAM DONG_LDG",
+    "CODE_TINH": "LDG",
+    "TEN_DAY_DU": "HUYỆN ĐAM RÔNG-LDDR",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "430",
+    "MAQUANCHAR": "LDBL",
+    "TEN_QUANHUYEN": "THỊ XÃ BẢO LỘC",
+    "MA_TINH": "LAM DONG_LDG",
+    "CODE_TINH": "LDG",
+    "TEN_DAY_DU": "THỊ XÃ BẢO LỘC-LDBL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "431",
+    "MAQUANCHAR": "LDDD",
+    "TEN_QUANHUYEN": "HUYỆN ĐƠN DƯƠNG",
+    "MA_TINH": "LAM DONG_LDG",
+    "CODE_TINH": "LDG",
+    "TEN_DAY_DU": "HUYỆN ĐƠN DƯƠNG-LDDD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "432",
+    "MAQUANCHAR": "LDDT",
+    "TEN_QUANHUYEN": "HUYỆN ĐỨC TRỌNG",
+    "MA_TINH": "LAM DONG_LDG",
+    "CODE_TINH": "LDG",
+    "TEN_DAY_DU": "HUYỆN ĐỨC TRỌNG-LDDT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "433",
+    "MAQUANCHAR": "LSVQ",
+    "TEN_QUANHUYEN": "HUYỆN VĂN QUAN",
+    "MA_TINH": "LANG SON_LSN",
+    "CODE_TINH": "LSN",
+    "TEN_DAY_DU": "HUYỆN VĂN QUAN-LSVQ",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "434",
+    "MAQUANCHAR": "LSHL",
+    "TEN_QUANHUYEN": "HUYỆN HỮU LŨNG",
+    "MA_TINH": "LANG SON_LSN",
+    "CODE_TINH": "LSN",
+    "TEN_DAY_DU": "HUYỆN HỮU LŨNG-LSHL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "435",
+    "MAQUANCHAR": "LSCG",
+    "TEN_QUANHUYEN": "HUYỆN CHI LĂNG",
+    "MA_TINH": "LANG SON_LSN",
+    "CODE_TINH": "LSN",
+    "TEN_DAY_DU": "HUYỆN CHI LĂNG-LSCG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "436",
+    "MAQUANCHAR": "LSBS",
+    "TEN_QUANHUYEN": "HUYỆN BẮC SƠN",
+    "MA_TINH": "LANG SON_LSN",
+    "CODE_TINH": "LSN",
+    "TEN_DAY_DU": "HUYỆN BẮC SƠN-LSBS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "437",
+    "MAQUANCHAR": "LSVL",
+    "TEN_QUANHUYEN": "HUYỆN VĂN LÃNG",
+    "MA_TINH": "LANG SON_LSN",
+    "CODE_TINH": "LSN",
+    "TEN_DAY_DU": "HUYỆN VĂN LÃNG-LSVL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "438",
+    "MAQUANCHAR": "LSLB",
+    "TEN_QUANHUYEN": "HUYỆN LỘC BÌNH",
+    "MA_TINH": "LANG SON_LSN",
+    "CODE_TINH": "LSN",
+    "TEN_DAY_DU": "HUYỆN LỘC BÌNH-LSLB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "439",
+    "MAQUANCHAR": "LSCL",
+    "TEN_QUANHUYEN": "HUYỆN CAO LỘC",
+    "MA_TINH": "LANG SON_LSN",
+    "CODE_TINH": "LSN",
+    "TEN_DAY_DU": "HUYỆN CAO LỘC-LSCL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "440",
+    "MAQUANCHAR": "LSDL",
+    "TEN_QUANHUYEN": "HUYỆN ĐÌNH LẬP",
+    "MA_TINH": "LANG SON_LSN",
+    "CODE_TINH": "LSN",
+    "TEN_DAY_DU": "HUYỆN ĐÌNH LẬP-LSDL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "441",
+    "MAQUANCHAR": "LSBG",
+    "TEN_QUANHUYEN": "HUYỆN BÌNH GIA",
+    "MA_TINH": "LANG SON_LSN",
+    "CODE_TINH": "LSN",
+    "TEN_DAY_DU": "HUYỆN BÌNH GIA-LSBG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "442",
+    "MAQUANCHAR": "LSLS",
+    "TEN_QUANHUYEN": "THÀNH PHỐ LẠNG SƠN",
+    "MA_TINH": "LANG SON_LSN",
+    "CODE_TINH": "LSN",
+    "TEN_DAY_DU": "THÀNH PHỐ LẠNG SƠN-LSLS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "443",
+    "MAQUANCHAR": "LSTD",
+    "TEN_QUANHUYEN": "HUYỆN TRÀNG ĐỊNH",
+    "MA_TINH": "LANG SON_LSN",
+    "CODE_TINH": "LSN",
+    "TEN_DAY_DU": "HUYỆN TRÀNG ĐỊNH-LSTD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "404",
+    "MAQUANCHAR": "LCLC",
+    "TEN_QUANHUYEN": "THÀNH PHỐ LÀO CAI",
+    "MA_TINH": "LAO CAI_LCI",
+    "CODE_TINH": "LCI",
+    "TEN_DAY_DU": "THÀNH PHỐ LÀO CAI-LCLC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "405",
+    "MAQUANCHAR": "LCSP",
+    "TEN_QUANHUYEN": "HUYỆN SA PA",
+    "MA_TINH": "LAO CAI_LCI",
+    "CODE_TINH": "LCI",
+    "TEN_DAY_DU": "HUYỆN SA PA-LCSP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "406",
+    "MAQUANCHAR": "LCMK",
+    "TEN_QUANHUYEN": "HUYỆN MƯỜNG KHƯƠNG",
+    "MA_TINH": "LAO CAI_LCI",
+    "CODE_TINH": "LCI",
+    "TEN_DAY_DU": "HUYỆN MƯỜNG KHƯƠNG-LCMK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "407",
+    "MAQUANCHAR": "LCBX",
+    "TEN_QUANHUYEN": "HUYỆN BÁT XÁT",
+    "MA_TINH": "LAO CAI_LCI",
+    "CODE_TINH": "LCI",
+    "TEN_DAY_DU": "HUYỆN BÁT XÁT-LCBX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "408",
+    "MAQUANCHAR": "LCVB",
+    "TEN_QUANHUYEN": "HUYỆN VĂN BÀN",
+    "MA_TINH": "LAO CAI_LCI",
+    "CODE_TINH": "LCI",
+    "TEN_DAY_DU": "HUYỆN VĂN BÀN-LCVB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "409",
+    "MAQUANCHAR": "LCBH",
+    "TEN_QUANHUYEN": "HUYỆN BẮC HÀ",
+    "MA_TINH": "LAO CAI_LCI",
+    "CODE_TINH": "LCI",
+    "TEN_DAY_DU": "HUYỆN BẮC HÀ-LCBH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "410",
+    "MAQUANCHAR": "LCSC",
+    "TEN_QUANHUYEN": "HUYỆN SI MA CAI",
+    "MA_TINH": "LAO CAI_LCI",
+    "CODE_TINH": "LCI",
+    "TEN_DAY_DU": "HUYỆN SI MA CAI-LCSC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "411",
+    "MAQUANCHAR": "LCBY",
+    "TEN_QUANHUYEN": "HUYỆN BẢO YÊN",
+    "MA_TINH": "LAO CAI_LCI",
+    "CODE_TINH": "LCI",
+    "TEN_DAY_DU": "HUYỆN BẢO YÊN-LCBY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "412",
+    "MAQUANCHAR": "LCBT",
+    "TEN_QUANHUYEN": "HUYỆN BẢO THẮNG",
+    "MA_TINH": "LAO CAI_LCI",
+    "CODE_TINH": "LCI",
+    "TEN_DAY_DU": "HUYỆN BẢO THẮNG-LCBT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "390",
+    "MAQUANCHAR": "LATU",
+    "TEN_QUANHUYEN": "HUYỆN TÂN TRỤ",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN TÂN TRỤ-LATU",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "391",
+    "MAQUANCHAR": "LADE",
+    "TEN_QUANHUYEN": "HUYỆN ĐỨC HUỆ",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN ĐỨC HUỆ-LADE",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "392",
+    "MAQUANCHAR": "LACG",
+    "TEN_QUANHUYEN": "HUYỆN CẦN GUỘC",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN CẦN GUỘC-LACG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "393",
+    "MAQUANCHAR": "LACD",
+    "TEN_QUANHUYEN": "HUYỆN CẦN ĐƯỚC",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN CẦN ĐƯỚC-LACD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "394",
+    "MAQUANCHAR": "LATA",
+    "TEN_QUANHUYEN": "THỊ XÃ TÂN AN",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "THỊ XÃ TÂN AN-LATA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "395",
+    "MAQUANCHAR": "LATG",
+    "TEN_QUANHUYEN": "HUYỆN TÂN HƯNG",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN TÂN HƯNG-LATG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "396",
+    "MAQUANCHAR": "LACT",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU THÀNH",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN CHÂU THÀNH-LACT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "397",
+    "MAQUANCHAR": "LABL",
+    "TEN_QUANHUYEN": "HUYỆN BẾN LỨC",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN BẾN LỨC-LABL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "398",
+    "MAQUANCHAR": "LATN",
+    "TEN_QUANHUYEN": "HUYỆN TÂN THẠNH",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN TÂN THẠNH-LATN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "399",
+    "MAQUANCHAR": "LATH",
+    "TEN_QUANHUYEN": "HUYỆN THẠNH HÓA",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN THẠNH HÓA-LATH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "400",
+    "MAQUANCHAR": "LAMH",
+    "TEN_QUANHUYEN": "HUYỆN MỘC HÓA",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN MỘC HÓA-LAMH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "401",
+    "MAQUANCHAR": "LADH",
+    "TEN_QUANHUYEN": "HUYỆN ĐỨC HÒA",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN ĐỨC HÒA-LADH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "402",
+    "MAQUANCHAR": "LAVH",
+    "TEN_QUANHUYEN": "HUYỆN VĨNH HƯNG",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN VĨNH HƯNG-LAVH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "403",
+    "MAQUANCHAR": "LATT",
+    "TEN_QUANHUYEN": "HUYỆN THỦ THỪA",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "HUYỆN THỦ THỪA-LATT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "404",
+    "MAQUANCHAR": "LAKT",
+    "TEN_QUANHUYEN": "THỊ XÃ KIẾN TƯỜNG",
+    "MA_TINH": "LONG AN_LAN",
+    "CODE_TINH": "LAN",
+    "TEN_DAY_DU": "THỊ XÃ KIẾN TƯỜNG-LAKT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "473",
+    "MAQUANCHAR": "NDNT",
+    "TEN_QUANHUYEN": "HUYỆN NAM TRỰC",
+    "MA_TINH": "NAM DINH_NDH",
+    "CODE_TINH": "NDH",
+    "TEN_DAY_DU": "HUYỆN NAM TRỰC-NDNT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "474",
+    "MAQUANCHAR": "NDTN",
+    "TEN_QUANHUYEN": "HUYỆN TRỰC NINH",
+    "MA_TINH": "NAM DINH_NDH",
+    "CODE_TINH": "NDH",
+    "TEN_DAY_DU": "HUYỆN TRỰC NINH-NDTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "475",
+    "MAQUANCHAR": "NDML",
+    "TEN_QUANHUYEN": "HUYỆN MỸ LỘC",
+    "MA_TINH": "NAM DINH_NDH",
+    "CODE_TINH": "NDH",
+    "TEN_DAY_DU": "HUYỆN MỸ LỘC-NDML",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "476",
+    "MAQUANCHAR": "NDGT",
+    "TEN_QUANHUYEN": "HUYỆN GIAO THỦY",
+    "MA_TINH": "NAM DINH_NDH",
+    "CODE_TINH": "NDH",
+    "TEN_DAY_DU": "HUYỆN GIAO THỦY-NDGT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "477",
+    "MAQUANCHAR": "NDNH",
+    "TEN_QUANHUYEN": "HUYỆN NGHĨA HƯNG",
+    "MA_TINH": "NAM DINH_NDH",
+    "CODE_TINH": "NDH",
+    "TEN_DAY_DU": "HUYỆN NGHĨA HƯNG-NDNH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "478",
+    "MAQUANCHAR": "NDND",
+    "TEN_QUANHUYEN": "THÀNH PHỐ NAM ĐỊNH",
+    "MA_TINH": "NAM DINH_NDH",
+    "CODE_TINH": "NDH",
+    "TEN_DAY_DU": "THÀNH PHỐ NAM ĐỊNH-NDND",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "479",
+    "MAQUANCHAR": "NDHH",
+    "TEN_QUANHUYEN": "HUYỆN HẢI HẬU",
+    "MA_TINH": "NAM DINH_NDH",
+    "CODE_TINH": "NDH",
+    "TEN_DAY_DU": "HUYỆN HẢI HẬU-NDHH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "480",
+    "MAQUANCHAR": "NDVB",
+    "TEN_QUANHUYEN": "HUYỆN VỤ BẢN",
+    "MA_TINH": "NAM DINH_NDH",
+    "CODE_TINH": "NDH",
+    "TEN_DAY_DU": "HUYỆN VỤ BẢN-NDVB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "481",
+    "MAQUANCHAR": "NDXT",
+    "TEN_QUANHUYEN": "HUYỆN XUÂN TRƯỜNG",
+    "MA_TINH": "NAM DINH_NDH",
+    "CODE_TINH": "NDH",
+    "TEN_DAY_DU": "HUYỆN XUÂN TRƯỜNG-NDXT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "482",
+    "MAQUANCHAR": "NDYY",
+    "TEN_QUANHUYEN": "HUYỆN Ý YÊN",
+    "MA_TINH": "NAM DINH_NDH",
+    "CODE_TINH": "NDH",
+    "TEN_DAY_DU": "HUYỆN Ý YÊN-NDYY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "444",
+    "MAQUANCHAR": "NAAS",
+    "TEN_QUANHUYEN": "HUYỆN ANH SƠN",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN ANH SƠN-NAAS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "445",
+    "MAQUANCHAR": "NACC",
+    "TEN_QUANHUYEN": "HUYỆN CON CUÔNG",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN CON CUÔNG-NACC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "446",
+    "MAQUANCHAR": "NAHN",
+    "TEN_QUANHUYEN": "HUYỆN HƯNG NGUYÊN",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN HƯNG NGUYÊN-NAHN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "447",
+    "MAQUANCHAR": "NATH",
+    "TEN_QUANHUYEN": "THỊ XÃ THÁI HÒA",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "THỊ XÃ THÁI HÒA-NATH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "448",
+    "MAQUANCHAR": "NAQC",
+    "TEN_QUANHUYEN": "HUYỆN QUỲ CHÂU",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN QUỲ CHÂU-NAQC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "449",
+    "MAQUANCHAR": "NACL",
+    "TEN_QUANHUYEN": "THỊ XÃ CỬA LÒ",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "THỊ XÃ CỬA LÒ-NACL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "450",
+    "MAQUANCHAR": "NATD",
+    "TEN_QUANHUYEN": "HUYỆN TƯƠNG DƯƠNG",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN TƯƠNG DƯƠNG-NATD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "451",
+    "MAQUANCHAR": "NAQP",
+    "TEN_QUANHUYEN": "HUYỆN QUẾ PHONG",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN QUẾ PHONG-NAQP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "452",
+    "MAQUANCHAR": "NATK",
+    "TEN_QUANHUYEN": "HUYỆN TÂN KỲ",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN TÂN KỲ-NATK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "453",
+    "MAQUANCHAR": "NADC",
+    "TEN_QUANHUYEN": "HUYỆN DIỄN CHÂU",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN DIỄN CHÂU-NADC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "454",
+    "MAQUANCHAR": "NAKS",
+    "TEN_QUANHUYEN": "HUYỆN KỲ SƠN",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN KỲ SƠN-NAKS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "455",
+    "MAQUANCHAR": "NAVH",
+    "TEN_QUANHUYEN": "THÀNH PHỐ VINH",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "THÀNH PHỐ VINH-NAVH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "456",
+    "MAQUANCHAR": "NADL",
+    "TEN_QUANHUYEN": "HUYỆN ĐÔ LƯƠNG",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN ĐÔ LƯƠNG-NADL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "457",
+    "MAQUANCHAR": "NANL",
+    "TEN_QUANHUYEN": "HUYỆN NGHI LỘC",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN NGHI LỘC-NANL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "458",
+    "MAQUANCHAR": "NAYT",
+    "TEN_QUANHUYEN": "HUYỆN YÊN THÀNH",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN YÊN THÀNH-NAYT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "459",
+    "MAQUANCHAR": "NAQL",
+    "TEN_QUANHUYEN": "HUYỆN QUỲNH LƯU",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN QUỲNH LƯU-NAQL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "460",
+    "MAQUANCHAR": "NAND",
+    "TEN_QUANHUYEN": "HUYỆN NAM ĐÀN",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN NAM ĐÀN-NAND",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "461",
+    "MAQUANCHAR": "NANN",
+    "TEN_QUANHUYEN": "HUYỆN NGHĨA ĐÀN",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN NGHĨA ĐÀN-NANN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "462",
+    "MAQUANCHAR": "NATC",
+    "TEN_QUANHUYEN": "HUYỆN THANH CHƯƠNG",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN THANH CHƯƠNG-NATC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "463",
+    "MAQUANCHAR": "NAQH",
+    "TEN_QUANHUYEN": "HUYỆN QUỲ HỢP",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "HUYỆN QUỲ HỢP-NAQH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "464",
+    "MAQUANCHAR": "NAHM",
+    "TEN_QUANHUYEN": "THỊ XÃ HOÀNG MAI",
+    "MA_TINH": "NGHE AN_NAN",
+    "CODE_TINH": "NAN",
+    "TEN_DAY_DU": "THỊ XÃ HOÀNG MAI-NAHM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "464",
+    "MAQUANCHAR": "NBNB",
+    "TEN_QUANHUYEN": "THÀNH PHỐ NINH BÌNH",
+    "MA_TINH": "NINH BINH_NBH",
+    "CODE_TINH": "NBH",
+    "TEN_DAY_DU": "THÀNH PHỐ NINH BÌNH-NBNB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "465",
+    "MAQUANCHAR": "NBKS",
+    "TEN_QUANHUYEN": "HUYỆN KIM SƠN",
+    "MA_TINH": "NINH BINH_NBH",
+    "CODE_TINH": "NBH",
+    "TEN_DAY_DU": "HUYỆN KIM SƠN-NBKS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "466",
+    "MAQUANCHAR": "NBNQ",
+    "TEN_QUANHUYEN": "HUYỆN NHO QUAN",
+    "MA_TINH": "NINH BINH_NBH",
+    "CODE_TINH": "NBH",
+    "TEN_DAY_DU": "HUYỆN NHO QUAN-NBNQ",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "467",
+    "MAQUANCHAR": "NBGV",
+    "TEN_QUANHUYEN": "HUYỆN GIA VIỄN",
+    "MA_TINH": "NINH BINH_NBH",
+    "CODE_TINH": "NBH",
+    "TEN_DAY_DU": "HUYỆN GIA VIỄN-NBGV",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "468",
+    "MAQUANCHAR": "NBYM",
+    "TEN_QUANHUYEN": "HUYỆN YÊN MÔ",
+    "MA_TINH": "NINH BINH_NBH",
+    "CODE_TINH": "NBH",
+    "TEN_DAY_DU": "HUYỆN YÊN MÔ-NBYM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "470",
+    "MAQUANCHAR": "NBYK",
+    "TEN_QUANHUYEN": "HUYỆN YÊN KHÁNH",
+    "MA_TINH": "NINH BINH_NBH",
+    "CODE_TINH": "NBH",
+    "TEN_DAY_DU": "HUYỆN YÊN KHÁNH-NBYK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "471",
+    "MAQUANCHAR": "NBHL",
+    "TEN_QUANHUYEN": "HUYỆN HOA LƯ",
+    "MA_TINH": "NINH BINH_NBH",
+    "CODE_TINH": "NBH",
+    "TEN_DAY_DU": "HUYỆN HOA LƯ-NBHL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "472",
+    "MAQUANCHAR": "NBTD",
+    "TEN_QUANHUYEN": "THỊ XÃ TAM ĐIỆP",
+    "MA_TINH": "NINH BINH_NBH",
+    "CODE_TINH": "NBH",
+    "TEN_DAY_DU": "THỊ XÃ TAM ĐIỆP-NBTD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "483",
+    "MAQUANCHAR": "NTBA",
+    "TEN_QUANHUYEN": "HUYỆN BÁC ÁI",
+    "MA_TINH": "NINH THUAN_NTN",
+    "CODE_TINH": "NTN",
+    "TEN_DAY_DU": "HUYỆN BÁC ÁI-NTBA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "484",
+    "MAQUANCHAR": "NTNP",
+    "TEN_QUANHUYEN": "HUYỆN NINH PHƯỚC",
+    "MA_TINH": "NINH THUAN_NTN",
+    "CODE_TINH": "NTN",
+    "TEN_DAY_DU": "HUYỆN NINH PHƯỚC-NTNP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "485",
+    "MAQUANCHAR": "NTNS",
+    "TEN_QUANHUYEN": "HUYỆN NINH SƠN",
+    "MA_TINH": "NINH THUAN_NTN",
+    "CODE_TINH": "NTN",
+    "TEN_DAY_DU": "HUYỆN NINH SƠN-NTNS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "486",
+    "MAQUANCHAR": "NTTN",
+    "TEN_QUANHUYEN": "HUYỆN THUẬN NAM",
+    "MA_TINH": "NINH THUAN_NTN",
+    "CODE_TINH": "NTN",
+    "TEN_DAY_DU": "HUYỆN THUẬN NAM-NTTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "487",
+    "MAQUANCHAR": "NTNH",
+    "TEN_QUANHUYEN": "HUYỆN NINH HẢI",
+    "MA_TINH": "NINH THUAN_NTN",
+    "CODE_TINH": "NTN",
+    "TEN_DAY_DU": "HUYỆN NINH HẢI-NTNH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "488",
+    "MAQUANCHAR": "NTTB",
+    "TEN_QUANHUYEN": "HUYỆN THUẬN BẮC",
+    "MA_TINH": "NINH THUAN_NTN",
+    "CODE_TINH": "NTN",
+    "TEN_DAY_DU": "HUYỆN THUẬN BẮC-NTTB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "489",
+    "MAQUANCHAR": "NTPR",
+    "TEN_QUANHUYEN": "TP.PHAN RANG - THÁP CHÀM",
+    "MA_TINH": "NINH THUAN_NTN",
+    "CODE_TINH": "NTN",
+    "TEN_DAY_DU": "TP.PHAN RANG - THÁP CHÀM-NTPR",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "490",
+    "MAQUANCHAR": "PTPT",
+    "TEN_QUANHUYEN": "THI XÃ PHÚ THỌ",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "THI XÃ PHÚ THỌ-PTPT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "491",
+    "MAQUANCHAR": "PTTB",
+    "TEN_QUANHUYEN": "HUYỆN THANH BA",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "HUYỆN THANH BA-PTTB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "492",
+    "MAQUANCHAR": "PTVT",
+    "TEN_QUANHUYEN": "THÀNH PHỐ VIỆT TRÌ",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "THÀNH PHỐ VIỆT TRÌ-PTVT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "493",
+    "MAQUANCHAR": "PTDH",
+    "TEN_QUANHUYEN": "HUYỆN ĐOAN HÙNG",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "HUYỆN ĐOAN HÙNG-PTDH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "494",
+    "MAQUANCHAR": "PTTT",
+    "TEN_QUANHUYEN": "HUYỆN THANH THỦY",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "HUYỆN THANH THỦY-PTTT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "495",
+    "MAQUANCHAR": "PTTH",
+    "TEN_QUANHUYEN": "HUYỆN THANH SƠN",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "HUYỆN THANH SƠN-PTTH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "496",
+    "MAQUANCHAR": "PTTS",
+    "TEN_QUANHUYEN": "HUYỆN TÂN SƠN",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "HUYỆN TÂN SƠN-PTTS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "497",
+    "MAQUANCHAR": "PTYL",
+    "TEN_QUANHUYEN": "HUYỆN YÊN LẬP",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "HUYỆN YÊN LẬP-PTYL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "498",
+    "MAQUANCHAR": "PTCK",
+    "TEN_QUANHUYEN": "HUYỆN CẨM KHÊ",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "HUYỆN CẨM KHÊ-PTCK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "499",
+    "MAQUANCHAR": "PTTN",
+    "TEN_QUANHUYEN": "HUYỆN TAM NÔNG",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "HUYỆN TAM NÔNG-PTTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "500",
+    "MAQUANCHAR": "PTLT",
+    "TEN_QUANHUYEN": "HUYỆN LÂM THAO",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "HUYỆN LÂM THAO-PTLT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "501",
+    "MAQUANCHAR": "PTHH",
+    "TEN_QUANHUYEN": "HUYỆN HẠ HÒA",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "HUYỆN HẠ HÒA-PTHH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "502",
+    "MAQUANCHAR": "PTPN",
+    "TEN_QUANHUYEN": "HUYỆN PHÙ NINH",
+    "MA_TINH": "PHU THO_PHO",
+    "CODE_TINH": "PHO",
+    "TEN_DAY_DU": "HUYỆN PHÙ NINH-PTPN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "503",
+    "MAQUANCHAR": "PYSC",
+    "TEN_QUANHUYEN": "THỊ XÃ SÔNG CẦU",
+    "MA_TINH": "PHU YEN_PYN",
+    "CODE_TINH": "PYN",
+    "TEN_DAY_DU": "THỊ XÃ SÔNG CẦU-PYSC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "504",
+    "MAQUANCHAR": "PYTA",
+    "TEN_QUANHUYEN": "HUYỆN TUY AN",
+    "MA_TINH": "PHU YEN_PYN",
+    "CODE_TINH": "PYN",
+    "TEN_DAY_DU": "HUYỆN TUY AN-PYTA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "505",
+    "MAQUANCHAR": "PYTY",
+    "TEN_QUANHUYEN": "HUYỆN TÂY HÒA",
+    "MA_TINH": "PHU YEN_PYN",
+    "CODE_TINH": "PYN",
+    "TEN_DAY_DU": "HUYỆN TÂY HÒA-PYTY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "506",
+    "MAQUANCHAR": "PYDH",
+    "TEN_QUANHUYEN": "HUYỆN ĐÔNG HÒA",
+    "MA_TINH": "PHU YEN_PYN",
+    "CODE_TINH": "PYN",
+    "TEN_DAY_DU": "HUYỆN ĐÔNG HÒA-PYDH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "507",
+    "MAQUANCHAR": "PYTH",
+    "TEN_QUANHUYEN": "THÀNH PHỐ TUY HÒA",
+    "MA_TINH": "PHU YEN_PYN",
+    "CODE_TINH": "PYN",
+    "TEN_DAY_DU": "THÀNH PHỐ TUY HÒA-PYTH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "508",
+    "MAQUANCHAR": "PYDX",
+    "TEN_QUANHUYEN": "HUYỆN ĐỒNG XUÂN",
+    "MA_TINH": "PHU YEN_PYN",
+    "CODE_TINH": "PYN",
+    "TEN_DAY_DU": "HUYỆN ĐỒNG XUÂN-PYDX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "509",
+    "MAQUANCHAR": "PYPH",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ HÒA",
+    "MA_TINH": "PHU YEN_PYN",
+    "CODE_TINH": "PYN",
+    "TEN_DAY_DU": "HUYỆN PHÚ HÒA-PYPH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "510",
+    "MAQUANCHAR": "PYSA",
+    "TEN_QUANHUYEN": "HUYỆN SƠN HÒA",
+    "MA_TINH": "PHU YEN_PYN",
+    "CODE_TINH": "PYN",
+    "TEN_DAY_DU": "HUYỆN SƠN HÒA-PYSA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "511",
+    "MAQUANCHAR": "PYSH",
+    "TEN_QUANHUYEN": "HUYỆN SÔNG HINH",
+    "MA_TINH": "PHU YEN_PYN",
+    "CODE_TINH": "PYN",
+    "TEN_DAY_DU": "HUYỆN SÔNG HINH-PYSH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "512",
+    "MAQUANCHAR": "QBLT",
+    "TEN_QUANHUYEN": "HUYỆN LỆ THỦY",
+    "MA_TINH": "QUANG BINH_QBH",
+    "CODE_TINH": "QBH",
+    "TEN_DAY_DU": "HUYỆN LỆ THỦY-QBLT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "513",
+    "MAQUANCHAR": "QBTH",
+    "TEN_QUANHUYEN": "HUYỆN TUYÊN HÓA",
+    "MA_TINH": "QUANG BINH_QBH",
+    "CODE_TINH": "QBH",
+    "TEN_DAY_DU": "HUYỆN TUYÊN HÓA-QBTH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "514",
+    "MAQUANCHAR": "QBDH",
+    "TEN_QUANHUYEN": "THÀNH PHỐ ĐỒNG HỚI",
+    "MA_TINH": "QUANG BINH_QBH",
+    "CODE_TINH": "QBH",
+    "TEN_DAY_DU": "THÀNH PHỐ ĐỒNG HỚI-QBDH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "515",
+    "MAQUANCHAR": "QBQT",
+    "TEN_QUANHUYEN": "HUYỆN QUẢNG TRẠCH",
+    "MA_TINH": "QUANG BINH_QBH",
+    "CODE_TINH": "QBH",
+    "TEN_DAY_DU": "HUYỆN QUẢNG TRẠCH-QBQT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "516",
+    "MAQUANCHAR": "QBMH",
+    "TEN_QUANHUYEN": "HUYỆN MINH HÓA",
+    "MA_TINH": "QUANG BINH_QBH",
+    "CODE_TINH": "QBH",
+    "TEN_DAY_DU": "HUYỆN MINH HÓA-QBMH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "517",
+    "MAQUANCHAR": "QBQN",
+    "TEN_QUANHUYEN": "HUYỆN QUẢNG NINH",
+    "MA_TINH": "QUANG BINH_QBH",
+    "CODE_TINH": "QBH",
+    "TEN_DAY_DU": "HUYỆN QUẢNG NINH-QBQN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "518",
+    "MAQUANCHAR": "QBBT",
+    "TEN_QUANHUYEN": "HUYỆN BỐ TRẠCH",
+    "MA_TINH": "QUANG BINH_QBH",
+    "CODE_TINH": "QBH",
+    "TEN_DAY_DU": "HUYỆN BỐ TRẠCH-QBBT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "519",
+    "MAQUANCHAR": "QBBD",
+    "TEN_QUANHUYEN": "THỊ XÃ BA ĐỒN",
+    "MA_TINH": "QUANG BINH_QBH",
+    "CODE_TINH": "QBH",
+    "TEN_DAY_DU": "THỊ XÃ BA ĐỒN-QBBD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "547",
+    "MAQUANCHAR": "QNPN",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ NINH",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN PHÚ NINH-QNPN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "548",
+    "MAQUANCHAR": "QNPS",
+    "TEN_QUANHUYEN": "HUYỆN PHƯỚC SƠN",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN PHƯỚC SƠN-QNPS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "549",
+    "MAQUANCHAR": "QNDL",
+    "TEN_QUANHUYEN": "HUYỆN ĐẠI LỘC",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN ĐẠI LỘC-QNDL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "550",
+    "MAQUANCHAR": "QNNG",
+    "TEN_QUANHUYEN": "HUYỆN NAM GIANG",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN NAM GIANG-QNNG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "551",
+    "MAQUANCHAR": "QNTH",
+    "TEN_QUANHUYEN": "HUYỆN THĂNG BÌNH",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN THĂNG BÌNH-QNTH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "552",
+    "MAQUANCHAR": "QNTK",
+    "TEN_QUANHUYEN": "THÀNH PHỐ TAM KỲ",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "THÀNH PHỐ TAM KỲ-QNTK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "553",
+    "MAQUANCHAR": "QNDG",
+    "TEN_QUANHUYEN": "HUYỆN ĐÔNG GIANG",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN ĐÔNG GIANG-QNDG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "554",
+    "MAQUANCHAR": "QNBM",
+    "TEN_QUANHUYEN": "HUYỆN BẮC TRÀ MY",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN BẮC TRÀ MY-QNBM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "555",
+    "MAQUANCHAR": "QNTG",
+    "TEN_QUANHUYEN": "HUYỆN TÂY GIANG",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN TÂY GIANG-QNTG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "556",
+    "MAQUANCHAR": "QNTP",
+    "TEN_QUANHUYEN": "HUYỆN TIÊN PHƯỚC",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN TIÊN PHƯỚC-QNTP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "557",
+    "MAQUANCHAR": "QNDB",
+    "TEN_QUANHUYEN": "HUYỆN ĐIỆN BÀN",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN ĐIỆN BÀN-QNDB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "558",
+    "MAQUANCHAR": "QNQS",
+    "TEN_QUANHUYEN": "HUYỆN QUẾ SƠN",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN QUẾ SƠN-QNQS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "559",
+    "MAQUANCHAR": "QNNS",
+    "TEN_QUANHUYEN": "HUYỆN NÔNG SƠN",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN NÔNG SƠN-QNNS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "560",
+    "MAQUANCHAR": "QNNT",
+    "TEN_QUANHUYEN": "HUYỆN NÚI THÀNH",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN NÚI THÀNH-QNNT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "561",
+    "MAQUANCHAR": "QNHA",
+    "TEN_QUANHUYEN": "THÀNH PHỐ HỘI AN",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "THÀNH PHỐ HỘI AN-QNHA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "562",
+    "MAQUANCHAR": "QNNM",
+    "TEN_QUANHUYEN": "HUYỆN NAM TRÀ MY",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN NAM TRÀ MY-QNNM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "563",
+    "MAQUANCHAR": "QNHD",
+    "TEN_QUANHUYEN": "HUYỆN HIỆP ĐỨC",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN HIỆP ĐỨC-QNHD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "564",
+    "MAQUANCHAR": "QNDX",
+    "TEN_QUANHUYEN": "HUYỆN DUY XUYÊN",
+    "MA_TINH": "QUANG NAM_QNM",
+    "CODE_TINH": "QNM",
+    "TEN_DAY_DU": "HUYỆN DUY XUYÊN-QNDX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "533",
+    "MAQUANCHAR": "QNNH",
+    "TEN_QUANHUYEN": "HUYỆN NGHĨA HÀNH",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN NGHĨA HÀNH-QNNH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "534",
+    "MAQUANCHAR": "QNTN",
+    "TEN_QUANHUYEN": "HUYỆN TƯ NGHĨA",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN TƯ NGHĨA-QNTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "535",
+    "MAQUANCHAR": "QNML",
+    "TEN_QUANHUYEN": "HUYỆN MINH LONG",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN MINH LONG-QNML",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "536",
+    "MAQUANCHAR": "QNBS",
+    "TEN_QUANHUYEN": "HUYỆN BÌNH SƠN",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN BÌNH SƠN-QNBS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "537",
+    "MAQUANCHAR": "QNQN",
+    "TEN_QUANHUYEN": "THÀNH PHỐ QUẢNG NGÃI",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "THÀNH PHỐ QUẢNG NGÃI-QNQN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "538",
+    "MAQUANCHAR": "QNMD",
+    "TEN_QUANHUYEN": "HUYỆN MỘ ĐỨC",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN MỘ ĐỨC-QNMD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "539",
+    "MAQUANCHAR": "QNTB",
+    "TEN_QUANHUYEN": "HUYỆN TRÀ BỒNG",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN TRÀ BỒNG-QNTB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "540",
+    "MAQUANCHAR": "QNTT",
+    "TEN_QUANHUYEN": "HUYỆN TÂY TRÀ",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN TÂY TRÀ-QNTT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "541",
+    "MAQUANCHAR": "QNLS",
+    "TEN_QUANHUYEN": "HUYỆN LÝ SƠN",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN LÝ SƠN-QNLS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "542",
+    "MAQUANCHAR": "QNSA",
+    "TEN_QUANHUYEN": "HUYỆN SƠN HÀ",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN SƠN HÀ-QNSA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "543",
+    "MAQUANCHAR": "QNDP",
+    "TEN_QUANHUYEN": "HUYỆN ĐỨC PHỔ",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN ĐỨC PHỔ-QNDP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "544",
+    "MAQUANCHAR": "QNSH",
+    "TEN_QUANHUYEN": "HUYỆN SƠN TỊNH",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN SƠN TỊNH-QNSH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "545",
+    "MAQUANCHAR": "QNBT",
+    "TEN_QUANHUYEN": "HUYỆN BA TƠ",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN BA TƠ-QNBT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "546",
+    "MAQUANCHAR": "QNST",
+    "TEN_QUANHUYEN": "HUYỆN SƠN TÂY",
+    "MA_TINH": "QUANG NGAI_QNI",
+    "CODE_TINH": "QNI",
+    "TEN_DAY_DU": "HUYỆN SƠN TÂY-QNST",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "519",
+    "MAQUANCHAR": "QNTY",
+    "TEN_QUANHUYEN": "HUYỆN TIÊN YÊN",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "HUYỆN TIÊN YÊN-QNTY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "520",
+    "MAQUANCHAR": "QNUB",
+    "TEN_QUANHUYEN": "THỊ XÃ UÔNG BÍ",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "THỊ XÃ UÔNG BÍ-QNUB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "521",
+    "MAQUANCHAR": "QNYH",
+    "TEN_QUANHUYEN": "HUYỆN YÊN HƯNG",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "HUYỆN YÊN HƯNG-QNYH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "522",
+    "MAQUANCHAR": "QNDT",
+    "TEN_QUANHUYEN": "HUYỆN ĐÔNG TRIỀU",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "HUYỆN ĐÔNG TRIỀU-QNDT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "523",
+    "MAQUANCHAR": "QNBC",
+    "TEN_QUANHUYEN": "HUYỆN BA CHẼ",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "HUYỆN BA CHẼ-QNBC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "524",
+    "MAQUANCHAR": "QNBL",
+    "TEN_QUANHUYEN": "HUYỆN BÌNH LIÊU",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "HUYỆN BÌNH LIÊU-QNBL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "525",
+    "MAQUANCHAR": "QNDH",
+    "TEN_QUANHUYEN": "HUYỆN ĐẦM HÀ",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "HUYỆN ĐẦM HÀ-QNDH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "526",
+    "MAQUANCHAR": "QNVD",
+    "TEN_QUANHUYEN": "HUYỆN VÂN ĐỒN",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "HUYỆN VÂN ĐỒN-QNVD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "527",
+    "MAQUANCHAR": "QNCP",
+    "TEN_QUANHUYEN": "THỊ XÃ CẨM PHẢ",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "THỊ XÃ CẨM PHẢ-QNCP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "528",
+    "MAQUANCHAR": "QNCT",
+    "TEN_QUANHUYEN": "HUYỆN CÔ TÔ",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "HUYỆN CÔ TÔ-QNCT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "529",
+    "MAQUANCHAR": "QNMC",
+    "TEN_QUANHUYEN": "THỊ XÃ MÓNG CÁI",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "THỊ XÃ MÓNG CÁI-QNMC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "530",
+    "MAQUANCHAR": "QNHH",
+    "TEN_QUANHUYEN": "HUYỆN HẢI HÀ",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "HUYỆN HẢI HÀ-QNHH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "531",
+    "MAQUANCHAR": "QNHL",
+    "TEN_QUANHUYEN": "THÀNH PHỐ HẠ LONG",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "THÀNH PHỐ HẠ LONG-QNHL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "532",
+    "MAQUANCHAR": "QNHB",
+    "TEN_QUANHUYEN": "HUYỆN HOÀNH BỒ",
+    "MA_TINH": "QUANG NINH_QNH",
+    "CODE_TINH": "QNH",
+    "TEN_DAY_DU": "HUYỆN HOÀNH BỒ-QNHB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "565",
+    "MAQUANCHAR": "QTTP",
+    "TEN_QUANHUYEN": "HUYỆN TRIỆU PHONG",
+    "MA_TINH": "QUANG TRI_QTI",
+    "CODE_TINH": "QTI",
+    "TEN_DAY_DU": "HUYỆN TRIỆU PHONG-QTTP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "566",
+    "MAQUANCHAR": "QTDH",
+    "TEN_QUANHUYEN": "THÀNH PHỐ ĐÔNG HÀ",
+    "MA_TINH": "QUANG TRI_QTI",
+    "CODE_TINH": "QTI",
+    "TEN_DAY_DU": "THÀNH PHỐ ĐÔNG HÀ-QTDH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "567",
+    "MAQUANCHAR": "QTHH",
+    "TEN_QUANHUYEN": "HUYỆN HƯỚNG HÓA",
+    "MA_TINH": "QUANG TRI_QTI",
+    "CODE_TINH": "QTI",
+    "TEN_DAY_DU": "HUYỆN HƯỚNG HÓA-QTHH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "568",
+    "MAQUANCHAR": "QTQT",
+    "TEN_QUANHUYEN": "THỊ XÃ QUẢNG TRỊ",
+    "MA_TINH": "QUANG TRI_QTI",
+    "CODE_TINH": "QTI",
+    "TEN_DAY_DU": "THỊ XÃ QUẢNG TRỊ-QTQT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "569",
+    "MAQUANCHAR": "QTCL",
+    "TEN_QUANHUYEN": "HUYỆN CAM LỘ",
+    "MA_TINH": "QUANG TRI_QTI",
+    "CODE_TINH": "QTI",
+    "TEN_DAY_DU": "HUYỆN CAM LỘ-QTCL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "571",
+    "MAQUANCHAR": "QTDK",
+    "TEN_QUANHUYEN": "HUYỆN ĐA KRÔNG",
+    "MA_TINH": "QUANG TRI_QTI",
+    "CODE_TINH": "QTI",
+    "TEN_DAY_DU": "HUYỆN ĐA KRÔNG-QTDK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "572",
+    "MAQUANCHAR": "QTHL",
+    "TEN_QUANHUYEN": "HUYỆN HẢI LĂNG",
+    "MA_TINH": "QUANG TRI_QTI",
+    "CODE_TINH": "QTI",
+    "TEN_DAY_DU": "HUYỆN HẢI LĂNG-QTHL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "573",
+    "MAQUANCHAR": "QTVL",
+    "TEN_QUANHUYEN": "HUYỆN VĨNH LINH",
+    "MA_TINH": "QUANG TRI_QTI",
+    "CODE_TINH": "QTI",
+    "TEN_DAY_DU": "HUYỆN VĨNH LINH-QTVL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "574",
+    "MAQUANCHAR": "QTGL",
+    "TEN_QUANHUYEN": "HUYỆN GIO LINH",
+    "MA_TINH": "QUANG TRI_QTI",
+    "CODE_TINH": "QTI",
+    "TEN_DAY_DU": "HUYỆN GIO LINH-QTGL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "587",
+    "MAQUANCHAR": "STLP",
+    "TEN_QUANHUYEN": "HUYỆN LONG PHÚ",
+    "MA_TINH": "SOC TRANG_STG",
+    "CODE_TINH": "STG",
+    "TEN_DAY_DU": "HUYỆN LONG PHÚ-STLP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "588",
+    "MAQUANCHAR": "STTT",
+    "TEN_QUANHUYEN": "HUYỆN THẠNH TRỊ",
+    "MA_TINH": "SOC TRANG_STG",
+    "CODE_TINH": "STG",
+    "TEN_DAY_DU": "HUYỆN THẠNH TRỊ-STTT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "589",
+    "MAQUANCHAR": "STCT",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU THÀNH",
+    "MA_TINH": "SOC TRANG_STG",
+    "CODE_TINH": "STG",
+    "TEN_DAY_DU": "HUYỆN CHÂU THÀNH-STCT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "590",
+    "MAQUANCHAR": "STNN",
+    "TEN_QUANHUYEN": "HUYỆN NGÃ NĂM",
+    "MA_TINH": "SOC TRANG_STG",
+    "CODE_TINH": "STG",
+    "TEN_DAY_DU": "HUYỆN NGÃ NĂM-STNN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "591",
+    "MAQUANCHAR": "STKS",
+    "TEN_QUANHUYEN": "HUYỆN KẾ SÁCH",
+    "MA_TINH": "SOC TRANG_STG",
+    "CODE_TINH": "STG",
+    "TEN_DAY_DU": "HUYỆN KẾ SÁCH-STKS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "592",
+    "MAQUANCHAR": "STCD",
+    "TEN_QUANHUYEN": "HUYỆN CÙ LAO DUNG",
+    "MA_TINH": "SOC TRANG_STG",
+    "CODE_TINH": "STG",
+    "TEN_DAY_DU": "HUYỆN CÙ LAO DUNG-STCD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "593",
+    "MAQUANCHAR": "STTD",
+    "TEN_QUANHUYEN": "HUYỆN TRẦN ĐỀ",
+    "MA_TINH": "SOC TRANG_STG",
+    "CODE_TINH": "STG",
+    "TEN_DAY_DU": "HUYỆN TRẦN ĐỀ-STTD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "594",
+    "MAQUANCHAR": "STST",
+    "TEN_QUANHUYEN": "THÀNH PHỐ SÓC TRĂNG",
+    "MA_TINH": "SOC TRANG_STG",
+    "CODE_TINH": "STG",
+    "TEN_DAY_DU": "THÀNH PHỐ SÓC TRĂNG-STST",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "595",
+    "MAQUANCHAR": "STMX",
+    "TEN_QUANHUYEN": "HUYỆN MỸ XUYÊN",
+    "MA_TINH": "SOC TRANG_STG",
+    "CODE_TINH": "STG",
+    "TEN_DAY_DU": "HUYỆN MỸ XUYÊN-STMX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "596",
+    "MAQUANCHAR": "STMT",
+    "TEN_QUANHUYEN": "HUYỆN MỸ TÚ",
+    "MA_TINH": "SOC TRANG_STG",
+    "CODE_TINH": "STG",
+    "TEN_DAY_DU": "HUYỆN MỸ TÚ-STMT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "597",
+    "MAQUANCHAR": "STVC",
+    "TEN_QUANHUYEN": "HUYỆN VĨNH CHÂU",
+    "MA_TINH": "SOC TRANG_STG",
+    "CODE_TINH": "STG",
+    "TEN_DAY_DU": "HUYỆN VĨNH CHÂU-STVC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "575",
+    "MAQUANCHAR": "SLQN",
+    "TEN_QUANHUYEN": "HUYỆN QUỲNH NHAI",
+    "MA_TINH": "SON LA_SLA",
+    "CODE_TINH": "SLA",
+    "TEN_DAY_DU": "HUYỆN QUỲNH NHAI-SLQN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "576",
+    "MAQUANCHAR": "SLML",
+    "TEN_QUANHUYEN": "HUYỆN MƯỜNG LA",
+    "MA_TINH": "SON LA_SLA",
+    "CODE_TINH": "SLA",
+    "TEN_DAY_DU": "HUYỆN MƯỜNG LA-SLML",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "577",
+    "MAQUANCHAR": "SLSM",
+    "TEN_QUANHUYEN": "HUYỆN SÔNG MÃ",
+    "MA_TINH": "SON LA_SLA",
+    "CODE_TINH": "SLA",
+    "TEN_DAY_DU": "HUYỆN SÔNG MÃ-SLSM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "578",
+    "MAQUANCHAR": "SLSL",
+    "TEN_QUANHUYEN": "THỊ XÃ SƠN LA",
+    "MA_TINH": "SON LA_SLA",
+    "CODE_TINH": "SLA",
+    "TEN_DAY_DU": "THỊ XÃ SƠN LA-SLSL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "579",
+    "MAQUANCHAR": "SLMS",
+    "TEN_QUANHUYEN": "HUYỆN MAI SƠN",
+    "MA_TINH": "SON LA_SLA",
+    "CODE_TINH": "SLA",
+    "TEN_DAY_DU": "HUYỆN MAI SƠN-SLMS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "580",
+    "MAQUANCHAR": "SLPY",
+    "TEN_QUANHUYEN": "HUYỆN PHÙ YÊN",
+    "MA_TINH": "SON LA_SLA",
+    "CODE_TINH": "SLA",
+    "TEN_DAY_DU": "HUYỆN PHÙ YÊN-SLPY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "581",
+    "MAQUANCHAR": "SLTC",
+    "TEN_QUANHUYEN": "HUYỆN THUẬN CHÂU",
+    "MA_TINH": "SON LA_SLA",
+    "CODE_TINH": "SLA",
+    "TEN_DAY_DU": "HUYỆN THUẬN CHÂU-SLTC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "582",
+    "MAQUANCHAR": "SLMC",
+    "TEN_QUANHUYEN": "HUYỆN MỘC CHÂU",
+    "MA_TINH": "SON LA_SLA",
+    "CODE_TINH": "SLA",
+    "TEN_DAY_DU": "HUYỆN MỘC CHÂU-SLMC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "583",
+    "MAQUANCHAR": "SLYC",
+    "TEN_QUANHUYEN": "HUYỆN YÊN CHÂU",
+    "MA_TINH": "SON LA_SLA",
+    "CODE_TINH": "SLA",
+    "TEN_DAY_DU": "HUYỆN YÊN CHÂU-SLYC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "584",
+    "MAQUANCHAR": "SLVH",
+    "TEN_QUANHUYEN": "HUYỆN VÂN HỒ",
+    "MA_TINH": "SON LA_SLA",
+    "CODE_TINH": "SLA",
+    "TEN_DAY_DU": "HUYỆN VÂN HỒ-SLVH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "585",
+    "MAQUANCHAR": "SLBY",
+    "TEN_QUANHUYEN": "HUYỆN BẮC YÊN",
+    "MA_TINH": "SON LA_SLA",
+    "CODE_TINH": "SLA",
+    "TEN_DAY_DU": "HUYỆN BẮC YÊN-SLBY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "586",
+    "MAQUANCHAR": "SLSC",
+    "TEN_QUANHUYEN": "HUYỆN SỐP CỘP",
+    "MA_TINH": "SON LA_SLA",
+    "CODE_TINH": "SLA",
+    "TEN_DAY_DU": "HUYỆN SỐP CỘP-SLSC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "644",
+    "MAQUANCHAR": "TNTU",
+    "TEN_QUANHUYEN": "HUYỆN TÂN CHÂU",
+    "MA_TINH": "TAY NINH_TNH",
+    "CODE_TINH": "TNH",
+    "TEN_DAY_DU": "HUYỆN TÂN CHÂU-TNTU",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "645",
+    "MAQUANCHAR": "TNCT",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU THÀNH",
+    "MA_TINH": "TAY NINH_TNH",
+    "CODE_TINH": "TNH",
+    "TEN_DAY_DU": "HUYỆN CHÂU THÀNH-TNCT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "646",
+    "MAQUANCHAR": "TNTH",
+    "TEN_QUANHUYEN": "THỊ XÃ TÂY NINH",
+    "MA_TINH": "TAY NINH_TNH",
+    "CODE_TINH": "TNH",
+    "TEN_DAY_DU": "THỊ XÃ TÂY NINH-TNTH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "647",
+    "MAQUANCHAR": "TNHT",
+    "TEN_QUANHUYEN": "HUYỆN HÒA THÀNH",
+    "MA_TINH": "TAY NINH_TNH",
+    "CODE_TINH": "TNH",
+    "TEN_DAY_DU": "HUYỆN HÒA THÀNH-TNHT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "648",
+    "MAQUANCHAR": "TNTA",
+    "TEN_QUANHUYEN": "HUYỆN TÂN BIÊN",
+    "MA_TINH": "TAY NINH_TNH",
+    "CODE_TINH": "TNH",
+    "TEN_DAY_DU": "HUYỆN TÂN BIÊN-TNTA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "649",
+    "MAQUANCHAR": "TNGD",
+    "TEN_QUANHUYEN": "HUYỆN GÒ DẦU",
+    "MA_TINH": "TAY NINH_TNH",
+    "CODE_TINH": "TNH",
+    "TEN_DAY_DU": "HUYỆN GÒ DẦU-TNGD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "650",
+    "MAQUANCHAR": "TNTB",
+    "TEN_QUANHUYEN": "HUYỆN TRẢNG BÀNG",
+    "MA_TINH": "TAY NINH_TNH",
+    "CODE_TINH": "TNH",
+    "TEN_DAY_DU": "HUYỆN TRẢNG BÀNG-TNTB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "651",
+    "MAQUANCHAR": "TNDC",
+    "TEN_QUANHUYEN": "HUYỆN DƯƠNG MINH CHÂU",
+    "MA_TINH": "TAY NINH_TNH",
+    "CODE_TINH": "TNH",
+    "TEN_DAY_DU": "HUYỆN DƯƠNG MINH CHÂU-TNDC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "652",
+    "MAQUANCHAR": "TNBC",
+    "TEN_QUANHUYEN": "HUYỆN BẾN CẦU",
+    "MA_TINH": "TAY NINH_TNH",
+    "CODE_TINH": "TNH",
+    "TEN_DAY_DU": "HUYỆN BẾN CẦU-TNBC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "598",
+    "MAQUANCHAR": "TBTT",
+    "TEN_QUANHUYEN": "HUYỆN THÁI THỤY",
+    "MA_TINH": "THAI BINH_TBH",
+    "CODE_TINH": "TBH",
+    "TEN_DAY_DU": "HUYỆN THÁI THỤY-TBTT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "599",
+    "MAQUANCHAR": "TBVT",
+    "TEN_QUANHUYEN": "HUYỆN VŨ THƯ",
+    "MA_TINH": "THAI BINH_TBH",
+    "CODE_TINH": "TBH",
+    "TEN_DAY_DU": "HUYỆN VŨ THƯ-TBVT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "600",
+    "MAQUANCHAR": "TBQP",
+    "TEN_QUANHUYEN": "HUYỆN QUỲNH PHỤ",
+    "MA_TINH": "THAI BINH_TBH",
+    "CODE_TINH": "TBH",
+    "TEN_DAY_DU": "HUYỆN QUỲNH PHỤ-TBQP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "601",
+    "MAQUANCHAR": "TBHH",
+    "TEN_QUANHUYEN": "HUYỆN HƯNG HÀ",
+    "MA_TINH": "THAI BINH_TBH",
+    "CODE_TINH": "TBH",
+    "TEN_DAY_DU": "HUYỆN HƯNG HÀ-TBHH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "602",
+    "MAQUANCHAR": "TBQC",
+    "TEN_QUANHUYEN": "HUYỆN QUỲNH CÔI",
+    "MA_TINH": "THAI BINH_TBH",
+    "CODE_TINH": "TBH",
+    "TEN_DAY_DU": "HUYỆN QUỲNH CÔI-TBQC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "603",
+    "MAQUANCHAR": "TBTB",
+    "TEN_QUANHUYEN": "THÀNH PHỐ THÁI BÌNH",
+    "MA_TINH": "THAI BINH_TBH",
+    "CODE_TINH": "TBH",
+    "TEN_DAY_DU": "THÀNH PHỐ THÁI BÌNH-TBTB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "604",
+    "MAQUANCHAR": "TBDH",
+    "TEN_QUANHUYEN": "HUYỆN ĐÔNG HƯNG",
+    "MA_TINH": "THAI BINH_TBH",
+    "CODE_TINH": "TBH",
+    "TEN_DAY_DU": "HUYỆN ĐÔNG HƯNG-TBDH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "605",
+    "MAQUANCHAR": "TBTH",
+    "TEN_QUANHUYEN": "HUYỆN TIỀN HẢI",
+    "MA_TINH": "THAI BINH_TBH",
+    "CODE_TINH": "TBH",
+    "TEN_DAY_DU": "HUYỆN TIỀN HẢI-TBTH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "606",
+    "MAQUANCHAR": "TBKX",
+    "TEN_QUANHUYEN": "HUYỆN KIẾN XƯƠNG",
+    "MA_TINH": "THAI BINH_TBH",
+    "CODE_TINH": "TBH",
+    "TEN_DAY_DU": "HUYỆN KIẾN XƯƠNG-TBKX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "653",
+    "MAQUANCHAR": "TNPY",
+    "TEN_QUANHUYEN": "HUYỆN PHỔ YÊN",
+    "MA_TINH": "THAI NGUYEN_TNN",
+    "CODE_TINH": "TNN",
+    "TEN_DAY_DU": "HUYỆN PHỔ YÊN-TNPY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "654",
+    "MAQUANCHAR": "TNPL",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ LƯƠNG",
+    "MA_TINH": "THAI NGUYEN_TNN",
+    "CODE_TINH": "TNN",
+    "TEN_DAY_DU": "HUYỆN PHÚ LƯƠNG -TNPL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "655",
+    "MAQUANCHAR": "TNVN",
+    "TEN_QUANHUYEN": "HUYỆN VÕ NHAI",
+    "MA_TINH": "THAI NGUYEN_TNN",
+    "CODE_TINH": "TNN",
+    "TEN_DAY_DU": "HUYỆN VÕ NHAI-TNVN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "656",
+    "MAQUANCHAR": "TNTN",
+    "TEN_QUANHUYEN": "THÀNH PHỐ THÁI NGUYÊN",
+    "MA_TINH": "THAI NGUYEN_TNN",
+    "CODE_TINH": "TNN",
+    "TEN_DAY_DU": "THÀNH PHỐ THÁI NGUYÊN-TNTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "657",
+    "MAQUANCHAR": "TNPB",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ BÌNH",
+    "MA_TINH": "THAI NGUYEN_TNN",
+    "CODE_TINH": "TNN",
+    "TEN_DAY_DU": "HUYỆN PHÚ BÌNH-TNPB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "658",
+    "MAQUANCHAR": "TNDH",
+    "TEN_QUANHUYEN": "HUYỆN ĐỒNG HỶ",
+    "MA_TINH": "THAI NGUYEN_TNN",
+    "CODE_TINH": "TNN",
+    "TEN_DAY_DU": "HUYỆN ĐỒNG HỶ-TNDH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "659",
+    "MAQUANCHAR": "TNDT",
+    "TEN_QUANHUYEN": "HUYỆN ĐẠI TỪ",
+    "MA_TINH": "THAI NGUYEN_TNN",
+    "CODE_TINH": "TNN",
+    "TEN_DAY_DU": "HUYỆN ĐẠI TỪ-TNDT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "660",
+    "MAQUANCHAR": "TNDA",
+    "TEN_QUANHUYEN": "HUYỆN ĐỊNH HÓA",
+    "MA_TINH": "THAI NGUYEN_TNN",
+    "CODE_TINH": "TNN",
+    "TEN_DAY_DU": "HUYỆN ĐỊNH HÓA-TNDA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "661",
+    "MAQUANCHAR": "TNSC",
+    "TEN_QUANHUYEN": "THỊ XÃ SÔNG CÔNG",
+    "MA_TINH": "THAI NGUYEN_TNN",
+    "CODE_TINH": "TNN",
+    "TEN_DAY_DU": "THỊ XÃ SÔNG CÔNG-TNSC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "617",
+    "MAQUANCHAR": "THNL",
+    "TEN_QUANHUYEN": "HUYỆN NGỌC LẶC",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN NGỌC LẶC-THNL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "618",
+    "MAQUANCHAR": "THHH",
+    "TEN_QUANHUYEN": "HUYỆN HOẰNG HÓA",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN HOẰNG HÓA-THHH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "619",
+    "MAQUANCHAR": "THQS",
+    "TEN_QUANHUYEN": "HUYỆN QUAN SƠN",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN QUAN SƠN-THQS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "620",
+    "MAQUANCHAR": "THTT",
+    "TEN_QUANHUYEN": "HUYỆN THẠCH THÀNH",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN THẠCH THÀNH-THTT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "621",
+    "MAQUANCHAR": "THQX",
+    "TEN_QUANHUYEN": "HUYỆN QUẢNG XƯƠNG",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN QUẢNG XƯƠNG-THQX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "622",
+    "MAQUANCHAR": "THNS",
+    "TEN_QUANHUYEN": "HUYỆN NGA SƠN",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN NGA SƠN-THNS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "623",
+    "MAQUANCHAR": "THDS",
+    "TEN_QUANHUYEN": "HUYỆN ĐÔNG SƠN",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN ĐÔNG SƠN-THDS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "624",
+    "MAQUANCHAR": "THVL",
+    "TEN_QUANHUYEN": "HUYỆN VĨNH LỘC",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN VĨNH LỘC-THVL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "625",
+    "MAQUANCHAR": "THLC",
+    "TEN_QUANHUYEN": "HUYỆN LANG CHÁNH",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN LANG CHÁNH-THLC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "626",
+    "MAQUANCHAR": "THTH",
+    "TEN_QUANHUYEN": "THÀNH PHỐ THANH HÓA",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "THÀNH PHỐ THANH HÓA-THTH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "627",
+    "MAQUANCHAR": "THTS",
+    "TEN_QUANHUYEN": "HUYỆN TRIỆU SƠN",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN TRIỆU SƠN-THTS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "628",
+    "MAQUANCHAR": "THNC",
+    "TEN_QUANHUYEN": "HUYỆN NÔNG CỐNG",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN NÔNG CỐNG-THNC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "629",
+    "MAQUANCHAR": "THTG",
+    "TEN_QUANHUYEN": "HUYỆN TĨNH GIA",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN TĨNH GIA-THTG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "630",
+    "MAQUANCHAR": "THTN",
+    "TEN_QUANHUYEN": "HUYỆN THƯỜNG XUÂN",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN THƯỜNG XUÂN-THTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "631",
+    "MAQUANCHAR": "THNX",
+    "TEN_QUANHUYEN": "HUYỆN NHƯ XUÂN",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN NHƯ XUÂN-THNX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "632",
+    "MAQUANCHAR": "THHL",
+    "TEN_QUANHUYEN": "HUYỆN HẬU LỘC",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN HẬU LỘC-THHL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "633",
+    "MAQUANCHAR": "THNT",
+    "TEN_QUANHUYEN": "HUYỆN NHƯ THANH",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN NHƯ THANH-THNT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "634",
+    "MAQUANCHAR": "THHT",
+    "TEN_QUANHUYEN": "HUYỆN HÀ TRUNG",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN HÀ TRUNG-THHT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "635",
+    "MAQUANCHAR": "THML",
+    "TEN_QUANHUYEN": "HUYỆN MƯỜNG LÁT",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN MƯỜNG LÁT-THML",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "636",
+    "MAQUANCHAR": "THCT",
+    "TEN_QUANHUYEN": "HUYỆN CẨM THỦY",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN CẨM THỦY-THCT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "637",
+    "MAQUANCHAR": "THQH",
+    "TEN_QUANHUYEN": "HUYỆN QUAN HÓA",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN QUAN HÓA-THQH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "638",
+    "MAQUANCHAR": "THBT",
+    "TEN_QUANHUYEN": "HUYỆN BÁ THƯỚC",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN BÁ THƯỚC-THBT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "639",
+    "MAQUANCHAR": "THYD",
+    "TEN_QUANHUYEN": "HUYỆN YÊN ĐỊNH",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN YÊN ĐỊNH-THYD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "640",
+    "MAQUANCHAR": "THTX",
+    "TEN_QUANHUYEN": "HUYỆN THỌ XUÂN",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN THỌ XUÂN-THTX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "641",
+    "MAQUANCHAR": "THBS",
+    "TEN_QUANHUYEN": "THỊ XÃ BỈM SƠN",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "THỊ XÃ BỈM SƠN-THBS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "642",
+    "MAQUANCHAR": "THTA",
+    "TEN_QUANHUYEN": "HUYỆN THIỆU HÓA",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "HUYỆN THIỆU HÓA-THTA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "643",
+    "MAQUANCHAR": "THSS",
+    "TEN_QUANHUYEN": "THỊ XÃ SẦM SƠN",
+    "MA_TINH": "THANH HOA_THA",
+    "CODE_TINH": "THA",
+    "TEN_DAY_DU": "THỊ XÃ SẦM SƠN-THSS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "331",
+    "MAQUANCHAR": "HUPV",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ VANG",
+    "MA_TINH": "THUA THIEN HUE_HUE",
+    "CODE_TINH": "HUE",
+    "TEN_DAY_DU": "HUYỆN PHÚ VANG-HUPV",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "332",
+    "MAQUANCHAR": "HUPL",
+    "TEN_QUANHUYEN": "HUYỆN PHÚ LỘC",
+    "MA_TINH": "THUA THIEN HUE_HUE",
+    "CODE_TINH": "HUE",
+    "TEN_DAY_DU": "HUYỆN PHÚ LỘC-HUPL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "333",
+    "MAQUANCHAR": "HUHT",
+    "TEN_QUANHUYEN": "THỊ XÃ HƯƠNG THỦY",
+    "MA_TINH": "THUA THIEN HUE_HUE",
+    "CODE_TINH": "HUE",
+    "TEN_DAY_DU": "THỊ XÃ HƯƠNG THỦY-HUHT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "334",
+    "MAQUANCHAR": "HUAL",
+    "TEN_QUANHUYEN": "HUYỆN A LƯỚI",
+    "MA_TINH": "THUA THIEN HUE_HUE",
+    "CODE_TINH": "HUE",
+    "TEN_DAY_DU": "HUYỆN A LƯỚI-HUAL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "335",
+    "MAQUANCHAR": "HUPD",
+    "TEN_QUANHUYEN": "HUYỆN PHONG ĐIỀN",
+    "MA_TINH": "THUA THIEN HUE_HUE",
+    "CODE_TINH": "HUE",
+    "TEN_DAY_DU": "HUYỆN PHONG ĐIỀN-HUPD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "336",
+    "MAQUANCHAR": "HUQD",
+    "TEN_QUANHUYEN": "HUYỆN QUẢNG ĐIỀN",
+    "MA_TINH": "THUA THIEN HUE_HUE",
+    "CODE_TINH": "HUE",
+    "TEN_DAY_DU": "HUYỆN QUẢNG ĐIỀN-HUQD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "337",
+    "MAQUANCHAR": "HUND",
+    "TEN_QUANHUYEN": "HUYỆN NAM ĐÔNG",
+    "MA_TINH": "THUA THIEN HUE_HUE",
+    "CODE_TINH": "HUE",
+    "TEN_DAY_DU": "HUYỆN NAM ĐÔNG-HUND",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "338",
+    "MAQUANCHAR": "HUHA",
+    "TEN_QUANHUYEN": "HUYỆN HƯƠNG TRÀ",
+    "MA_TINH": "THUA THIEN HUE_HUE",
+    "CODE_TINH": "HUE",
+    "TEN_DAY_DU": "HUYỆN HƯƠNG TRÀ-HUHA",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "339",
+    "MAQUANCHAR": "HUHU",
+    "TEN_QUANHUYEN": "THÀNH PHỐ HUẾ",
+    "MA_TINH": "THUA THIEN HUE_HUE",
+    "CODE_TINH": "HUE",
+    "TEN_DAY_DU": "THÀNH PHỐ HUẾ-HUHU",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "607",
+    "MAQUANCHAR": "TGTD",
+    "TEN_QUANHUYEN": "HUYỆN TÂN PHÚ ĐÔNG",
+    "MA_TINH": "TIEN GIANG_TGG",
+    "CODE_TINH": "TGG",
+    "TEN_DAY_DU": "HUYỆN TÂN PHÚ ĐÔNG-TGTD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "608",
+    "MAQUANCHAR": "TGCG",
+    "TEN_QUANHUYEN": "HUYỆN CHỢ GẠO",
+    "MA_TINH": "TIEN GIANG_TGG",
+    "CODE_TINH": "TGG",
+    "TEN_DAY_DU": "HUYỆN CHỢ GẠO-TGCG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "609",
+    "MAQUANCHAR": "TGGT",
+    "TEN_QUANHUYEN": "HUYỆN GÒ CÔNG TÂY",
+    "MA_TINH": "TIEN GIANG_TGG",
+    "CODE_TINH": "TGG",
+    "TEN_DAY_DU": "HUYỆN GÒ CÔNG TÂY-TGGT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "610",
+    "MAQUANCHAR": "TGCB",
+    "TEN_QUANHUYEN": "HUYỆN CÁI BÈ",
+    "MA_TINH": "TIEN GIANG_TGG",
+    "CODE_TINH": "TGG",
+    "TEN_DAY_DU": "HUYỆN CÁI BÈ-TGCB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "611",
+    "MAQUANCHAR": "TGGD",
+    "TEN_QUANHUYEN": "HUYỆN GÒ CÔNG ĐÔNG",
+    "MA_TINH": "TIEN GIANG_TGG",
+    "CODE_TINH": "TGG",
+    "TEN_DAY_DU": "HUYỆN GÒ CÔNG ĐÔNG-TGGD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "612",
+    "MAQUANCHAR": "TGCT",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU THÀNH",
+    "MA_TINH": "TIEN GIANG_TGG",
+    "CODE_TINH": "TGG",
+    "TEN_DAY_DU": "HUYỆN CHÂU THÀNH-TGCT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "613",
+    "MAQUANCHAR": "TGTP",
+    "TEN_QUANHUYEN": "HUYỆN TÂN PHƯỚC",
+    "MA_TINH": "TIEN GIANG_TGG",
+    "CODE_TINH": "TGG",
+    "TEN_DAY_DU": "HUYỆN TÂN PHƯỚC-TGTP",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "614",
+    "MAQUANCHAR": "TGGC",
+    "TEN_QUANHUYEN": "THỊ XÃ GÒ CÔNG",
+    "MA_TINH": "TIEN GIANG_TGG",
+    "CODE_TINH": "TGG",
+    "TEN_DAY_DU": "THỊ XÃ GÒ CÔNG-TGGC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "615",
+    "MAQUANCHAR": "TGCL",
+    "TEN_QUANHUYEN": "HUYỆN CAI LẬY",
+    "MA_TINH": "TIEN GIANG_TGG",
+    "CODE_TINH": "TGG",
+    "TEN_DAY_DU": "HUYỆN CAI LẬY-TGCL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "616",
+    "MAQUANCHAR": "TGMT",
+    "TEN_QUANHUYEN": "THÀNH PHỐ MỸ THO",
+    "MA_TINH": "TIEN GIANG_TGG",
+    "CODE_TINH": "TGG",
+    "TEN_DAY_DU": "THÀNH PHỐ MỸ THO-TGMT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "669",
+    "MAQUANCHAR": "TVTC",
+    "TEN_QUANHUYEN": "HUYỆN TRÀ CÚ",
+    "MA_TINH": "TRA VINH_TVH",
+    "CODE_TINH": "TVH",
+    "TEN_DAY_DU": "HUYỆN TRÀ CÚ-TVTC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "670",
+    "MAQUANCHAR": "TVDH",
+    "TEN_QUANHUYEN": "HUYỆN DUYÊN HẢI",
+    "MA_TINH": "TRA VINH_TVH",
+    "CODE_TINH": "TVH",
+    "TEN_DAY_DU": "HUYỆN DUYÊN HẢI-TVDH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "671",
+    "MAQUANCHAR": "TVCK",
+    "TEN_QUANHUYEN": "HUYỆN CẦU KÈ",
+    "MA_TINH": "TRA VINH_TVH",
+    "CODE_TINH": "TVH",
+    "TEN_DAY_DU": "HUYỆN CẦU KÈ-TVCK",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "672",
+    "MAQUANCHAR": "TVCL",
+    "TEN_QUANHUYEN": "HUYỆN CÀNG LONG",
+    "MA_TINH": "TRA VINH_TVH",
+    "CODE_TINH": "TVH",
+    "TEN_DAY_DU": "HUYỆN CÀNG LONG-TVCL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "673",
+    "MAQUANCHAR": "TVCT",
+    "TEN_QUANHUYEN": "HUYỆN CHÂU THÀNH",
+    "MA_TINH": "TRA VINH_TVH",
+    "CODE_TINH": "TVH",
+    "TEN_DAY_DU": "HUYỆN CHÂU THÀNH-TVCT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "674",
+    "MAQUANCHAR": "TVCG",
+    "TEN_QUANHUYEN": "HUYỆN CẦU NGANG",
+    "MA_TINH": "TRA VINH_TVH",
+    "CODE_TINH": "TVH",
+    "TEN_DAY_DU": "HUYỆN CẦU NGANG-TVCG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "675",
+    "MAQUANCHAR": "TVTV",
+    "TEN_QUANHUYEN": "THỊ XÃ TRÀ VINH",
+    "MA_TINH": "TRA VINH_TVH",
+    "CODE_TINH": "TVH",
+    "TEN_DAY_DU": "THỊ XÃ TRÀ VINH-TVTV",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "676",
+    "MAQUANCHAR": "TVTN",
+    "TEN_QUANHUYEN": "HUYỆN TIỂU CẦN",
+    "MA_TINH": "TRA VINH_TVH",
+    "CODE_TINH": "TVH",
+    "TEN_DAY_DU": "HUYỆN TIỂU CẦN-TVTN",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "662",
+    "MAQUANCHAR": "TQTQ",
+    "TEN_QUANHUYEN": "THỊ XÃ TUYÊN QUANG",
+    "MA_TINH": "TUYEN QUANG_TQG",
+    "CODE_TINH": "TQG",
+    "TEN_DAY_DU": "THỊ XÃ TUYÊN QUANG-TQTQ",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "663",
+    "MAQUANCHAR": "TQYS",
+    "TEN_QUANHUYEN": "HUYỆN YÊN SƠN",
+    "MA_TINH": "TUYEN QUANG_TQG",
+    "CODE_TINH": "TQG",
+    "TEN_DAY_DU": "HUYỆN YÊN SƠN-TQYS",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "664",
+    "MAQUANCHAR": "TQSD",
+    "TEN_QUANHUYEN": "HUYỆN SƠN DƯƠNG",
+    "MA_TINH": "TUYEN QUANG_TQG",
+    "CODE_TINH": "TQG",
+    "TEN_DAY_DU": "HUYỆN SƠN DƯƠNG-TQSD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "665",
+    "MAQUANCHAR": "TQCH",
+    "TEN_QUANHUYEN": "HUYỆN CHIÊM HÓA",
+    "MA_TINH": "TUYEN QUANG_TQG",
+    "CODE_TINH": "TQG",
+    "TEN_DAY_DU": "HUYỆN CHIÊM HÓA-TQCH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "666",
+    "MAQUANCHAR": "TQNH",
+    "TEN_QUANHUYEN": "HUYỆN NÀ HANG",
+    "MA_TINH": "TUYEN QUANG_TQG",
+    "CODE_TINH": "TQG",
+    "TEN_DAY_DU": "HUYỆN NÀ HANG-TQNH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "667",
+    "MAQUANCHAR": "TQLB",
+    "TEN_QUANHUYEN": "HUYỆN LÂM BÌNH",
+    "MA_TINH": "TUYEN QUANG_TQG",
+    "CODE_TINH": "TQG",
+    "TEN_DAY_DU": "HUYỆN LÂM BÌNH-TQLB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "668",
+    "MAQUANCHAR": "TQHY",
+    "TEN_QUANHUYEN": "HUYỆN HÀM YÊN",
+    "MA_TINH": "TUYEN QUANG_TQG",
+    "CODE_TINH": "TQG",
+    "TEN_DAY_DU": "HUYỆN HÀM YÊN-TQHY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "677",
+    "MAQUANCHAR": "VLBM",
+    "TEN_QUANHUYEN": "HUYỆN BÌNH MINH",
+    "MA_TINH": "VINH LONG_VLG",
+    "CODE_TINH": "VLG",
+    "TEN_DAY_DU": "HUYỆN BÌNH MINH-VLBM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "678",
+    "MAQUANCHAR": "VLLH",
+    "TEN_QUANHUYEN": "HUYỆN LONG HỒ",
+    "MA_TINH": "VINH LONG_VLG",
+    "CODE_TINH": "VLG",
+    "TEN_DAY_DU": "HUYỆN LONG HỒ-VLLH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "679",
+    "MAQUANCHAR": "VLBT",
+    "TEN_QUANHUYEN": "HUYỆN BÌNH TÂN",
+    "MA_TINH": "VINH LONG_VLG",
+    "CODE_TINH": "VLG",
+    "TEN_DAY_DU": "HUYỆN BÌNH TÂN-VLBT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "680",
+    "MAQUANCHAR": "VLVM",
+    "TEN_QUANHUYEN": "HUYỆN VŨNG LIÊM",
+    "MA_TINH": "VINH LONG_VLG",
+    "CODE_TINH": "VLG",
+    "TEN_DAY_DU": "HUYỆN VŨNG LIÊM-VLVM",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "681",
+    "MAQUANCHAR": "VLTB",
+    "TEN_QUANHUYEN": "HUYỆN TAM BÌNH",
+    "MA_TINH": "VINH LONG_VLG",
+    "CODE_TINH": "VLG",
+    "TEN_DAY_DU": "HUYỆN TAM BÌNH-VLTB",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "682",
+    "MAQUANCHAR": "VLVL",
+    "TEN_QUANHUYEN": "THÀNH PHỐ VĨNH LONG",
+    "MA_TINH": "VINH LONG_VLG",
+    "CODE_TINH": "VLG",
+    "TEN_DAY_DU": "THÀNH PHỐ VĨNH LONG-VLVL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "683",
+    "MAQUANCHAR": "VLTO",
+    "TEN_QUANHUYEN": "HUYỆN TRÀ ÔN",
+    "MA_TINH": "VINH LONG_VLG",
+    "CODE_TINH": "VLG",
+    "TEN_DAY_DU": "HUYỆN TRÀ ÔN-VLTO",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "684",
+    "MAQUANCHAR": "VLMT",
+    "TEN_QUANHUYEN": "HUYỆN MANG THÍT",
+    "MA_TINH": "VINH LONG_VLG",
+    "CODE_TINH": "VLG",
+    "TEN_DAY_DU": "HUYỆN MANG THÍT-VLMT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "685",
+    "MAQUANCHAR": "VPYL",
+    "TEN_QUANHUYEN": "HUYÊN YÊN LẠC",
+    "MA_TINH": "VINH PHUC_VPC",
+    "CODE_TINH": "VPC",
+    "TEN_DAY_DU": "HUYÊN YÊN LẠC-VPYL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "686",
+    "MAQUANCHAR": "VPTG",
+    "TEN_QUANHUYEN": "HUYỆN TAM DƯƠNG",
+    "MA_TINH": "VINH PHUC_VPC",
+    "CODE_TINH": "VPC",
+    "TEN_DAY_DU": "HUYỆN TAM DƯƠNG-VPTG",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "687",
+    "MAQUANCHAR": "VPBX",
+    "TEN_QUANHUYEN": "HUYỆN BÌNH XUYÊN",
+    "MA_TINH": "VINH PHUC_VPC",
+    "CODE_TINH": "VPC",
+    "TEN_DAY_DU": "HUYỆN BÌNH XUYÊN-VPBX",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "688",
+    "MAQUANCHAR": "VPSL",
+    "TEN_QUANHUYEN": "HUYỆN SÔNG LÔ",
+    "MA_TINH": "VINH PHUC_VPC",
+    "CODE_TINH": "VPC",
+    "TEN_DAY_DU": "HUYỆN SÔNG LÔ-VPSL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "689",
+    "MAQUANCHAR": "VPPY",
+    "TEN_QUANHUYEN": "THỊ XÃ PHÚC YÊN",
+    "MA_TINH": "VINH PHUC_VPC",
+    "CODE_TINH": "VPC",
+    "TEN_DAY_DU": "THỊ XÃ PHÚC YÊN-VPPY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "690",
+    "MAQUANCHAR": "VPVY",
+    "TEN_QUANHUYEN": "THÀNH PHỐ VĨNH YÊN",
+    "MA_TINH": "VINH PHUC_VPC",
+    "CODE_TINH": "VPC",
+    "TEN_DAY_DU": "THÀNH PHỐ VĨNH YÊN-VPVY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "691",
+    "MAQUANCHAR": "VPTD",
+    "TEN_QUANHUYEN": "HUỴÊN TAM ĐẢO",
+    "MA_TINH": "VINH PHUC_VPC",
+    "CODE_TINH": "VPC",
+    "TEN_DAY_DU": "HUỴÊN TAM ĐẢO-VPTD",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "692",
+    "MAQUANCHAR": "VPVT",
+    "TEN_QUANHUYEN": "HUYỆN VĨNH TƯỜNG",
+    "MA_TINH": "VINH PHUC_VPC",
+    "CODE_TINH": "VPC",
+    "TEN_DAY_DU": "HUYỆN VĨNH TƯỜNG-VPVT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "693",
+    "MAQUANCHAR": "VPLT",
+    "TEN_QUANHUYEN": "HUYỆN LẬP THẠCH",
+    "MA_TINH": "VINH PHUC_VPC",
+    "CODE_TINH": "VPC",
+    "TEN_DAY_DU": "HUYỆN LẬP THẠCH-VPLT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "703",
+    "MAQUANCHAR": "YBVC",
+    "TEN_QUANHUYEN": "HUYỆN VĂN CHẤN",
+    "MA_TINH": "YEN BAI_YBN",
+    "CODE_TINH": "YBN",
+    "TEN_DAY_DU": "HUYỆN VĂN CHẤN-YBVC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "704",
+    "MAQUANCHAR": "YBVY",
+    "TEN_QUANHUYEN": "HUYỆN VĂN YÊN",
+    "MA_TINH": "YEN BAI_YBN",
+    "CODE_TINH": "YBN",
+    "TEN_DAY_DU": "HUYỆN VĂN YÊN-YBVY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "705",
+    "MAQUANCHAR": "YBYH",
+    "TEN_QUANHUYEN": "HUYỆN YÊN BÌNH",
+    "MA_TINH": "YEN BAI_YBN",
+    "CODE_TINH": "YBN",
+    "TEN_DAY_DU": "HUYỆN YÊN BÌNH-YBYH",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "706",
+    "MAQUANCHAR": "YBTT",
+    "TEN_QUANHUYEN": "HUYỆN TRẠM TẤU",
+    "MA_TINH": "YEN BAI_YBN",
+    "CODE_TINH": "YBN",
+    "TEN_DAY_DU": "HUYỆN TRẠM TẤU-YBTT",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "707",
+    "MAQUANCHAR": "YBLY",
+    "TEN_QUANHUYEN": "HUYỆN LỤC YÊN",
+    "MA_TINH": "YEN BAI_YBN",
+    "CODE_TINH": "YBN",
+    "TEN_DAY_DU": "HUYỆN LỤC YÊN-YBLY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "708",
+    "MAQUANCHAR": "YBNL",
+    "TEN_QUANHUYEN": "THỊ XÃ NGHĨA LỘ",
+    "MA_TINH": "YEN BAI_YBN",
+    "CODE_TINH": "YBN",
+    "TEN_DAY_DU": "THỊ XÃ NGHĨA LỘ-YBNL",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "709",
+    "MAQUANCHAR": "YBMC",
+    "TEN_QUANHUYEN": "HUYỆN MÙ CĂNG CHẢI",
+    "MA_TINH": "YEN BAI_YBN",
+    "CODE_TINH": "YBN",
+    "TEN_DAY_DU": "HUYỆN MÙ CĂNG CHẢI-YBMC",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "710",
+    "MAQUANCHAR": "YBTY",
+    "TEN_QUANHUYEN": "HUYỆN TRẤN YÊN",
+    "MA_TINH": "YEN BAI_YBN",
+    "CODE_TINH": "YBN",
+    "TEN_DAY_DU": "HUYỆN TRẤN YÊN-YBTY",
+    "TINH_THANH": ""
+  },
+  {
+    "STT": "711",
+    "MAQUANCHAR": "YBYB",
+    "TEN_QUANHUYEN": "THÀNH PHỐ YÊN BÁI",
+    "MA_TINH": "YEN BAI_YBN",
+    "CODE_TINH": "YBN",
+    "TEN_DAY_DU": "THÀNH PHỐ YÊN BÁI-YBYB",
+    "TINH_THANH": ""
+  }
+]

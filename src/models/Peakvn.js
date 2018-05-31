@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+import mongoose from 'mongoose';
 
 const ProductSchema = new mongoose.Schema({
   productId: String,
@@ -8,13 +8,13 @@ const ProductSchema = new mongoose.Schema({
   productFeature: [String],
   productPrice: String,
   productName: String,
-  productColor:String,
+  productColor: String,
   listingDate: Number,
   location: String,
   productImg: [],
   productSize: [],
 });
-const ProductModel = mongoose.model("Product", ProductSchema);
+const ProductModel = mongoose.model('Product', ProductSchema);
 
 const UserSchema = new mongoose.Schema({
   userName: String,
@@ -24,12 +24,12 @@ const UserSchema = new mongoose.Schema({
   userAddress: String,
   userGender: String,
   userDOB: String,
-  userOrders: [{ type: mongoose.Schema.Types.ObjectId, ref: "Order" }],
+  userOrders: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Order' }],
 });
-const UserModel = mongoose.model("User", UserSchema);
+const UserModel = mongoose.model('User', UserSchema);
 
 const OrderSchema = new mongoose.Schema({
-  orderUser: { type: mongoose.Schema.Types.ObjectId, ref: "User" },
+  orderUser: { type: mongoose.Schema.Types.ObjectId, ref: 'User' },
   orderDate: String,
   orderId: String,
   orderName: String,
@@ -53,7 +53,7 @@ const OrderSchema = new mongoose.Schema({
   ],
   orderStatus: String,
 });
-const OrderModel = mongoose.model("Order", OrderSchema);
+const OrderModel = mongoose.model('Order', OrderSchema);
 
 const ContactSchema = new mongoose.Schema({
   contactName: String,
@@ -62,7 +62,12 @@ const ContactSchema = new mongoose.Schema({
   contactTopic: String,
   contactQuestion: String,
   status: String,
-})
-const ContactModel = mongoose.model("Contact", ContactSchema)
+});
+const ContactModel = mongoose.model('Contact', ContactSchema);
 
-export { ProductModel, OrderModel, UserModel, ContactModel };
+const surveySchema = new mongoose.Schema({
+  answer: [mongoose.Schema.Types.Mixed],
+});
+const SurveyModel = mongoose.model('Survey', surveySchema);
+
+export { ProductModel, OrderModel, UserModel, ContactModel, SurveyModel };

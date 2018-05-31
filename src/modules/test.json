@@ -1,0 +1,1028 @@
+[
+  {
+    "name": ["AGG", "AN GIANG_AGG"],
+    "provinces": {
+      "AGCD": "THỊ XÃ CHÂU ĐỐC",
+      "AGPT": "HUYỆN PHÚ TÂN",
+      "AGLX": "THÀNH PHỐ LONG XUYÊN",
+      "AGAP": "HUYỆN AN PHÚ",
+      "AGCM": "HUYỆN CHỢ MỚI",
+      "AGCP": "HUYỆN CHÂU PHÚ",
+      "AGTC": "THỊ XÃ TÂN CHÂU",
+      "AGTB": "HUYỆN TỊNH BIÊN",
+      "AGTT": "HUYỆN TRI TÔN",
+      "AGCT": "HUYỆN CHÂU THÀNH",
+      "AGTS": "HUYỆN THOẠI SƠN"
+    }
+  },
+  {
+    "name": ["VTU", "BA RIA VUNG TAU_VTU"],
+    "provinces": {
+      "VTBR": "THỊ XÃ BÀ RỊA",
+      "VTTT": "HUYỆN TÂN THÀNH",
+      "VTXM": "HUYỆN XUYÊN MỘC",
+      "VTCC": "HUYỆN CHÂU ĐỨC",
+      "VTVT": "THÀNH PHỐ VŨNG TÀU",
+      "VTDD": "HUYỆN ĐẤT ĐỎ",
+      "VTLT": "HUYỆN LONG THÀNH",
+      "VTCD": "HUYỆN CÔN ĐẢO",
+      "VTLD": "HUYỆN LONG ĐIỀN"
+    }
+  },
+  {
+    "name": ["BGG", "BAC GIANG_BGG"],
+    "provinces": {
+      "BGBG": "THÀNH PHỐ BẮC GIANG",
+      "BGHH": "HUYỆN HIỆP HÒA",
+      "BGVY": "HUYỆN VIỆT YÊN",
+      "BGYT": "HUYỆN YÊN THẾ",
+      "BGLN": "HUYỆN LỤC NGẠN",
+      "BGLG": "HUYỆN LẠNG GIANG",
+      "BGTY": "HUYỆN TÂN YÊN",
+      "BGLM": "HUYỆN LỤC NAM",
+      "BGSD": "HUYỆN SƠN ĐỘNG",
+      "BGYD": "HUYỆN YÊN DŨNG"
+    }
+  },
+  {
+    "name": ["BKN", "BAC KAN_BKN"],
+    "provinces": {
+      "BKCM": "HUYỆN CHỢ MỚI",
+      "BKCD": "HUYỆN CHỢ ĐỒN",
+      "BKNS": "HUYỆN NGÂN SƠN",
+      "BKBK": "THỊ XÃ BẮC KẠN",
+      "BKNR": "HUYỆN NA RÌ",
+      "BKBT": "HUYỆN BẠCH THÔNG",
+      "BKBB": "HUYỆN BA BỂ",
+      "BKPN": "HUYỆN PẮC NẶM"
+    }
+  },
+  {
+    "name": ["BLU", "BAC LIEU_BLU"],
+    "provinces": {
+      "BLHB": "HUYỆN HÒA BÌNH",
+      "BLDH": "HUYỆN ĐÔNG HẢI",
+      "BLBL": "THỊ XÃ BẠC LIÊU",
+      "BLGR": "HUYỆN GIÁ RAI",
+      "BLVL": "HUYỆN VĨNH LỢI",
+      "BLHD": "HUYỆN HỒNG DÂN",
+      "BLPL": "HUYỆN PHƯỚC LONG"
+    }
+  },
+  {
+    "name": ["BNH", "BAC NINH_BNH"],
+    "provinces": {
+      "BNLT": "HUYỆN LƯƠNG TÀI",
+      "BNBN": "THÀNH PHỐ BẮC NINH",
+      "BNGB": "HUYỆN GIA BÌNH",
+      "BNTT": "HUYỆN THUẬN THÀNH",
+      "BNQV": "HUYỆN QUẾ VÕ",
+      "BNYP": "HUYỆN YÊN PHONG",
+      "BNTD": "HUYỆN TIÊN DU",
+      "BNTS": "HUYỆN TỪ SƠN"
+    }
+  },
+  {
+    "name": ["BTE", "BEN TRE_BTE"],
+    "provinces": {
+      "BTBI": "HUYỆN BA TRI",
+      "BTCL": "HUYỆN CHỢ LÁCH",
+      "BTBD": "HUYỆN BÌNH ĐẠI",
+      "BTMN": "HUYỆN MỎ CÀY NAM",
+      "BTMB": "HUYỆN MỎ CÀY BẮC",
+      "BTTP": "HUYỆN THẠNH PHÚ",
+      "BTGT": "HUYỆN GIỒNG TRÔM",
+      "BTCT": "HUYỆN CHÂU THÀNH",
+      "BTBT": "THÀNH PHỐ BẾN TRE"
+    }
+  },
+  {
+    "name": ["BDH", "BINH DINH_BDH"],
+    "provinces": {
+      "BDTS": "HUYÊN TÂY SƠN",
+      "BDHA": "HUYỆN HOÀI ÂN",
+      "BDVC": "HUYỆN VÂN CANH",
+      "BDAN": "HUYỆN AN NHƠN",
+      "BDHN": "HUYỆN HOÀI NHƠN",
+      "BDAL": "HUYỆN AN LÃO",
+      "BDVT": "HUYỆN VĨNH THẠNH",
+      "BDTP": "HUYỆN TUY PHƯỚC",
+      "BDPM": "HUYỆN PHÙ MỸ",
+      "BDQN": "THÀNH PHỐ QUY NHƠN",
+      "BDPC": "HUYỆN PHÙ CÁT"
+    }
+  },
+  {
+    "name": ["BDG", "BINH DUONG_BDG"],
+    "provinces": {
+      "BDTU": "THỊ XÃ TÂN UYÊN",
+      "BDDA": "THỊ XÃ DĨ AN",
+      "BDBC": "THỊ XÃ BẾN CÁT",
+      "BDBB": "HUYỆN BÀU BÀNG",
+      "BDBU": "HUYỆN BẮC TÂN UYÊN",
+      "BDTA": "THỊ XÃ THUẬN AN",
+      "BDPG": "HUYỆN PHÚ GIÁO",
+      "BDDT": "HUYỆN DẦU TIẾNG",
+      "BDTM": "THỊ XÃ THỦ DẦU MỘT"
+    }
+  },
+  {
+    "name": ["BPC", "BINH PHUOC_BPC"],
+    "provinces": {
+      "BPBP": "HUYỆN BÙ ĐỐP",
+      "BPLN": "HUYỆN LỘC NINH",
+      "BPDX": "THỊ XÃ ĐỒNG XOÀI",
+      "BPDP": "HUYỆN ĐỒNG PHÚ",
+      "BPHQ": "HUYỆN HỚN QUẢN",
+      "BPBL": "THỊ XÃ BÌNH LONG",
+      "BPCT": "HUYỆN CHƠN THÀNH",
+      "BPBD": "HUYỆN BÙ ĐĂNG",
+      "BPPL": "THỊ XÃ PHƯỚC LONG",
+      "BPBM": "HUYỆN BÙ GIA MẬP",
+      "BPPR": "HUYỆN PHÚ RIỀNG"
+    }
+  },
+  {
+    "name": ["BTN", "BINH THUAN_BTN"],
+    "provinces": {
+      "BTHB": "HUYỆN HÀM THUẬN BẮC",
+      "BTPQ": "HUYỆN PHÚ QUÝ",
+      "BTTG": "HUYỆN TUY PHONG",
+      "BTTL": "HUYỆN TÁNH LINH",
+      "BTDL": "HUYỆN ĐỨC LINH",
+      "BTLG": "THỊ XÃ LA GI",
+      "BTHT": "HUYỆN HÀM TÂN",
+      "BTHN": "HUYỆN HÀM THUẬN NAM",
+      "BTBB": "HUYỆN BẮC BÌNH",
+      "BTPT": "THÀNH PHỐ PHAN THIẾT"
+    }
+  },
+  {
+    "name": ["CMU", "CA MAU_CMU"],
+    "provinces": {
+      "CMCN": "HUYỆN CÁI NƯỚC",
+      "CMNC": "HUYỆN NĂM CĂN",
+      "CMDD": "HUYỆN ĐẦM DƠI",
+      "CMNH": "HUYỆN NGỌC HIỂN",
+      "CMUM": "HUYỆN U MINH",
+      "CMTT": "HUYỆN TRẦN VĂN THỜI",
+      "CMPT": "HUYỆN PHÚ TÂN",
+      "CMCM": "THÀNH PHỐ CÀ MAU",
+      "CMTB": "HUYỆN THỚI BÌNH"
+    }
+  },
+  {
+    "name": ["CTO", "CAN THO_CTO"],
+    "provinces": {
+      "CTOM": "QUẬN Ô MÔN",
+      "CTTL": "HUYỆN THỚI LAI",
+      "CTNK": "QUẬN NINH KIỀU",
+      "CTTN": "QUẬN THỐT NỐT",
+      "CTVT": "HUYỆN VĨNH THẠNH",
+      "CTPD": "HUYỆN PHONG ĐIỀN",
+      "CTCR": "QUẬN CÁI RĂNG",
+      "CTCD": "HUYỆN CỜ ĐỎ",
+      "CTBT": "QUẬN BÌNH THỦY"
+    }
+  },
+  {
+    "name": ["CBG", "CAO BANG_CBG"],
+    "provinces": {
+      "CBTA": "HUYỆN THẠCH AN",
+      "CBHL": "HUYỆN HẠ LANG",
+      "CBNB": "HUYỆN NGUYÊN BÌNH",
+      "CBBL": "HUYỆN BẢO LẠC",
+      "CBPH": "HUYỆN PHỤC HÒA",
+      "CBTK": "HUYỆN TRÙNG KHÁNH",
+      "CBTN": "HUYỆN THÔNG NÔNG",
+      "CBBM": "HUYỆN BẢO LÂM",
+      "CBCB": "THỊ XÃ CAO BẰNG",
+      "CBHQ": "HUYỆN HÀ QUẢNG",
+      "CBTL": "HUYỆN TRÀ LĨNH",
+      "CBHA": "HUYỆN HÒA AN",
+      "CBQU": "HUYỆN QUẢNG UYÊN"
+    }
+  },
+  {
+    "name": ["DNG", "DA NANG_DNG"],
+    "provinces": {
+      "DNCL": "QUẬN CẨM LỆ",
+      "DNTK": "QUẬN THANH KHÊ",
+      "DNNS": "QUẬN NGŨ HÀNH SƠN",
+      "DNHC": "QUẬN HẢI CHÂU",
+      "DNST": "QUẬN SƠN TRÀ",
+      "DNLC": "QUẬN LIÊN CHIỂU",
+      "DNHS": "HUYỆN HOÀNG SA",
+      "DNHV": "HUYỆN HÒA VANG"
+    }
+  },
+  {
+    "name": ["DLK", "DAK LAK_DLK"],
+    "provinces": {
+      "DLKK": "HUYỆN KRÔNG BÚK",
+      "DLKN": "HUYỆN KRÔNG NĂNG",
+      "DLBH": "THỊ XÃ BUÔN HỒ",
+      "DLEK": "HUYỆN EA KAR",
+      "DLBT": "THÀNH PHỐ BUÔN MA THUỘT",
+      "DLKA": "HUYỆN KRÔNG A NA",
+      "DLLK": "HUYỆN LẮK",
+      "DLCM": "HUYỆN CƯ M'GAR",
+      "DLBD": "HUYỆN BUÔN ĐÔN",
+      "DLES": "HUYỆN EA SÚP",
+      "DLKB": "HUYỆN KRÔNG BÔNG",
+      "DLMD": "HUYỆN M'ĐRẮK",
+      "DLEH": "HUYỆN EA H'LEO",
+      "DLCK": "HUYỆN CƯ KUIN",
+      "DLKP": "HUYỆN KRÔNG PẮK"
+    }
+  },
+  {
+    "name": ["DKG", "DAK NONG_DKG"],
+    "provinces": {
+      "DKDL": "HUYỆN ĐẮK GLONG",
+      "DKTD": "HUYỆN TUY ĐỨC",
+      "DKGN": "THỊ XÃ GIA NGHĨA",
+      "DKCJ": "HUYỆN CƯ JÚT",
+      "DKKN": "HUYỆN KRÔNG NÔ",
+      "DKDS": "HUYỆN ĐẮK SONG",
+      "DKDM": "HUYỆN ĐẮK MIL",
+      "DKDR": "HUYỆN ĐẮK RLẤP"
+    }
+  },
+  {
+    "name": ["DBN", "DIEN BIEN_DBN"],
+    "provinces": {
+      "DBDP": "THÀNH PHỐ ĐIỆN BIÊN PHỦ",
+      "DBDB": "HUYỆN ĐIỆN BIÊN",
+      "DBDD": "HUYỆN ĐIỆN BIÊN ĐÔNG",
+      "DBML": "THỊ XÃ MƯỜNG LAY",
+      "DBMN": "HUYỆN MƯỜNG NHÉ",
+      "DBMA": "HUYỆN MƯỜNG ÁNG",
+      "DBNP": "HUYỆN NẬM PỒ",
+      "DBMC": "HUYỆN MƯỜNG CHÀ",
+      "DBTC": "HUYỆN TỦA CHÙA",
+      "DBTG": "HUYỆN TUẦN GIÁO"
+    }
+  },
+  {
+    "name": ["DNI", "DONG NAI_DNI"],
+    "provinces": {
+      "DNTB": "HUYỆN TRẢNG BOM",
+      "DNTP": "HUYỆN TÂN PHÚ",
+      "DNTN": "HUYỆN THỐNG NHẤT",
+      "DNVC": "HUYỆN VĨNH CỬU",
+      "DNNT": "HUYỆN NHƠN TRẠCH",
+      "DNBH": "THÀNH PHỐ BIÊN HÒA",
+      "DNCM": "HUYỆN CẨM MỸ",
+      "DNXL": "HUYỆN XUÂN LỘC",
+      "DNDQ": "HUYỆN ĐỊNH QUÁN",
+      "DNLT": "HUYỆN LONG THÀNH",
+      "DNLK": "THỊ XÃ LONG KHÁNH"
+    }
+  },
+  {
+    "name": ["DTP", "DONG THAP_DTP"],
+    "provinces": {
+      "DTTH": "HUYỆN TÂN HỒNG",
+      "DTLO": "HUYỆN LẤP VÒ",
+      "DTCL": "THÀNH PHỐ CAO LÃNH",
+      "DTLV": "HUYỆN LAI VUNG",
+      "DTCT": "HUYỆN CHÂU THÀNH",
+      "DTHU": "HUYỆN HỒNG NGỰ",
+      "DTCH": "HUYỆN CAO LÃNH",
+      "DTSD": "THỊ XÃ SA ĐÉC",
+      "DTTM": "HUYỆN THÁP MƯỜI",
+      "DTTB": "HUYỆN THANH BÌNH",
+      "DTTN": "HUYỆN TAM NÔNG"
+    }
+  },
+  {
+    "name": ["GLI", "GIA LAI_GLI"],
+    "provinces": {
+      "GLCO": "HUYỆN CHƯ PRÔNG",
+      "GLKP": "HUYỆN KRÔNG PA",
+      "GLPT": "HUYỆN PHÚ THIỆN",
+      "GLPL": "THÀNH PHỐ PLEIKU",
+      "GLDD": "HUYỆN ĐĂK ĐOA",
+      "GLDP": "HUYỆN ĐĂK PƠ",
+      "GLIG": "HUYỆN IA GRAI",
+      "GLDC": "HUYỆN ĐỨC CƠ",
+      "GLCS": "HUYỆN CHƯ SÊ",
+      "GLKB": "HUYỆN KBANG",
+      "GLKC": "HUYỆN KÔNG CHRO",
+      "GLMY": "HUYỆN MANG YANG",
+      "GLCP": "HUYỆN CHƯ PĂH",
+      "GLIP": "HUYỆN IA PA",
+      "GLCH": "HUYỆN CHƯ PƯH",
+      "GLAK": "THỊ XÃ AN KHÊ",
+      "GLAP": "THỊ XÃ AYUN PA"
+    }
+  },
+  {
+    "name": ["HGG", "HA GIANG_HGG"],
+    "provinces": {
+      "HGHP": "HUYỆN HOÀNG SU PHÌ",
+      "HGQB": "HUYỆN QUẢN BẠ",
+      "HGVX": "HUYỆN VỊ XUYÊN",
+      "HGBM": "HUYỆN BẮC MÊ",
+      "HGXM": "HUYỆN XÍN MẦN",
+      "HGBQ": "HUYỆN BẮC QUANG",
+      "HGHG": "THỊ XÃ HÀ GIANG",
+      "HGDV": "HUYỆN ĐỒNG VĂN",
+      "HGYM": "HUYỆN YÊN MINH",
+      "HGMV": "HUYỆN MÈO VẠC",
+      "HGBH": "HUYỆN QUANG BÌNH"
+    }
+  },
+  {
+    "name": ["HNM", "HA NAM_HNM"],
+    "provinces": {
+      "HMDT": "HUYỆN DUY TIÊN",
+      "HMKB": "HUYỆN KIM BẢNG",
+      "HMLN": "HUYỆN LÝ NHÂN",
+      "HMPL": "THỊ XÃ PHỦ LÝ",
+      "HMTL": "HUYỆN THANH LIÊM",
+      "HMBL": "HUYỆN BÌNH LỤC"
+    }
+  },
+  {
+    "name": ["HNI", "HA NOI_HNI"],
+    "provinces": {
+      "HNHK": "QUẬN HOÀN KIẾM",
+      "HNBV": "HUYỆN BA VÌ",
+      "HNHC": "HUYỆN HOÀI ĐỨC",
+      "HNHM": "QUẬN HOÀNG MAI",
+      "HNTT": "HUYỆN THẠCH THẤT",
+      "HNCM": "HUYỆN CHƯƠNG MỸ",
+      "HNSS": "HUYỆN SÓC SƠN",
+      "HNGL": "HUYỆN GIA LÂM",
+      "HNHT": "QUẬN HAI BÀ TRƯNG",
+      "HNTH": "QUẬN TÂY HỒ",
+      "HNML": "HUYỆN MÊ LINH",
+      "HNTI": "HUYỆN THANH TRÌ",
+      "HNUH": "HUYỆN ỨNG HÒA",
+      "HNCG": "QUẬN CẦU GIẤY",
+      "HNPT": "HUYỆN PHÚC THỌ",
+      "HNTO": "HUYỆN THANH OAI",
+      "HNMD": "HUYỆN MỸ ĐỨC",
+      "HNST": "THỊ XÃ SƠN TÂY",
+      "HNDP": "HUYỆN ĐAN PHƯỢNG",
+      "HNLB": "QUẬN LONG BIÊN",
+      "HNQO": "HUYỆN QUỐC OAI",
+      "HNBD": "QUẬN BA ĐÌNH",
+      "HNTX": "QUẬN THANH XUÂN",
+      "HNDD": "QUẬN ĐỐNG ĐA",
+      "HNNL": "QUẬN NAM TỪ LIÊM",
+      "HNBL": "QUẬN BẮC TỪ LIÊM",
+      "HNPX": "HUYỆN PHÚ XUYÊN",
+      "HNDA": "HUYỆN ĐÔNG ANH",
+      "HNHD": "TP HÀ ĐÔNG",
+      "HNTN": "HUYỆN THƯỜNG TÍN"
+    }
+  },
+  {
+    "name": ["HTH", "HA TINH_HTH"],
+    "provinces": {
+      "HTVQ": "HUYỆN VŨ QUANG",
+      "HTDT": "HUYỆN ĐỨC THỌ",
+      "HTCL": "HUYỆN CAN LỘC",
+      "HTLH": "HUYỆN LỘC HÀ",
+      "HTNX": "HUYỆN NGHI XUÂN",
+      "HTHS": "HUYỆN HƯƠNG SƠN",
+      "HTHK": "HUYỆN HƯƠNG KHÊ",
+      "HTCX": "HUYỆN CẨM XUYÊN",
+      "HTHT": "THÀNH PHỐ HÀ TĨNH",
+      "HTTH": "HUYỆN THẠCH HÀ",
+      "HTKH": "HUYỆN KỲ ANH",
+      "HTHL": "THỊ XÃ HỒNG LĨNH",
+      "HTKA": "THỊ XÃ KỲ ANH"
+    }
+  },
+  {
+    "name": ["HDG", "HAI DUONG_HDG"],
+    "provinces": {
+      "HDHD": "TP HẢI DƯƠNG",
+      "HDNG": "HUYỆN NINH GIANG",
+      "HDTK": "HUYỆN TỨ KỲ",
+      "HDTH": "HUYỆN THANH HÀ",
+      "HDCG": "HUYỆN CẨM GIÀNG",
+      "HDTM": "HUYỆN THANH MIỆN",
+      "HDNS": "HUYỆN NAM SÁCH",
+      "HDKM": "HUYỆN KINH MÔN",
+      "HDCL": "HUYỆN CHÍ LINH",
+      "HDBG": "HUYỆN BÌNH GIANG",
+      "HDGL": "HUYỆN GIA LỘC",
+      "HDKT": "HUYỆN KIM THÀNH"
+    }
+  },
+  {
+    "name": ["HPG", "HAI PHONG_HPG"],
+    "provinces": {
+      "HPHB": "QUẬN HỒNG BÀNG",
+      "HPDS": "QUẬN ĐỒ SƠN",
+      "HPLC": "QUẬN LÊ CHÂN",
+      "HPAD": "HUYỆN AN DƯƠNG",
+      "HPBV": "HUYỆN ĐẢO BẠCH LONG VĨ",
+      "HPKT": "HUYỆN KIẾN THỤY",
+      "HPDK": "QUẬN DƯƠNG KINH",
+      "HPAL": "HUYỆN AN LÃO",
+      "HPVB": "HUYỆN VĨNH BẢO",
+      "HPKA": "QUẬN KIẾN AN",
+      "HPCH": "HUYỆN ĐẢO CÁT HẢI",
+      "HPTN": "HUYỆN THỦY NGUYÊN",
+      "HPNQ": "QUẬN NGÔ QUYỀN",
+      "HPTL": "HUYỆN TIÊN LÃNG",
+      "HPHA": "QUẬN HẢI AN"
+    }
+  },
+  {
+    "name": ["HUG", "HAU GIANG_HUG"],
+    "provinces": {
+      "HGVT": "TP. VỊ THANH",
+      "HGCA": "HUYỆN CHÂU THÀNH A",
+      "HGLY": "HUYỆN LONG MỸ",
+      "HGCT": "HUYỆN CHÂU THÀNH",
+      "HGVY": "HUYỆN VỊ THỦY",
+      "HGNB": "THỊ XÃ NGÃ BẢY",
+      "HGPH": "HUYỆN PHỤNG HIỆP",
+      "HGLM": "THỊ XÃ LONG MỸ"
+    }
+  },
+  {
+    "name": ["HCM", "HO CHI MINH_HCM"],
+    "provinces": {
+      "HCQ6": "QUẬN 6",
+      "HCQ5": "QUẬN 5",
+      "HCQ3": "QUẬN 3",
+      "HCTB": "QUẬN TÂN BÌNH",
+      "HCCC": "HUYỆN CỦ CHI",
+      "HCNB": "HUYỆN NHÀ BÈ",
+      "HC10": "QUẬN 10",
+      "HCQ7": "QUẬN 7",
+      "HC12": "QUẬN 12",
+      "HCQ9": "QUẬN 9",
+      "HCCG": "HUYỆN CẦN GIỜ",
+      "HCQ1": "QUẬN 1",
+      "HCGV": "QUẬN GÒ VẤP",
+      "HC11": "QUẬN 11",
+      "HCBT": "QUẬN BÌNH TÂN",
+      "HCQ8": "QUẬN 8",
+      "HCQ4": "QUẬN 4",
+      "HCBC": "HUYỆN BÌNH CHÁNH",
+      "HCTD": "QUẬN THỦ ĐỨC",
+      "HCBH": "QUẬN BÌNH THẠNH",
+      "HCPN": "QUẬN PHÚ NHUẬN",
+      "HCQ2": "QUẬN 2",
+      "HCTP": "QUẬN TÂN PHÚ",
+      "HCHM": "HUYỆN HÓC MÔN"
+    }
+  },
+  {
+    "name": ["HBH", "HOA BINH_HBH"],
+    "provinces": {
+      "HBKS": "HUYỆN KỲ SƠN",
+      "HBLT": "HUYỆN LẠC THỦY",
+      "HBKB": "HUYỆN KIM BÔI",
+      "HBTL": "HUYỆN TÂN LẠC",
+      "HBLN": "HUYỆN LƯƠNG SƠN",
+      "HBYT": "HUYỆN YÊN THỦY",
+      "HBCP": "HUYỆN CAO PHONG",
+      "HBDB": "HUYỆN ĐÀ BẮC",
+      "HBLS": "HUYỆN LẠC SƠN",
+      "HBHB": "THỊ XÃ HÒA BÌNH",
+      "HBMC": "HUYỆN MAI CHÂU"
+    }
+  },
+  {
+    "name": ["HYN", "HUNG YEN_HYN"],
+    "provinces": {
+      "HYPU": "HUYỆN PHÙ CỪ",
+      "HYVL": "HUYỆN VĂN LÂM",
+      "HYKC": "HUYỆN KHOÁI CHÂU",
+      "HYAT": "HUYỆN ÂN THI",
+      "HYVG": "HUYỆN VĂN GIANG",
+      "HYMH": "HUYỆN MỸ HÀO",
+      "HYKD": "HUYỆN KIM ĐỘNG",
+      "HYTL": "HUYỆN TIÊN LỮ",
+      "HYYM": "HUYỆN YÊN MỸ",
+      "HYHY": "THỊ XÃ HƯNG YÊN"
+    }
+  },
+  {
+    "name": ["KHA", "KHANH HOA_KHA"],
+    "provinces": {
+      "KHNT": "THÀNH PHỐ NHA TRANG",
+      "KHNH": "HUYỆN NINH HÒA",
+      "KHKS": "HUYỆN KHÁNH SƠN",
+      "KHCR": "THÀNH PHỐ CAM RANH",
+      "KHDK": "HUYỆN DIÊN KHÁNH",
+      "KHKV": "HUYỆN KHÁNH VĨNH",
+      "KHTS": "HUYỆN TRƯỜNG SA",
+      "KHCL": "HUYỆN CAM LÂM",
+      "KHVN": "HUYỆN VẠN NINH"
+    }
+  },
+  {
+    "name": ["KGG", "KIEN GIANG_KGG"],
+    "provinces": {
+      "KGAB": "HUYỆN AN BIÊN",
+      "KGGR": "HUYỆN GIỒNG RIỀNG",
+      "KGUT": "HUYỆN U MINH THƯỢNG",
+      "KGKL": "HUYỆN KIÊN LƯƠNG",
+      "KGCT": "HUYỆN CHÂU THÀNH",
+      "KGHD": "HUYỆN HÒN ĐẤT",
+      "KGGT": "HUYÊN GIANG THÀNH",
+      "KGVT": "HUYỆN VĨNH THUẬN",
+      "KGRG": "THÀNH PHỐ RẠCH GIÁ",
+      "KGTH": "HUYỆN TÂN HIỆP",
+      "KGPQ": "HUYỆN PHÚ QUỐC",
+      "KGGQ": "HUYỆN GÒ QUAO",
+      "KGHT": "THỊ XÃ HÀ TIÊN",
+      "KGKH": "HUYỆN KIÊN HẢI",
+      "KGAM": "HUYỆN AN MINH"
+    }
+  },
+  {
+    "name": ["KTM", "KON TUM_KTM"],
+    "provinces": {
+      "KTDH": "HUYỆN ĐẮK HÀ",
+      "KTST": "HUYỆN SA THẦY",
+      "KTTR": "HUYỆN TU MƠ RÔNG",
+      "KTKP": "HUYỆN KON PLÔNG",
+      "KTKT": "THÀNH PHỐ KON TUM",
+      "KTDT": "HUYỆN ĐẮK TÔ",
+      "KTNH": "HUYỆN NGỌC HỒI",
+      "KTKR": "HUYỆN KON RẪY",
+      "KTDG": "HUYỆN ĐẮK GLEI",
+      "KTIH": "HUYỆN IA H'DRAI"
+    }
+  },
+  {
+    "name": ["LCU", "LAI CHAU_LCU"],
+    "provinces": {
+      "LCTG": "HUYỆN TAM ĐƯỜNG",
+      "LCPT": "HUYỆN PHONG THỔ",
+      "LCSH": "HUYỆN SÌN HỒ",
+      "LCTN": "HUYỆN THAN UYÊN",
+      "LCMT": "HUYỆN MƯỜNG TÈ",
+      "LCTU": "HUYỆN TÂN UYÊN",
+      "LCNN": "HUYỆN NẬM NHÙN",
+      "LCLU": "THỊ XÃ LAI CHÂU"
+    }
+  },
+  {
+    "name": ["LDG", "LAM DONG_LDG"],
+    "provinces": {
+      "LDLD": "HUYỆN LẠC DƯƠNG",
+      "LDBM": "HUYỆN BẢO LÂM",
+      "LDCT": "HUYỆN CÁT TIÊN",
+      "LDDI": "HUYỆN DI LINH",
+      "LDDH": "HUYỆN ĐẠ HUOAI",
+      "LDLH": "HUYỆN LÂM HÀ",
+      "LDDL": "THÀNH PHỐ ĐÀ LẠT",
+      "LDDA": "HUYỆN ĐẠ TẺH",
+      "LDDR": "HUYỆN ĐAM RÔNG",
+      "LDBL": "THỊ XÃ BẢO LỘC",
+      "LDDD": "HUYỆN ĐƠN DƯƠNG",
+      "LDDT": "HUYỆN ĐỨC TRỌNG"
+    }
+  },
+  {
+    "name": ["LSN", "LANG SON_LSN"],
+    "provinces": {
+      "LSVQ": "HUYỆN VĂN QUAN",
+      "LSHL": "HUYỆN HỮU LŨNG",
+      "LSCG": "HUYỆN CHI LĂNG",
+      "LSBS": "HUYỆN BẮC SƠN",
+      "LSVL": "HUYỆN VĂN LÃNG",
+      "LSLB": "HUYỆN LỘC BÌNH",
+      "LSCL": "HUYỆN CAO LỘC",
+      "LSDL": "HUYỆN ĐÌNH LẬP",
+      "LSBG": "HUYỆN BÌNH GIA",
+      "LSLS": "THÀNH PHỐ LẠNG SƠN",
+      "LSTD": "HUYỆN TRÀNG ĐỊNH"
+    }
+  },
+  {
+    "name": ["LCI", "LAO CAI_LCI"],
+    "provinces": {
+      "LCLC": "THÀNH PHỐ LÀO CAI",
+      "LCSP": "HUYỆN SA PA",
+      "LCMK": "HUYỆN MƯỜNG KHƯƠNG",
+      "LCBX": "HUYỆN BÁT XÁT",
+      "LCVB": "HUYỆN VĂN BÀN",
+      "LCBH": "HUYỆN BẮC HÀ",
+      "LCSC": "HUYỆN SI MA CAI",
+      "LCBY": "HUYỆN BẢO YÊN",
+      "LCBT": "HUYỆN BẢO THẮNG"
+    }
+  },
+  {
+    "name": ["LAN", "LONG AN_LAN"],
+    "provinces": {
+      "LATU": "HUYỆN TÂN TRỤ",
+      "LADE": "HUYỆN ĐỨC HUỆ",
+      "LACG": "HUYỆN CẦN GUỘC",
+      "LACD": "HUYỆN CẦN ĐƯỚC",
+      "LATA": "THỊ XÃ TÂN AN",
+      "LATG": "HUYỆN TÂN HƯNG",
+      "LACT": "HUYỆN CHÂU THÀNH",
+      "LABL": "HUYỆN BẾN LỨC",
+      "LATN": "HUYỆN TÂN THẠNH",
+      "LATH": "HUYỆN THẠNH HÓA",
+      "LAMH": "HUYỆN MỘC HÓA",
+      "LADH": "HUYỆN ĐỨC HÒA",
+      "LAVH": "HUYỆN VĨNH HƯNG",
+      "LATT": "HUYỆN THỦ THỪA",
+      "LAKT": "THỊ XÃ KIẾN TƯỜNG"
+    }
+  },
+  {
+    "name": ["NDH", "NAM DINH_NDH"],
+    "provinces": {
+      "NDNT": "HUYỆN NAM TRỰC",
+      "NDTN": "HUYỆN TRỰC NINH",
+      "NDML": "HUYỆN MỸ LỘC",
+      "NDGT": "HUYỆN GIAO THỦY",
+      "NDNH": "HUYỆN NGHĨA HƯNG",
+      "NDND": "THÀNH PHỐ NAM ĐỊNH",
+      "NDHH": "HUYỆN HẢI HẬU",
+      "NDVB": "HUYỆN VỤ BẢN",
+      "NDXT": "HUYỆN XUÂN TRƯỜNG",
+      "NDYY": "HUYỆN Ý YÊN"
+    }
+  },
+  {
+    "name": ["NAN", "NGHE AN_NAN"],
+    "provinces": {
+      "NAAS": "HUYỆN ANH SƠN",
+      "NACC": "HUYỆN CON CUÔNG",
+      "NAHN": "HUYỆN HƯNG NGUYÊN",
+      "NATH": "THỊ XÃ THÁI HÒA",
+      "NAQC": "HUYỆN QUỲ CHÂU",
+      "NACL": "THỊ XÃ CỬA LÒ",
+      "NATD": "HUYỆN TƯƠNG DƯƠNG",
+      "NAQP": "HUYỆN QUẾ PHONG",
+      "NATK": "HUYỆN TÂN KỲ",
+      "NADC": "HUYỆN DIỄN CHÂU",
+      "NAKS": "HUYỆN KỲ SƠN",
+      "NAVH": "THÀNH PHỐ VINH",
+      "NADL": "HUYỆN ĐÔ LƯƠNG",
+      "NANL": "HUYỆN NGHI LỘC",
+      "NAYT": "HUYỆN YÊN THÀNH",
+      "NAQL": "HUYỆN QUỲNH LƯU",
+      "NAND": "HUYỆN NAM ĐÀN",
+      "NANN": "HUYỆN NGHĨA ĐÀN",
+      "NATC": "HUYỆN THANH CHƯƠNG",
+      "NAQH": "HUYỆN QUỲ HỢP",
+      "NAHM": "THỊ XÃ HOÀNG MAI"
+    }
+  },
+  {
+    "name": ["NBH", "NINH BINH_NBH"],
+    "provinces": {
+      "NBNB": "THÀNH PHỐ NINH BÌNH",
+      "NBKS": "HUYỆN KIM SƠN",
+      "NBNQ": "HUYỆN NHO QUAN",
+      "NBGV": "HUYỆN GIA VIỄN",
+      "NBYM": "HUYỆN YÊN MÔ",
+      "NBYK": "HUYỆN YÊN KHÁNH",
+      "NBHL": "HUYỆN HOA LƯ",
+      "NBTD": "THỊ XÃ TAM ĐIỆP"
+    }
+  },
+  {
+    "name": ["NTN", "NINH THUAN_NTN"],
+    "provinces": {
+      "NTBA": "HUYỆN BÁC ÁI",
+      "NTNP": "HUYỆN NINH PHƯỚC",
+      "NTNS": "HUYỆN NINH SƠN",
+      "NTTN": "HUYỆN THUẬN NAM",
+      "NTNH": "HUYỆN NINH HẢI",
+      "NTTB": "HUYỆN THUẬN BẮC",
+      "NTPR": "TP.PHAN RANG - THÁP CHÀM"
+    }
+  },
+  {
+    "name": ["PHO", "PHU THO_PHO"],
+    "provinces": {
+      "PTPT": "THI XÃ PHÚ THỌ",
+      "PTTB": "HUYỆN THANH BA",
+      "PTVT": "THÀNH PHỐ VIỆT TRÌ",
+      "PTDH": "HUYỆN ĐOAN HÙNG",
+      "PTTT": "HUYỆN THANH THỦY",
+      "PTTH": "HUYỆN THANH SƠN",
+      "PTTS": "HUYỆN TÂN SƠN",
+      "PTYL": "HUYỆN YÊN LẬP",
+      "PTCK": "HUYỆN CẨM KHÊ",
+      "PTTN": "HUYỆN TAM NÔNG",
+      "PTLT": "HUYỆN LÂM THAO",
+      "PTHH": "HUYỆN HẠ HÒA",
+      "PTPN": "HUYỆN PHÙ NINH"
+    }
+  },
+  {
+    "name": ["PYN", "PHU YEN_PYN"],
+    "provinces": {
+      "PYSC": "THỊ XÃ SÔNG CẦU",
+      "PYTA": "HUYỆN TUY AN",
+      "PYTY": "HUYỆN TÂY HÒA",
+      "PYDH": "HUYỆN ĐÔNG HÒA",
+      "PYTH": "THÀNH PHỐ TUY HÒA",
+      "PYDX": "HUYỆN ĐỒNG XUÂN",
+      "PYPH": "HUYỆN PHÚ HÒA",
+      "PYSA": "HUYỆN SƠN HÒA",
+      "PYSH": "HUYỆN SÔNG HINH"
+    }
+  },
+  {
+    "name": ["QBH", "QUANG BINH_QBH"],
+    "provinces": {
+      "QBLT": "HUYỆN LỆ THỦY",
+      "QBTH": "HUYỆN TUYÊN HÓA",
+      "QBDH": "THÀNH PHỐ ĐỒNG HỚI",
+      "QBQT": "HUYỆN QUẢNG TRẠCH",
+      "QBMH": "HUYỆN MINH HÓA",
+      "QBQN": "HUYỆN QUẢNG NINH",
+      "QBBT": "HUYỆN BỐ TRẠCH",
+      "QBBD": "THỊ XÃ BA ĐỒN"
+    }
+  },
+  {
+    "name": ["QNM", "QUANG NAM_QNM"],
+    "provinces": {
+      "QNPN": "HUYỆN PHÚ NINH",
+      "QNPS": "HUYỆN PHƯỚC SƠN",
+      "QNDL": "HUYỆN ĐẠI LỘC",
+      "QNNG": "HUYỆN NAM GIANG",
+      "QNTH": "HUYỆN THĂNG BÌNH",
+      "QNTK": "THÀNH PHỐ TAM KỲ",
+      "QNDG": "HUYỆN ĐÔNG GIANG",
+      "QNBM": "HUYỆN BẮC TRÀ MY",
+      "QNTG": "HUYỆN TÂY GIANG",
+      "QNTP": "HUYỆN TIÊN PHƯỚC",
+      "QNDB": "HUYỆN ĐIỆN BÀN",
+      "QNQS": "HUYỆN QUẾ SƠN",
+      "QNNS": "HUYỆN NÔNG SƠN",
+      "QNNT": "HUYỆN NÚI THÀNH",
+      "QNHA": "THÀNH PHỐ HỘI AN",
+      "QNNM": "HUYỆN NAM TRÀ MY",
+      "QNHD": "HUYỆN HIỆP ĐỨC",
+      "QNDX": "HUYỆN DUY XUYÊN"
+    }
+  },
+  {
+    "name": ["QNI", "QUANG NGAI_QNI"],
+    "provinces": {
+      "QNNH": "HUYỆN NGHĨA HÀNH",
+      "QNTN": "HUYỆN TƯ NGHĨA",
+      "QNML": "HUYỆN MINH LONG",
+      "QNBS": "HUYỆN BÌNH SƠN",
+      "QNQN": "THÀNH PHỐ QUẢNG NGÃI",
+      "QNMD": "HUYỆN MỘ ĐỨC",
+      "QNTB": "HUYỆN TRÀ BỒNG",
+      "QNTT": "HUYỆN TÂY TRÀ",
+      "QNLS": "HUYỆN LÝ SƠN",
+      "QNSA": "HUYỆN SƠN HÀ",
+      "QNDP": "HUYỆN ĐỨC PHỔ",
+      "QNSH": "HUYỆN SƠN TỊNH",
+      "QNBT": "HUYỆN BA TƠ",
+      "QNST": "HUYỆN SƠN TÂY"
+    }
+  },
+  {
+    "name": ["QNH", "QUANG NINH_QNH"],
+    "provinces": {
+      "QNTY": "HUYỆN TIÊN YÊN",
+      "QNUB": "THỊ XÃ UÔNG BÍ",
+      "QNYH": "HUYỆN YÊN HƯNG",
+      "QNDT": "HUYỆN ĐÔNG TRIỀU",
+      "QNBC": "HUYỆN BA CHẼ",
+      "QNBL": "HUYỆN BÌNH LIÊU",
+      "QNDH": "HUYỆN ĐẦM HÀ",
+      "QNVD": "HUYỆN VÂN ĐỒN",
+      "QNCP": "THỊ XÃ CẨM PHẢ",
+      "QNCT": "HUYỆN CÔ TÔ",
+      "QNMC": "THỊ XÃ MÓNG CÁI",
+      "QNHH": "HUYỆN HẢI HÀ",
+      "QNHL": "THÀNH PHỐ HẠ LONG",
+      "QNHB": "HUYỆN HOÀNH BỒ"
+    }
+  },
+  {
+    "name": ["QTI", "QUANG TRI_QTI"],
+    "provinces": {
+      "QTTP": "HUYỆN TRIỆU PHONG",
+      "QTDH": "THÀNH PHỐ ĐÔNG HÀ",
+      "QTHH": "HUYỆN HƯỚNG HÓA",
+      "QTQT": "THỊ XÃ QUẢNG TRỊ",
+      "QTCL": "HUYỆN CAM LỘ",
+      "QTDK": "HUYỆN ĐA KRÔNG",
+      "QTHL": "HUYỆN HẢI LĂNG",
+      "QTVL": "HUYỆN VĨNH LINH",
+      "QTGL": "HUYỆN GIO LINH"
+    }
+  },
+  {
+    "name": ["STG", "SOC TRANG_STG"],
+    "provinces": {
+      "STLP": "HUYỆN LONG PHÚ",
+      "STTT": "HUYỆN THẠNH TRỊ",
+      "STCT": "HUYỆN CHÂU THÀNH",
+      "STNN": "HUYỆN NGÃ NĂM",
+      "STKS": "HUYỆN KẾ SÁCH",
+      "STCD": "HUYỆN CÙ LAO DUNG",
+      "STTD": "HUYỆN TRẦN ĐỀ",
+      "STST": "THÀNH PHỐ SÓC TRĂNG",
+      "STMX": "HUYỆN MỸ XUYÊN",
+      "STMT": "HUYỆN MỸ TÚ",
+      "STVC": "HUYỆN VĨNH CHÂU"
+    }
+  },
+  {
+    "name": ["SLA", "SON LA_SLA"],
+    "provinces": {
+      "SLQN": "HUYỆN QUỲNH NHAI",
+      "SLML": "HUYỆN MƯỜNG LA",
+      "SLSM": "HUYỆN SÔNG MÃ",
+      "SLSL": "THỊ XÃ SƠN LA",
+      "SLMS": "HUYỆN MAI SƠN",
+      "SLPY": "HUYỆN PHÙ YÊN",
+      "SLTC": "HUYỆN THUẬN CHÂU",
+      "SLMC": "HUYỆN MỘC CHÂU",
+      "SLYC": "HUYỆN YÊN CHÂU",
+      "SLVH": "HUYỆN VÂN HỒ",
+      "SLBY": "HUYỆN BẮC YÊN",
+      "SLSC": "HUYỆN SỐP CỘP"
+    }
+  },
+  {
+    "name": ["TNH", "TAY NINH_TNH"],
+    "provinces": {
+      "TNTU": "HUYỆN TÂN CHÂU",
+      "TNCT": "HUYỆN CHÂU THÀNH",
+      "TNTH": "THỊ XÃ TÂY NINH",
+      "TNHT": "HUYỆN HÒA THÀNH",
+      "TNTA": "HUYỆN TÂN BIÊN",
+      "TNGD": "HUYỆN GÒ DẦU",
+      "TNTB": "HUYỆN TRẢNG BÀNG",
+      "TNDC": "HUYỆN DƯƠNG MINH CHÂU",
+      "TNBC": "HUYỆN BẾN CẦU"
+    }
+  },
+  {
+    "name": ["TBH", "THAI BINH_TBH"],
+    "provinces": {
+      "TBTT": "HUYỆN THÁI THỤY",
+      "TBVT": "HUYỆN VŨ THƯ",
+      "TBQP": "HUYỆN QUỲNH PHỤ",
+      "TBHH": "HUYỆN HƯNG HÀ",
+      "TBQC": "HUYỆN QUỲNH CÔI",
+      "TBTB": "THÀNH PHỐ THÁI BÌNH",
+      "TBDH": "HUYỆN ĐÔNG HƯNG",
+      "TBTH": "HUYỆN TIỀN HẢI",
+      "TBKX": "HUYỆN KIẾN XƯƠNG"
+    }
+  },
+  {
+    "name": ["TNN", "THAI NGUYEN_TNN"],
+    "provinces": {
+      "TNPY": "HUYỆN PHỔ YÊN",
+      "TNPL": "HUYỆN PHÚ LƯƠNG",
+      "TNVN": "HUYỆN VÕ NHAI",
+      "TNTN": "THÀNH PHỐ THÁI NGUYÊN",
+      "TNPB": "HUYỆN PHÚ BÌNH",
+      "TNDH": "HUYỆN ĐỒNG HỶ",
+      "TNDT": "HUYỆN ĐẠI TỪ",
+      "TNDA": "HUYỆN ĐỊNH HÓA",
+      "TNSC": "THỊ XÃ SÔNG CÔNG"
+    }
+  },
+  {
+    "name": ["THA", "THANH HOA_THA"],
+    "provinces": {
+      "THNL": "HUYỆN NGỌC LẶC",
+      "THHH": "HUYỆN HOẰNG HÓA",
+      "THQS": "HUYỆN QUAN SƠN",
+      "THTT": "HUYỆN THẠCH THÀNH",
+      "THQX": "HUYỆN QUẢNG XƯƠNG",
+      "THNS": "HUYỆN NGA SƠN",
+      "THDS": "HUYỆN ĐÔNG SƠN",
+      "THVL": "HUYỆN VĨNH LỘC",
+      "THLC": "HUYỆN LANG CHÁNH",
+      "THTH": "THÀNH PHỐ THANH HÓA",
+      "THTS": "HUYỆN TRIỆU SƠN",
+      "THNC": "HUYỆN NÔNG CỐNG",
+      "THTG": "HUYỆN TĨNH GIA",
+      "THTN": "HUYỆN THƯỜNG XUÂN",
+      "THNX": "HUYỆN NHƯ XUÂN",
+      "THHL": "HUYỆN HẬU LỘC",
+      "THNT": "HUYỆN NHƯ THANH",
+      "THHT": "HUYỆN HÀ TRUNG",
+      "THML": "HUYỆN MƯỜNG LÁT",
+      "THCT": "HUYỆN CẨM THỦY",
+      "THQH": "HUYỆN QUAN HÓA",
+      "THBT": "HUYỆN BÁ THƯỚC",
+      "THYD": "HUYỆN YÊN ĐỊNH",
+      "THTX": "HUYỆN THỌ XUÂN",
+      "THBS": "THỊ XÃ BỈM SƠN",
+      "THTA": "HUYỆN THIỆU HÓA",
+      "THSS": "THỊ XÃ SẦM SƠN"
+    }
+  },
+  {
+    "name": ["HUE", "THUA THIEN HUE_HUE"],
+    "provinces": {
+      "HUPV": "HUYỆN PHÚ VANG",
+      "HUPL": "HUYỆN PHÚ LỘC",
+      "HUHT": "THỊ XÃ HƯƠNG THỦY",
+      "HUAL": "HUYỆN A LƯỚI",
+      "HUPD": "HUYỆN PHONG ĐIỀN",
+      "HUQD": "HUYỆN QUẢNG ĐIỀN",
+      "HUND": "HUYỆN NAM ĐÔNG",
+      "HUHA": "HUYỆN HƯƠNG TRÀ",
+      "HUHU": "THÀNH PHỐ HUẾ"
+    }
+  },
+  {
+    "name": ["TGG", "TIEN GIANG_TGG"],
+    "provinces": {
+      "TGTD": "HUYỆN TÂN PHÚ ĐÔNG",
+      "TGCG": "HUYỆN CHỢ GẠO",
+      "TGGT": "HUYỆN GÒ CÔNG TÂY",
+      "TGCB": "HUYỆN CÁI BÈ",
+      "TGGD": "HUYỆN GÒ CÔNG ĐÔNG",
+      "TGCT": "HUYỆN CHÂU THÀNH",
+      "TGTP": "HUYỆN TÂN PHƯỚC",
+      "TGGC": "THỊ XÃ GÒ CÔNG",
+      "TGCL": "HUYỆN CAI LẬY",
+      "TGMT": "THÀNH PHỐ MỸ THO"
+    }
+  },
+  {
+    "name": ["TVH", "TRA VINH_TVH"],
+    "provinces": {
+      "TVTC": "HUYỆN TRÀ CÚ",
+      "TVDH": "HUYỆN DUYÊN HẢI",
+      "TVCK": "HUYỆN CẦU KÈ",
+      "TVCL": "HUYỆN CÀNG LONG",
+      "TVCT": "HUYỆN CHÂU THÀNH",
+      "TVCG": "HUYỆN CẦU NGANG",
+      "TVTV": "THỊ XÃ TRÀ VINH",
+      "TVTN": "HUYỆN TIỂU CẦN"
+    }
+  },
+  {
+    "name": ["TQG", "TUYEN QUANG_TQG"],
+    "provinces": {
+      "TQTQ": "THỊ XÃ TUYÊN QUANG",
+      "TQYS": "HUYỆN YÊN SƠN",
+      "TQSD": "HUYỆN SƠN DƯƠNG",
+      "TQCH": "HUYỆN CHIÊM HÓA",
+      "TQNH": "HUYỆN NÀ HANG",
+      "TQLB": "HUYỆN LÂM BÌNH",
+      "TQHY": "HUYỆN HÀM YÊN"
+    }
+  },
+  {
+    "name": ["VLG", "VINH LONG_VLG"],
+    "provinces": {
+      "VLBM": "HUYỆN BÌNH MINH",
+      "VLLH": "HUYỆN LONG HỒ",
+      "VLBT": "HUYỆN BÌNH TÂN",
+      "VLVM": "HUYỆN VŨNG LIÊM",
+      "VLTB": "HUYỆN TAM BÌNH",
+      "VLVL": "THÀNH PHỐ VĨNH LONG",
+      "VLTO": "HUYỆN TRÀ ÔN",
+      "VLMT": "HUYỆN MANG THÍT"
+    }
+  },
+  {
+    "name": ["VPC", "VINH PHUC_VPC"],
+    "provinces": {
+      "VPYL": "HUYÊN YÊN LẠC",
+      "VPTG": "HUYỆN TAM DƯƠNG",
+      "VPBX": "HUYỆN BÌNH XUYÊN",
+      "VPSL": "HUYỆN SÔNG LÔ",
+      "VPPY": "THỊ XÃ PHÚC YÊN",
+      "VPVY": "THÀNH PHỐ VĨNH YÊN",
+      "VPTD": "HUỴÊN TAM ĐẢO",
+      "VPVT": "HUYỆN VĨNH TƯỜNG",
+      "VPLT": "HUYỆN LẬP THẠCH"
+    }
+  },
+  {
+    "name": ["YBN", "YEN BAI_YBN"],
+    "provinces": {
+      "YBVC": "HUYỆN VĂN CHẤN",
+      "YBVY": "HUYỆN VĂN YÊN",
+      "YBYH": "HUYỆN YÊN BÌNH",
+      "YBTT": "HUYỆN TRẠM TẤU",
+      "YBLY": "HUYỆN LỤC YÊN",
+      "YBNL": "THỊ XÃ NGHĨA LỘ",
+      "YBMC": "HUYỆN MÙ CĂNG CHẢI",
+      "YBTY": "HUYỆN TRẤN YÊN",
+      "YBYB": "THÀNH PHỐ YÊN BÁI"
+    }
+  }
+]
