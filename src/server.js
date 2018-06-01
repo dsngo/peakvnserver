@@ -2,9 +2,8 @@ import express from 'express';
 import MgConfig from './controllers/MgConfig';
 import { customCORS } from './controllers/headerController';
 import routePeakvn from './routes/routePeakvn';
-// import peakvnController from './controllers/peakvnController';
-import { ProductModel } from './models/Peakvn';
-const products = require('../productList.json');
+
+// import seedDB from './seed';
 
 const PORT = process.env.PORT || 3000;
 const IP = process.env.IP || '0.0.0.0';
@@ -15,11 +14,8 @@ const app = express();
 MgConfig.mgConnect();
 app.use(customCORS);
 
+// seedDB();
 // USE ROUTES
-// peakvnController.clearDB()
-// console.log(products[0])
-// products.map(e => ProductModel.create(e));
-
 app.use('/peak-vn/ecsite', routePeakvn);
 
 app.get('/', (rq, rs) =>
