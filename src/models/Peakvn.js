@@ -13,6 +13,7 @@ const ProductSchema = new mongoose.Schema({
   location: String,
   productImg: [],
   productSize: [],
+  productVnd: String,
 });
 const ProductModel = mongoose.model('Product', ProductSchema);
 
