@@ -13,10 +13,12 @@ const LOG = () =>
 
 const app = express();
 MgConfig.mgConnect();
+app.use(customCORS);
+
 // USE ROUTES
 // peakvnController.clearDB()
 // console.log(products[0])
-products.map(e => ProductModel.create(e));
+// products.map(e => ProductModel.create(e));
 
 app.use('/peak-vn/ecsite', routePeakvn);
 
