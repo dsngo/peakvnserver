@@ -1,6 +1,6 @@
 const { join } = require('path');
 const webpack = require('webpack');
-const nodeExternals = require("webpack-node-externals");
+const nodeExternals = require('webpack-node-externals');
 
 // PATH configurations
 const PATH = {
@@ -8,7 +8,6 @@ const PATH = {
   src: join(__dirname, 'src'),
   root: join(__dirname, ''),
 };
-const developmentPort = 8080;
 
 module.exports = (env = {}) => {
   const extensions = ['.js', '.jsx', '.css', '.scss', '.json'];
@@ -19,9 +18,9 @@ module.exports = (env = {}) => {
     entry: {
       index: './src/server',
     },
-    mode: 'production',
+    mode: env.production ? 'production' : 'development',
     stats: 'normal',
-    watch: false,
+    watch: !env.production,
     output: {
       path: PATH.dist,
       filename: '[name].js',

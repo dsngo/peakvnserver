@@ -1,4 +1,5 @@
 import fetch from 'node-fetch';
+import fs from 'fs';
 import { parseString } from 'xml2js';
 import {
   ProductModel,
@@ -254,6 +255,24 @@ export default class PeakvnController {
         ),
       );
   }
+  static async backupData(req, res) {
+    try {
+      const fetchedSurvey = await SurveyModel.find({});
+      if (!fetchedSurvey) return;
+      const stream = fs.createWriteStream(`backups/backups-${Date.now()}`) //because set output in webpack equals root
+      stream.once("open", function(){
+        fetchedSurvey.forEach(e=> stream.write(JSON.stringify(e)+"\n"))
+        stream.end()
+        stream.on('finish', () => res.send('ok'))
+      })
+    } catch (e) {
+      res.status(500).send({
+        code: -1,
+        data: e.message,
+      });
+    }
+
+  }
   static async getAllSurvey(req, res) {
     try {
       const fetchedSurvey = await SurveyModel.find({});
@@ -270,7 +289,7 @@ export default class PeakvnController {
   }
   static async addNewSurvey(req, res) {
     try {
-      await SurveyModel.create({answer: req.body});
+      await SurveyModel.create({ answer: req.body });
       res.status(200).send({
         code: 0,
         message: 'Cảm ơn bạn đã tham gia khảo sát',

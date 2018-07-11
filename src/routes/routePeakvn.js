@@ -46,7 +46,7 @@ routePeakvn
   .route('/survey-submit')
   .get(PeakvnController.getAllSurvey)
   .post(jsonParser, PeakvnController.addNewSurvey);
-
+routePeakvn.get("/backup-survey", PeakvnController.backupData)
 // CLEAR PRODUCTLIST
 routePeakvn.route('/clear-product-list/clear').get(PeakvnController.clearDB)
 export default routePeakvn;
